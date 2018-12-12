@@ -1,0 +1,2 @@
+missiles.bin -控制显示放技能
+states.bin - 怪被击中后的颜色效果，比如被冰住

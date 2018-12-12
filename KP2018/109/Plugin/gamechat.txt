@@ -1,0 +1,2890 @@
+2009/05/13 17.50.58:	------------------------------------------------------
+2009/05/13 17.50.58:	Diablo2 Chat Log Hack, Logging started...
+2009/05/13 17.50.58:	Entering Game ArchMage@(*77) Gdsfg()@CNBN-CNC
+2009/05/13 17.51.02:	http://www.china-diablo.com
+2009/05/13 17.51.02:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 17.51.03:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 17.51.03:	Use !:help for all available commands and help information
+2009/05/13 17.52.52:	Leaving Game ArchMage@(*77) Gdsfg()@CNBN-CNC
+2009/05/13 17.53.15:	Entering Game ArchMage@(*77) Q01()@CNBN-CNC
+2009/05/13 17.53.18:	http://www.china-diablo.com
+2009/05/13 17.53.18:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 17.53.19:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 17.53.19:	Use !:help for all available commands and help information
+2009/05/13 17.54.59:	Leaving Game ArchMage@(*77) Q01()@CNBN-CNC
+2009/05/13 17.55.10:	Entering Game ArchMage@(*77) Q02()@CNBN-CNC
+2009/05/13 17.55.12:	http://www.china-diablo.com
+2009/05/13 17.55.12:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 17.55.13:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 17.55.13:	Use !:help for all available commands and help information
+2009/05/13 17.56.59:	Leaving Game ArchMage@(*77) Q02()@CNBN-CNC
+2009/05/13 17.57.02:	Entering Game ArchMage@(*77) Q03()@CNBN-CNC
+2009/05/13 17.57.04:	http://www.china-diablo.com
+2009/05/13 17.57.04:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 17.57.05:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 17.57.05:	Use !:help for all available commands and help information
+2009/05/13 17.57.12:	Leaving Game ArchMage@(*77) Q03()@CNBN-CNC
+2009/05/13 18.49.15:	------------------------------------------------------
+2009/05/13 18.49.15:	Diablo2 Chat Log Hack, Logging started...
+2009/05/13 18.49.15:	Entering Game ArchMage@(*77) Q01()@CNBN-CNC
+2009/05/13 18.49.19:	http://www.china-diablo.com
+2009/05/13 18.49.19:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 18.49.22:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 18.49.22:	Use !:help for all available commands and help information
+2009/05/13 18.50.24:	Leaving Game ArchMage@(*77) Q01()@CNBN-CNC
+2009/05/13 18.50.27:	Entering Game ArchMage@(*77) Q02()@CNBN-CNC
+2009/05/13 18.50.29:	http://www.china-diablo.com
+2009/05/13 18.50.29:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 18.50.30:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 18.50.30:	Use !:help for all available commands and help information
+2009/05/13 18.51.37:	Leaving Game ArchMage@(*77) Q02()@CNBN-CNC
+2009/05/13 18.51.39:	Entering Game ArchMage@(*77) Q03()@CNBN-CNC
+2009/05/13 18.51.42:	http://www.china-diablo.com
+2009/05/13 18.51.42:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 18.51.43:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 18.51.43:	Use !:help for all available commands and help information
+2009/05/13 18.53.07:	Leaving Game ArchMage@(*77) Q03()@CNBN-CNC
+2009/05/13 18.53.09:	Entering Game ArchMage@(*77) Q04()@CNBN-CNC
+2009/05/13 18.53.11:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 18.53.12:	http://www.china-diablo.com
+2009/05/13 18.53.12:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 18.53.12:	Use !:help for all available commands and help information
+2009/05/13 18.54.20:	Leaving Game ArchMage@(*77) Q04()@CNBN-CNC
+2009/05/13 18.54.22:	Entering Game ArchMage@(*77) Q05()@CNBN-CNC
+2009/05/13 18.54.24:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 18.54.24:	http://www.china-diablo.com
+2009/05/13 18.54.25:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 18.54.25:	Use !:help for all available commands and help information
+2009/05/13 18.55.39:	Leaving Game ArchMage@(*77) Q05()@CNBN-CNC
+2009/05/13 18.55.42:	Entering Game ArchMage@(*77) Q06()@CNBN-CNC
+2009/05/13 18.55.43:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 18.55.44:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 18.55.44:	Use !:help for all available commands and help information
+2009/05/13 18.55.45:	http://www.china-diablo.com
+2009/05/13 19.01.22:	Leaving Game ArchMage@(*77) Q06()@CNBN-CNC
+2009/05/13 19.01.26:	Entering Game ArchMage@(*77) Q07()@CNBN-CNC
+2009/05/13 19.01.28:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.01.29:	http://www.china-diablo.com
+2009/05/13 19.01.29:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.01.29:	Use !:help for all available commands and help information
+2009/05/13 19.02.54:	Leaving Game ArchMage@(*77) Q07()@CNBN-CNC
+2009/05/13 19.03.06:	Entering Game ArchMage@(*77) Q08()@CNBN-CNC
+2009/05/13 19.03.08:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.03.09:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.03.09:	Use !:help for all available commands and help information
+2009/05/13 19.03.09:	http://www.china-diablo.com
+2009/05/13 19.04.17:	Leaving Game ArchMage@(*77) Q08()@CNBN-CNC
+2009/05/13 19.04.20:	Entering Game ArchMage@(*77) Q09()@CNBN-CNC
+2009/05/13 19.04.22:	http://www.china-diablo.com
+2009/05/13 19.04.22:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.04.23:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.04.23:	Use !:help for all available commands and help information
+2009/05/13 19.05.50:	Leaving Game ArchMage@(*77) Q09()@CNBN-CNC
+2009/05/13 19.05.53:	Entering Game ArchMage@(*77) Q10()@CNBN-CNC
+2009/05/13 19.05.55:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.05.56:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.05.56:	Use !:help for all available commands and help information
+2009/05/13 19.05.56:	http://www.china-diablo.com
+2009/05/13 19.07.24:	Leaving Game ArchMage@(*77) Q10()@CNBN-CNC
+2009/05/13 19.07.26:	Entering Game ArchMage@(*77) Q11()@CNBN-CNC
+2009/05/13 19.07.28:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.07.29:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.07.29:	Use !:help for all available commands and help information
+2009/05/13 19.07.29:	http://www.china-diablo.com
+2009/05/13 19.09.05:	Leaving Game ArchMage@(*77) Q11()@CNBN-CNC
+2009/05/13 19.09.07:	Entering Game ArchMage@(*77) Q12()@CNBN-CNC
+2009/05/13 19.09.09:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.09.10:	http://www.china-diablo.com
+2009/05/13 19.09.10:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.09.10:	Use !:help for all available commands and help information
+2009/05/13 19.10.18:	Leaving Game ArchMage@(*77) Q12()@CNBN-CNC
+2009/05/13 19.10.20:	Entering Game ArchMage@(*77) Q13()@CNBN-CNC
+2009/05/13 19.10.22:	http://www.china-diablo.com
+2009/05/13 19.10.22:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.10.23:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.10.23:	Use !:help for all available commands and help information
+2009/05/13 19.11.32:	Leaving Game ArchMage@(*77) Q13()@CNBN-CNC
+2009/05/13 19.11.34:	Entering Game ArchMage@(*77) Q14()@CNBN-CNC
+2009/05/13 19.11.36:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.11.36:	http://www.china-diablo.com
+2009/05/13 19.11.37:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.11.37:	Use !:help for all available commands and help information
+2009/05/13 19.12.58:	Leaving Game ArchMage@(*77) Q14()@CNBN-CNC
+2009/05/13 19.13.00:	Entering Game ArchMage@(*77) Q15()@CNBN-CNC
+2009/05/13 19.13.03:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.13.03:	http://www.china-diablo.com
+2009/05/13 19.13.03:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.13.03:	Use !:help for all available commands and help information
+2009/05/13 19.13.12:	<BattleNet>: That user is not logged on.
+2009/05/13 19.13.15:	<BattleNet>: That user is not logged on.
+2009/05/13 19.13.19:	<BattleNet>: That user is not logged on.
+2009/05/13 19.13.24:	<BattleNet>: That user is not logged on.
+2009/05/13 19.13.28:	<BattleNet>: That user is not logged on.
+2009/05/13 19.13.38:	<BattleNet>: That user does not exist.
+2009/05/13 19.13.50:	<BattleNet>: That user does not exist.
+2009/05/13 19.14.54:	Leaving Game ArchMage@(*77) Q15()@CNBN-CNC
+2009/05/13 19.14.56:	Entering Game ArchMage@(*77) Q16()@CNBN-CNC
+2009/05/13 19.14.58:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.14.59:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.14.59:	Use !:help for all available commands and help information
+2009/05/13 19.14.59:	http://www.china-diablo.com
+2009/05/13 19.16.22:	Leaving Game ArchMage@(*77) Q16()@CNBN-CNC
+2009/05/13 19.16.25:	Entering Game ArchMage@(*77) Q17()@CNBN-CNC
+2009/05/13 19.16.27:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.16.28:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.16.28:	Use !:help for all available commands and help information
+2009/05/13 19.16.28:	http://www.china-diablo.com
+2009/05/13 19.17.46:	Leaving Game ArchMage@(*77) Q17()@CNBN-CNC
+2009/05/13 19.17.49:	Entering Game ArchMage@(*77) Q18()@CNBN-CNC
+2009/05/13 19.17.51:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.17.52:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.17.52:	Use !:help for all available commands and help information
+2009/05/13 19.17.52:	http://www.china-diablo.com
+2009/05/13 19.18.47:	Leaving Game ArchMage@(*77) Q18()@CNBN-CNC
+2009/05/13 19.18.50:	Entering Game ArchMage@(*77) Q19()@CNBN-CNC
+2009/05/13 19.18.52:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.18.53:	http://www.china-diablo.com
+2009/05/13 19.18.53:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.18.53:	Use !:help for all available commands and help information
+2009/05/13 19.19.36:	<Hackmap>: Life below chicken threshold,Exit game.
+2009/05/13 19.19.38:	Leaving Game ArchMage@(*77) Q19()@CNBN-CNC
+2009/05/13 19.19.51:	Entering Game ArchMage@(*77) Q19()@CNBN-CNC
+2009/05/13 19.19.53:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.19.53:	http://www.china-diablo.com
+2009/05/13 19.19.54:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.19.54:	Use !:help for all available commands and help information
+2009/05/13 19.20.58:	Leaving Game ArchMage@(*77) Q19()@CNBN-CNC
+2009/05/13 19.21.31:	Entering Game ArchMage@(*77) Q20()@CNBN-CNC
+2009/05/13 19.21.33:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.21.34:	http://www.china-diablo.com
+2009/05/13 19.21.37:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.21.37:	Use !:help for all available commands and help information
+2009/05/13 19.22.26:	OnlyRiLaoM(MJ-1) joined our world. Diablo's minions grow stronger.
+2009/05/13 19.22.50:	OnlyRiLaoM: lai kan kan ni !hehe
+2009/05/13 19.22.57:	ArchMage: hehe
+2009/05/13 19.23.02:	ArchMage: sm ye bu chu
+2009/05/13 19.23.12:	OnlyRiLaoM: ni zen m mei zai home wan
+2009/05/13 19.23.22:	ArchMage: mei 
+2009/05/13 19.23.34:	ArchMage: lao ka
+2009/05/13 19.23.37:	OnlyRiLaoM: o
+2009/05/13 19.23.44:	OnlyRiLaoM: drop hao di
+2009/05/13 19.23.45:	ArchMage: jing chang tiao ping dao 3000+
+2009/05/13 19.23.48:	ArchMage: en
+2009/05/13 19.23.50:	OnlyRiLaoM: km dang kp le
+2009/05/13 19.23.52:	ArchMage: wo mf ye bu gao
+2009/05/13 19.24.12:	ArchMage: ni 277 de mf
+2009/05/13 19.24.25:	OnlyRiLaoM: 400+
+2009/05/13 19.24.28:	OnlyRiLaoM: ka 
+2009/05/13 19.24.31:	ArchMage: 424
+2009/05/13 19.24.36:	OnlyRiLaoM: dai fa shi quan le
+2009/05/13 19.24.48:	ArchMage: 424mf ye bu di le
+2009/05/13 19.24.49:	OnlyRiLaoM: 200..ping hai xing
+2009/05/13 19.24.57:	ArchMage: wo cai 89 mf
+2009/05/13 19.25.12:	OnlyRiLaoM: wo zuo tian 8 xiao shi chu le ge soj
+2009/05/13 19.25.20:	ArchMage: ....
+2009/05/13 19.25.32:	OnlyRiLaoM: mf le 8 xiao shi
+2009/05/13 19.25.38:	ArchMage: jiu chu ge da dun, 28 de
+2009/05/13 19.25.47:	OnlyRiLaoM: ni you ama mei
+2009/05/13 19.25.53:	ArchMage: you 
+2009/05/13 19.26.02:	OnlyRiLaoM: song ni dian dd
+2009/05/13 19.26.08:	ArchMage: ama de
+2009/05/13 19.26.15:	OnlyRiLaoM: ds
+2009/05/13 19.26.27:	OnlyRiLaoM: wo you wmj maoyan
+2009/05/13 19.26.29:	OnlyRiLaoM: hehe
+2009/05/13 19.26.31:	ArchMage: o
+2009/05/13 19.26.38:	OnlyRiLaoM: wo shi aliou
+2009/05/13 19.26.41:	ArchMage: 220ed shi jp
+2009/05/13 19.26.46:	OnlyRiLaoM: ni shi yuan zhuang 77 ba
+2009/05/13 19.26.51:	OnlyRiLaoM: en
+2009/05/13 19.26.55:	ArchMage: o,aliou....
+2009/05/13 19.27.03:	ArchMage: shi 
+2009/05/13 19.27.05:	OnlyRiLaoM: hehe
+2009/05/13 19.27.10:	ArchMage: bu shi GFC de na ge.
+2009/05/13 19.27.15:	OnlyRiLaoM: shi a
+2009/05/13 19.27.21:	OnlyRiLaoM: dao na dou shi
+2009/05/13 19.27.30:	ArchMage: yong yuan de 77
+2009/05/13 19.27.32:	OnlyRiLaoM: zhi dao
+2009/05/13 19.27.51:	ArchMage: wo dao xia dd
+2009/05/13 19.27.54:	OnlyRiLaoM: ok
+2009/05/13 19.28.02:	Leaving Game ArchMage@(*77) Q20()@CNBN-CNC
+2009/05/13 19.28.22:	Entering Game Naga@(*77c) Q20()@CNBN-CNC
+2009/05/13 19.28.25:	http://www.china-diablo.com
+2009/05/13 19.28.25:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.28.26:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.28.26:	Use !:help for all available commands and help information
+2009/05/13 19.29.13:	OnlyRiLaoM: ni de sor mf ye tai di le 
+2009/05/13 19.29.13:	Naga: ds, pg
+2009/05/13 19.29.16:	OnlyRiLaoM: hehe
+2009/05/13 19.29.21:	Naga: en
+2009/05/13 19.29.46:	OnlyRiLaoM: wo chi fan le
+2009/05/13 19.29.50:	OnlyRiLaoM: yi hui zai lai
+2009/05/13 19.29.53:	Leaving Game Naga@(*77c) Q20()@CNBN-CNC
+2009/05/13 19.30.10:	Entering Game BladeMaster@(*77a) Q20()@CNBN-CNC
+2009/05/13 19.30.13:	http://www.china-diablo.com
+2009/05/13 19.30.13:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.30.17:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.30.17:	Use !:help for all available commands and help information
+2009/05/13 19.30.34:	Leaving Game BladeMaster@(*77a) Q20()@CNBN-CNC
+2009/05/13 19.54.04:	------------------------------------------------------
+2009/05/13 19.54.04:	Diablo2 Chat Log Hack, Logging started...
+2009/05/13 19.54.04:	Entering Game ArchMage@(*77) Dfsdf()@CNBN-CNC
+2009/05/13 19.54.07:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.54.07:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.54.07:	Use !:help for all available commands and help information
+2009/05/13 19.54.07:	http://www.china-diablo.com
+2009/05/13 19.54.14:	ArchMage: zhe me kuai jiu chi wan le
+2009/05/13 19.54.16:	OnlyRiLaoM: gan sha
+2009/05/13 19.54.19:	OnlyRiLaoM: en
+2009/05/13 19.54.39:	ArchMage: chu ge dp hao qu kc
+2009/05/13 19.54.46:	OnlyRiLaoM: tt kc a
+2009/05/13 19.54.48:	ArchMage: km
+2009/05/13 19.54.52:	OnlyRiLaoM: dp tai man
+2009/05/13 19.54.56:	ArchMage: bu na tt
+2009/05/13 19.55.02:	ArchMage: km qu
+2009/05/13 19.55.07:	Leaving Game ArchMage@(*77) Dfsdf()@CNBN-CNC
+2009/05/13 19.55.17:	Entering Game ArchMage@(*77) Q01()@CNBN-CNC
+2009/05/13 19.55.19:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.55.20:	http://www.china-diablo.com
+2009/05/13 19.55.20:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.55.20:	Use !:help for all available commands and help information
+2009/05/13 19.56.31:	Leaving Game ArchMage@(*77) Q01()@CNBN-CNC
+2009/05/13 19.56.35:	Entering Game ArchMage@(*77) Q02()@CNBN-CNC
+2009/05/13 19.56.37:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.56.37:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.56.37:	Use !:help for all available commands and help information
+2009/05/13 19.56.38:	http://www.china-diablo.com
+2009/05/13 19.57.41:	Leaving Game ArchMage@(*77) Q02()@CNBN-CNC
+2009/05/13 19.57.46:	Entering Game ArchMage@(*77) Q03()@CNBN-CNC
+2009/05/13 19.57.48:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.57.48:	http://www.china-diablo.com
+2009/05/13 19.57.49:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.57.49:	Use !:help for all available commands and help information
+2009/05/13 19.58.48:	Leaving Game ArchMage@(*77) Q03()@CNBN-CNC
+2009/05/13 19.58.55:	Entering Game ArchMage@(*77) Q1()@CNBN-CNC
+2009/05/13 19.58.57:	http://www.china-diablo.com
+2009/05/13 19.58.57:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 19.58.58:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 19.58.58:	Use !:help for all available commands and help information
+2009/05/13 20.00.11:	Leaving Game ArchMage@(*77) Q1()@CNBN-CNC
+2009/05/13 20.07.40:	Entering Game ArchMage@(*77) Q01()@CNBN-CNC
+2009/05/13 20.07.42:	http://www.china-diablo.com
+2009/05/13 20.07.42:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.07.43:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.07.43:	Use !:help for all available commands and help information
+2009/05/13 20.08.25:	<BattleNet>: MJ-1 is logged on from account #00000000, and is currently in game "Dsfdfs".
+2009/05/13 20.08.45:	<BattleNet>: That user is not logged on.
+2009/05/13 20.08.54:	Leaving Game ArchMage@(*77) Q01()@CNBN-CNC
+2009/05/13 20.08.56:	Entering Game ArchMage@(*77) Q02()@CNBN-CNC
+2009/05/13 20.08.59:	http://www.china-diablo.com
+2009/05/13 20.08.59:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.09.02:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.09.02:	Use !:help for all available commands and help information
+2009/05/13 20.10.18:	Leaving Game ArchMage@(*77) Q02()@CNBN-CNC
+2009/05/13 20.10.21:	Entering Game ArchMage@(*77) Q03()@CNBN-CNC
+2009/05/13 20.10.22:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.10.23:	http://www.china-diablo.com
+2009/05/13 20.10.23:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.10.23:	Use !:help for all available commands and help information
+2009/05/13 20.11.45:	Leaving Game ArchMage@(*77) Q03()@CNBN-CNC
+2009/05/13 20.11.48:	Entering Game ArchMage@(*77) Q04()@CNBN-CNC
+2009/05/13 20.11.50:	http://www.china-diablo.com
+2009/05/13 20.11.50:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.11.51:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.11.51:	Use !:help for all available commands and help information
+2009/05/13 20.13.33:	Leaving Game ArchMage@(*77) Q04()@CNBN-CNC
+2009/05/13 20.13.36:	Entering Game ArchMage@(*77) Q05()@CNBN-CNC
+2009/05/13 20.13.39:	http://www.china-diablo.com
+2009/05/13 20.13.39:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.13.39:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.13.39:	Use !:help for all available commands and help information
+2009/05/13 20.14.56:	Leaving Game ArchMage@(*77) Q05()@CNBN-CNC
+2009/05/13 20.14.59:	Entering Game ArchMage@(*77) Q06()@CNBN-CNC
+2009/05/13 20.15.01:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.15.02:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.15.02:	Use !:help for all available commands and help information
+2009/05/13 20.15.02:	http://www.china-diablo.com
+2009/05/13 20.16.34:	Leaving Game ArchMage@(*77) Q06()@CNBN-CNC
+2009/05/13 20.16.37:	Entering Game ArchMage@(*77) Q07()@CNBN-CNC
+2009/05/13 20.16.39:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.16.39:	http://www.china-diablo.com
+2009/05/13 20.16.40:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.16.40:	Use !:help for all available commands and help information
+2009/05/13 20.18.04:	Leaving Game ArchMage@(*77) Q07()@CNBN-CNC
+2009/05/13 20.18.08:	Entering Game ArchMage@(*77) Q08()@CNBN-CNC
+2009/05/13 20.18.10:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.18.12:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.18.12:	Use !:help for all available commands and help information
+2009/05/13 20.18.12:	http://www.china-diablo.com
+2009/05/13 20.19.34:	Leaving Game ArchMage@(*77) Q08()@CNBN-CNC
+2009/05/13 20.19.59:	Entering Game ArchMage@(*77) Q09()@CNBN-CNC
+2009/05/13 20.20.01:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.20.02:	http://www.china-diablo.com
+2009/05/13 20.20.02:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.20.02:	Use !:help for all available commands and help information
+2009/05/13 20.21.47:	Leaving Game ArchMage@(*77) Q09()@CNBN-CNC
+2009/05/13 20.21.49:	Entering Game ArchMage@(*77) Q10()@CNBN-CNC
+2009/05/13 20.21.52:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.21.53:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.21.53:	Use !:help for all available commands and help information
+2009/05/13 20.21.53:	http://www.china-diablo.com
+2009/05/13 20.23.27:	Leaving Game ArchMage@(*77) Q10()@CNBN-CNC
+2009/05/13 20.23.29:	Entering Game ArchMage@(*77) Q11()@CNBN-CNC
+2009/05/13 20.23.31:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.23.32:	http://www.china-diablo.com
+2009/05/13 20.23.33:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.23.33:	Use !:help for all available commands and help information
+2009/05/13 20.23.47:	<BattleNet>: There are currently 172 users online, in 85 games and 9 channels.
+2009/05/13 20.24.54:	Leaving Game ArchMage@(*77) Q11()@CNBN-CNC
+2009/05/13 20.25.01:	Entering Game ArchMage@(*77) Q12()@CNBN-CNC
+2009/05/13 20.25.04:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.25.04:	http://www.china-diablo.com
+2009/05/13 20.25.04:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.25.04:	Use !:help for all available commands and help information
+2009/05/13 20.25.45:	Leaving Game ArchMage@(*77) Q12()@CNBN-CNC
+2009/05/13 20.25.54:	Entering Game ArchMage@(*77) Q13()@CNBN-CNC
+2009/05/13 20.25.59:	http://www.china-diablo.com
+2009/05/13 20.25.59:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.26.00:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.26.00:	Use !:help for all available commands and help information
+2009/05/13 20.26.27:	<Hackmap>: Life below chicken threshold,Exit game.
+2009/05/13 20.26.27:	Leaving Game ArchMage@(*77) Q13()@CNBN-CNC
+2009/05/13 20.26.43:	Entering Game ArchMage@(*77) Q12()@CNBN-CNC
+2009/05/13 20.26.47:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.26.49:	http://www.china-diablo.com
+2009/05/13 20.26.49:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.26.49:	Use !:help for all available commands and help information
+2009/05/13 20.28.12:	Leaving Game ArchMage@(*77) Q12()@CNBN-CNC
+2009/05/13 20.28.28:	Entering Game ArchMage@(*77) Q13()@CNBN-CNC
+2009/05/13 20.28.30:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.28.31:	http://www.china-diablo.com
+2009/05/13 20.28.31:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.28.31:	Use !:help for all available commands and help information
+2009/05/13 20.29.38:	Leaving Game ArchMage@(*77) Q13()@CNBN-CNC
+2009/05/13 20.29.41:	Entering Game ArchMage@(*77) Q14()@CNBN-CNC
+2009/05/13 20.29.44:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.29.44:	http://www.china-diablo.com
+2009/05/13 20.29.44:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.29.44:	Use !:help for all available commands and help information
+2009/05/13 20.30.54:	Leaving Game ArchMage@(*77) Q14()@CNBN-CNC
+2009/05/13 20.30.57:	Entering Game ArchMage@(*77) Q15()@CNBN-CNC
+2009/05/13 20.31.00:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.31.00:	http://www.china-diablo.com
+2009/05/13 20.31.00:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.31.00:	Use !:help for all available commands and help information
+2009/05/13 20.32.12:	Leaving Game ArchMage@(*77) Q15()@CNBN-CNC
+2009/05/13 20.32.19:	Entering Game ArchMage@(*77) Dfsfd()@CNBN-CNC
+2009/05/13 20.32.21:	http://www.china-diablo.com
+2009/05/13 20.32.21:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.32.22:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.32.22:	Use !:help for all available commands and help information
+2009/05/13 20.32.32:	ArchMage: you mei you duo yu de mf zhuang bei
+2009/05/13 20.32.54:	OnlyRiLaoM: you he ali88
+2009/05/13 20.33.13:	ArchMage: reng ge gei wo
+2009/05/13 20.33.14:	OnlyRiLaoM: ka a..107 fcr mf le
+2009/05/13 20.33.21:	OnlyRiLaoM: n=007
+2009/05/13 20.33.23:	OnlyRiLaoM(MJ-1) left our world. Diablo's minions weaken.
+2009/05/13 20.33.29:	Leaving Game ArchMage@(*77) Dfsfd()@CNBN-CNC
+2009/05/13 20.33.36:	Entering Game ArchMage@(*77) 007()@CNBN-CNC
+2009/05/13 20.33.39:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.33.40:	http://www.china-diablo.com
+2009/05/13 20.33.40:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.33.40:	Use !:help for all available commands and help information
+2009/05/13 20.33.47:	mj-khsor: =
+2009/05/13 20.33.49:	mj-khsor(MJ-1) left our world. Diablo's minions weaken.
+2009/05/13 20.34.02:	mjkmsor(MJ-1) joined our world. Diablo's minions grow stronger.
+2009/05/13 20.34.50:	mjkmsor(MJ-1) left our world. Diablo's minions weaken.
+2009/05/13 20.34.52:	------------------------------------------------------
+2009/05/13 20.34.52:	Diablo2 Chat Log Hack, Logging started...
+2009/05/13 20.34.52:	Entering Game BladeMaster@(*77a) 007()@CNBN-CNC
+2009/05/13 20.34.54:	BladeMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/13 20.34.57:	http://www.china-diablo.com
+2009/05/13 20.34.57:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.34.57:	Use !:help for all available commands and help information
+2009/05/13 20.34.59:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.35.00:	OnlyKniuniu(MJ-1) joined our world. Diablo's minions grow stronger.
+2009/05/13 20.35.00:	OnlyKniuniu(MJ-1) joined our world. Diablo's minions grow stronger.
+2009/05/13 20.35.29:	Leaving Game BladeMaster@(*77a) 007()@CNBN-CNC
+2009/05/13 20.35.29:	BladeMaster dropped due to timeout.
+2009/05/13 20.35.45:	OnlyKniuniu: pg ye jian le
+2009/05/13 20.35.49:	Entering Game Naga@(*77c) 007()@CNBN-CNC
+2009/05/13 20.35.50:	OnlyKniuniu: tai hao wan le
+2009/05/13 20.35.50:	Naga(77C) joined our world. Diablo's minions grow stronger.
+2009/05/13 20.35.53:	OnlyKniuniu: hehe
+2009/05/13 20.35.54:	http://www.china-diablo.com
+2009/05/13 20.35.54:	OnlyKniuniu: hehe
+2009/05/13 20.35.54:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.35.54:	Use !:help for all available commands and help information
+2009/05/13 20.35.55:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.36.11:	ArchMage: hehe
+2009/05/13 20.36.11:	ArchMage: hehe
+2009/05/13 20.36.28:	OnlyKniuniu: kc
+2009/05/13 20.36.28:	OnlyKniuniu: kc
+2009/05/13 20.36.28:	Leaving Game Naga@(*77c) 007()@CNBN-CNC
+2009/05/13 20.36.28:	Naga(77C) left our world. Diablo's minions weaken.
+2009/05/13 20.36.40:	ArchMage: wo k bu dong
+2009/05/13 20.36.49:	OnlyKniuniu: wo ye bu k
+2009/05/13 20.36.51:	OnlyKniuniu: mf qu
+2009/05/13 20.36.56:	ArchMage: ok
+2009/05/13 20.36.57:	OnlyKniuniu(MJ-1) left our world. Diablo's minions weaken.
+2009/05/13 20.36.57:	ArchMage: mf
+2009/05/13 20.37.03:	Leaving Game ArchMage@(*77) 007()@CNBN-CNC
+2009/05/13 20.37.10:	Entering Game ArchMage@(*77) Q001()@CNBN-CNC
+2009/05/13 20.37.12:	http://www.china-diablo.com
+2009/05/13 20.37.12:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.37.13:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.37.13:	Use !:help for all available commands and help information
+2009/05/13 20.39.04:	Leaving Game ArchMage@(*77) Q001()@CNBN-CNC
+2009/05/13 20.39.09:	Entering Game ArchMage@(*77) Q002()@CNBN-CNC
+2009/05/13 20.39.12:	http://www.china-diablo.com
+2009/05/13 20.39.12:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.39.13:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.39.13:	Use !:help for all available commands and help information
+2009/05/13 20.39.41:	OnlyRiLaoM(MJ-1) joined our world. Diablo's minions grow stronger.
+2009/05/13 20.39.48:	OnlyRiLaoM: ni ka bu
+2009/05/13 20.39.57:	ArchMage: jing chang 1000+
+2009/05/13 20.40.17:	<BattleNet>: There are currently 174 users online, in 81 games and 9 channels.
+2009/05/13 20.40.21:	OnlyRiLaoM: ni yong huang pg jia ma
+2009/05/13 20.40.24:	ArchMage: 174 ge ren zai xian
+2009/05/13 20.40.34:	OnlyRiLaoM: yong xian gei ni yong
+2009/05/13 20.40.40:	ArchMage: ni u duo yu de
+2009/05/13 20.40.51:	OnlyRiLaoM: wo ka chuan hsp mf
+2009/05/13 20.40.56:	OnlyRiLaoM: 107 fcr
+2009/05/13 20.41.04:	OnlyRiLaoM: 300+ mf zhi
+2009/05/13 20.41.05:	ArchMage: wo ye chuan hsp
+2009/05/13 20.41.26:	OnlyRiLaoM: ji xu
+2009/05/13 20.41.28:	OnlyRiLaoM(MJ-1) left our world. Diablo's minions weaken.
+2009/05/13 20.42.00:	Leaving Game ArchMage@(*77) Q002()@CNBN-CNC
+2009/05/13 20.42.04:	Entering Game ArchMage@(*77) Q003()@CNBN-CNC
+2009/05/13 20.42.07:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.42.07:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.42.07:	Use !:help for all available commands and help information
+2009/05/13 20.42.08:	http://www.china-diablo.com
+2009/05/13 20.44.19:	Leaving Game ArchMage@(*77) Q003()@CNBN-CNC
+2009/05/13 20.44.55:	Entering Game ArchMage@(*77) Q004()@CNBN-CNC
+2009/05/13 20.44.58:	http://www.china-diablo.com
+2009/05/13 20.44.58:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.44.59:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.44.59:	Use !:help for all available commands and help information
+2009/05/13 20.46.22:	Leaving Game ArchMage@(*77) Q004()@CNBN-CNC
+2009/05/13 20.46.24:	Entering Game ArchMage@(*77) Q005()@CNBN-CNC
+2009/05/13 20.46.27:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.46.27:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.46.27:	Use !:help for all available commands and help information
+2009/05/13 20.46.27:	http://www.china-diablo.com
+2009/05/13 20.48.03:	Leaving Game ArchMage@(*77) Q005()@CNBN-CNC
+2009/05/13 20.49.00:	Entering Game ArchMage@(*77) Q006()@CNBN-CNC
+2009/05/13 20.49.06:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/13 20.49.07:	http://www.china-diablo.com
+2009/05/13 20.49.18:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/13 20.49.18:	Use !:help for all available commands and help information
+2009/05/13 20.49.30:	Leaving Game ArchMage@(*77) Q006()@CNBN-CNC
+2009/05/13 20.56.08:	Entering Game ArchMage@(*77) Q007()@CNBN-CNC
+2009/05/13 20.56.19:	Leaving Game ArchMage@(*77) Q007()@CNBN-CNC
+2009/05/14 05.59.43:	------------------------------------------------------
+2009/05/14 05.59.43:	Diablo2 Chat Log Hack, Logging started...
+2009/05/14 05.59.43:	Entering Game ArchMage@(*77) Q01()@CNBN-CNC
+2009/05/14 05.59.46:	http://www.china-diablo.com
+2009/05/14 05.59.47:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 05.59.53:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 05.59.53:	Use !:help for all available commands and help information
+2009/05/14 06.01.01:	Leaving Game ArchMage@(*77) Q01()@CNBN-CNC
+2009/05/14 06.01.07:	Entering Game ArchMage@(*77) Q02()@CNBN-CNC
+2009/05/14 06.01.09:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.01.10:	http://www.china-diablo.com
+2009/05/14 06.01.18:	<BattleNet>: That user is not logged on.
+2009/05/14 06.01.26:	Sent to HUTU_MF (*xnjdydw): a
+2009/05/14 06.01.27:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.01.27:	Use !:help for all available commands and help information
+2009/05/14 06.01.52:	From HUTU_MF (*xnjdydw): >>
+2009/05/14 06.02.40:	Leaving Game ArchMage@(*77) Q02()@CNBN-CNC
+2009/05/14 06.02.42:	Entering Game ArchMage@(*77) Q03()@CNBN-CNC
+2009/05/14 06.02.44:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.02.44:	http://www.china-diablo.com
+2009/05/14 06.02.45:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.02.45:	Use !:help for all available commands and help information
+2009/05/14 06.03.29:	kipi(KIPI) joined our world. Diablo's minions grow stronger.
+2009/05/14 06.03.43:	kipi: hao a
+2009/05/14 06.03.47:	ArchMage: hao a
+2009/05/14 06.03.50:	kipi: ~ ~!
+2009/05/14 06.03.59:	kipi: wo men qu shua niu qu ba
+2009/05/14 06.04.02:	ArchMage: km sm ye bu chu
+2009/05/14 06.04.14:	kipi: en ..
+2009/05/14 06.04.18:	kipi: ni qu na tui
+2009/05/14 06.04.21:	ArchMage: wo sha bu dong niu a
+2009/05/14 06.04.23:	kipi: wo men shua niu
+2009/05/14 06.04.29:	kipi: ni shi shen me fa
+2009/05/14 06.04.40:	ArchMage: mf de sor
+2009/05/14 06.05.13:	kipi: shen me ji neng
+2009/05/14 06.05.27:	ArchMage: firewall
+2009/05/14 06.05.49:	------------------------------------------------------
+2009/05/14 06.05.49:	Diablo2 Chat Log Hack, Logging started...
+2009/05/14 06.05.49:	Entering Game Naga@(*77c) Q03()@CNBN-CNC
+2009/05/14 06.05.50:	Naga(77C) joined our world. Diablo's minions grow stronger.
+2009/05/14 06.05.52:	http://www.china-diablo.com
+2009/05/14 06.05.52:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.05.53:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.05.53:	Use !:help for all available commands and help information
+2009/05/14 06.06.08:	------------------------------------------------------
+2009/05/14 06.06.08:	Diablo2 Chat Log Hack, Logging started...
+2009/05/14 06.06.08:	Entering Game BladeMaster@(*77a) Q03()@CNBN-CNC
+2009/05/14 06.06.09:	BladeMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/14 06.06.09:	BladeMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/14 06.06.13:	Leaving Game ArchMage@(*77) Q03()@CNBN-CNC
+2009/05/14 06.06.14:	http://www.china-diablo.com
+2009/05/14 06.06.14:	ArchMage(77) left our world. Diablo's minions weaken.
+2009/05/14 06.06.14:	ArchMage(77) left our world. Diablo's minions weaken.
+2009/05/14 06.06.14:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.06.14:	Use !:help for all available commands and help information
+2009/05/14 06.06.17:	Entering Game ArchMage@(*77) Q04()@CNBN-CNC
+2009/05/14 06.06.18:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.06.20:	http://www.china-diablo.com
+2009/05/14 06.06.34:	Naga: wo ky gen zhe ni kc
+2009/05/14 06.06.34:	Naga: wo ky gen zhe ni kc
+2009/05/14 06.06.38:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.06.39:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.06.39:	Use !:help for all available commands and help information
+2009/05/14 06.08.58:	Leaving Game ArchMage@(*77) Q04()@CNBN-CNC
+2009/05/14 06.09.00:	Entering Game ArchMage@(*77) Q05()@CNBN-CNC
+2009/05/14 06.09.02:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.09.03:	http://www.china-diablo.com
+2009/05/14 06.09.03:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.09.03:	Use !:help for all available commands and help information
+2009/05/14 06.09.11:	kipi: 3
+2009/05/14 06.09.11:	kipi: 3
+2009/05/14 06.09.12:	kipi: 3
+2009/05/14 06.09.12:	kipi: 3
+2009/05/14 06.09.23:	kipi: 3
+2009/05/14 06.09.23:	kipi: 3
+2009/05/14 06.11.01:	Leaving Game ArchMage@(*77) Q05()@CNBN-CNC
+2009/05/14 06.11.24:	Entering Game ArchMage@(*77) Q06()@CNBN-CNC
+2009/05/14 06.11.26:	http://www.china-diablo.com
+2009/05/14 06.11.26:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.11.27:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.11.27:	Use !:help for all available commands and help information
+2009/05/14 06.13.35:	Leaving Game ArchMage@(*77) Q06()@CNBN-CNC
+2009/05/14 06.14.18:	Entering Game ArchMage@(*77) Q07()@CNBN-CNC
+2009/05/14 06.14.20:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.14.20:	http://www.china-diablo.com
+2009/05/14 06.14.21:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.14.21:	Use !:help for all available commands and help information
+2009/05/14 06.15.33:	Leaving Game ArchMage@(*77) Q07()@CNBN-CNC
+2009/05/14 06.16.23:	Entering Game ArchMage@(*77) Q08()@CNBN-CNC
+2009/05/14 06.16.25:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.16.25:	http://www.china-diablo.com
+2009/05/14 06.16.26:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.16.26:	Use !:help for all available commands and help information
+2009/05/14 06.16.29:	<BattleNet>: There are currently 39 users online, in 21 games and 10 channels.
+2009/05/14 06.17.54:	Leaving Game ArchMage@(*77) Q08()@CNBN-CNC
+2009/05/14 06.17.57:	Entering Game ArchMage@(*77) Q09()@CNBN-CNC
+2009/05/14 06.18.02:	http://www.china-diablo.com
+2009/05/14 06.18.21:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.18.23:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.18.23:	Use !:help for all available commands and help information
+2009/05/14 06.20.02:	Leaving Game ArchMage@(*77) Q09()@CNBN-CNC
+2009/05/14 06.20.05:	Entering Game ArchMage@(*77) Q10()@CNBN-CNC
+2009/05/14 06.20.06:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.20.07:	http://www.china-diablo.com
+2009/05/14 06.20.08:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.20.08:	Use !:help for all available commands and help information
+2009/05/14 06.21.43:	Leaving Game ArchMage@(*77) Q10()@CNBN-CNC
+2009/05/14 06.21.45:	Entering Game ArchMage@(*77) Q11()@CNBN-CNC
+2009/05/14 06.21.47:	http://www.china-diablo.com
+2009/05/14 06.21.47:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.21.49:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.21.49:	Use !:help for all available commands and help information
+2009/05/14 06.22.52:	Naga: ok le
+2009/05/14 06.22.52:	Naga: ok le
+2009/05/14 06.23.05:	kipi: a... you jing yan me ni
+2009/05/14 06.23.05:	kipi: a... you jing yan me ni
+2009/05/14 06.23.16:	Leaving Game ArchMage@(*77) Q11()@CNBN-CNC
+2009/05/14 06.23.21:	Entering Game ArchMage@(*77) Q12()@CNBN-CNC
+2009/05/14 06.23.27:	http://www.china-diablo.com
+2009/05/14 06.23.32:	kipi: sheng ji le me
+2009/05/14 06.23.32:	kipi: sheng ji le me
+2009/05/14 06.23.39:	Naga: sheng le 4 ji
+2009/05/14 06.23.39:	Naga: sheng le 4 ji
+2009/05/14 06.23.43:	kipi: :)
+2009/05/14 06.23.43:	kipi: :)
+2009/05/14 06.23.51:	Naga: bu cuo a
+2009/05/14 06.23.51:	Naga: bu cuo a
+2009/05/14 06.24.17:	BladeMaster: ji xu 
+2009/05/14 06.24.17:	BladeMaster: ji xu 
+2009/05/14 06.24.39:	kipi: ni shen me AMA
+2009/05/14 06.24.39:	kipi: ni shen me AMA
+2009/05/14 06.24.47:	BladeMaster: bow ama
+2009/05/14 06.24.47:	BladeMaster: bow ama
+2009/05/14 06.25.01:	kipi: you bow me
+2009/05/14 06.25.01:	kipi: you bow me
+2009/05/14 06.25.09:	BladeMaster: mei.....
+2009/05/14 06.25.09:	BladeMaster: mei.....
+2009/05/14 06.25.15:	kipi: DP you me
+2009/05/14 06.25.15:	kipi: DP you me
+2009/05/14 06.25.21:	BladeMaster: mei...
+2009/05/14 06.25.21:	BladeMaster: mei...
+2009/05/14 06.25.22:	kipi: WF ne
+2009/05/14 06.25.22:	kipi: WF ne
+2009/05/14 06.25.44:	Naga: xian zai guang pp
+2009/05/14 06.25.44:	Naga: xian zai guang pp
+2009/05/14 06.26.07:	kipi: mei DP mei WF  bow AMA jiu laji...
+2009/05/14 06.26.07:	kipi: mei DP mei WF  bow AMA jiu laji...
+2009/05/14 06.26.30:	BladeMaster: mei ban fa ..mf bu chu dd
+2009/05/14 06.26.30:	BladeMaster: mei ban fa ..mf bu chu dd
+2009/05/14 06.26.31:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.26.32:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.26.32:	Use !:help for all available commands and help information
+2009/05/14 06.26.33:	kipi: TT AMA..
+2009/05/14 06.26.33:	kipi: TT AMA..
+2009/05/14 06.26.48:	kipi: wo zai  MF...
+2009/05/14 06.26.48:	kipi: wo zai  MF...
+2009/05/14 06.26.58:	Naga: hehe
+2009/05/14 06.26.58:	Naga: hehe
+2009/05/14 06.27.06:	Naga: ni de ama ye shi mf zhuang bei a
+2009/05/14 06.27.06:	Naga: ni de ama ye shi mf zhuang bei a
+2009/05/14 06.27.15:	kipi: en..
+2009/05/14 06.27.15:	kipi: en..
+2009/05/14 06.27.31:	kipi: N=KIPI
+2009/05/14 06.27.31:	kipi: N=KIPI
+2009/05/14 06.27.33:	kipi(KIPI) left our world. Diablo's minions weaken.
+2009/05/14 06.27.33:	kipi(KIPI) left our world. Diablo's minions weaken.
+2009/05/14 06.27.49:	Naga(77C) left our world. Diablo's minions weaken.
+2009/05/14 06.27.52:	Leaving Game Naga@(*77c) Q03()@CNBN-CNC
+2009/05/14 06.27.53:	Leaving Game BladeMaster@(*77a) Q03()@CNBN-CNC
+2009/05/14 06.28.03:	Entering Game Naga@(*77c) Kipi()@CNBN-CNC
+2009/05/14 06.28.07:	http://www.china-diablo.com
+2009/05/14 06.28.07:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.28.07:	Use !:help for all available commands and help information
+2009/05/14 06.28.16:	Entering Game BladeMaster@(*77a) Kipi()@CNBN-CNC
+2009/05/14 06.28.17:	BladeMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/14 06.28.19:	http://www.china-diablo.com
+2009/05/14 06.28.19:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.28.19:	Use !:help for all available commands and help information
+2009/05/14 06.28.22:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.28.24:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.28.52:	Leaving Game ArchMage@(*77) Q12()@CNBN-CNC
+2009/05/14 06.30.25:	Entering Game ArchMage@(*77) Q13()@CNBN-CNC
+2009/05/14 06.30.27:	http://www.china-diablo.com
+2009/05/14 06.30.27:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.30.28:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.30.28:	Use !:help for all available commands and help information
+2009/05/14 06.32.06:	Leaving Game ArchMage@(*77) Q13()@CNBN-CNC
+2009/05/14 06.32.10:	Entering Game ArchMage@(*77) Q14()@CNBN-CNC
+2009/05/14 06.32.14:	http://www.china-diablo.com
+2009/05/14 06.32.14:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.32.15:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.32.15:	Use !:help for all available commands and help information
+2009/05/14 06.33.21:	kipi: ...
+2009/05/14 06.33.21:	kipi: ...
+2009/05/14 06.33.30:	kipi: wo men de tie jiang ne
+2009/05/14 06.33.30:	kipi: wo men de tie jiang ne
+2009/05/14 06.34.10:	Leaving Game ArchMage@(*77) Q14()@CNBN-CNC
+2009/05/14 06.34.13:	Entering Game ArchMage@(*77) Q15()@CNBN-CNC
+2009/05/14 06.34.15:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.34.16:	http://www.china-diablo.com
+2009/05/14 06.34.17:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.34.17:	Use !:help for all available commands and help information
+2009/05/14 06.35.18:	kipi: 3
+2009/05/14 06.35.18:	kipi: 3
+2009/05/14 06.35.18:	kipi: 3
+2009/05/14 06.35.18:	kipi: 3
+2009/05/14 06.35.19:	kipi: 3
+2009/05/14 06.35.19:	kipi: 3
+2009/05/14 06.35.20:	kipi: 333
+2009/05/14 06.35.20:	kipi: 333
+2009/05/14 06.35.36:	kipi: 3
+2009/05/14 06.35.36:	kipi: 3
+2009/05/14 06.36.11:	Leaving Game ArchMage@(*77) Q15()@CNBN-CNC
+2009/05/14 06.36.13:	Entering Game ArchMage@(*77) Q16()@CNBN-CNC
+2009/05/14 06.36.17:	http://www.china-diablo.com
+2009/05/14 06.36.17:	kipi: 3
+2009/05/14 06.36.17:	kipi: 3
+2009/05/14 06.37.24:	kipi: xiexie
+2009/05/14 06.37.24:	kipi: xiexie
+2009/05/14 06.37.30:	BladeMaster: hehe
+2009/05/14 06.37.30:	BladeMaster: hehe
+2009/05/14 06.37.32:	BladeMaster: yin gai de
+2009/05/14 06.37.32:	BladeMaster: yin gai de
+2009/05/14 06.37.35:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.37.37:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.37.37:	Use !:help for all available commands and help information
+2009/05/14 06.39.07:	Leaving Game ArchMage@(*77) Q16()@CNBN-CNC
+2009/05/14 06.39.28:	Entering Game ArchMage@(*77) Q17()@CNBN-CNC
+2009/05/14 06.39.30:	http://www.china-diablo.com
+2009/05/14 06.39.30:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.39.31:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.39.31:	Use !:help for all available commands and help information
+2009/05/14 06.40.37:	Leaving Game ArchMage@(*77) Q17()@CNBN-CNC
+2009/05/14 06.40.39:	Entering Game ArchMage@(*77) Q18()@CNBN-CNC
+2009/05/14 06.40.44:	http://www.china-diablo.com
+2009/05/14 06.41.02:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.41.03:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.41.03:	Use !:help for all available commands and help information
+2009/05/14 06.42.20:	Leaving Game ArchMage@(*77) Q18()@CNBN-CNC
+2009/05/14 06.42.31:	Entering Game ArchMage@(*77) Kipi()@CNBN-CNC
+2009/05/14 06.42.32:	ArchMage(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 06.42.32:	ArchMage(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 06.42.33:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.42.34:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.42.34:	Use !:help for all available commands and help information
+2009/05/14 06.42.34:	http://www.china-diablo.com
+2009/05/14 06.42.45:	ArchMage: wo chu le ge wm yao dai ni yao me
+2009/05/14 06.42.45:	ArchMage: wo chu le ge wm yao dai ni yao me
+2009/05/14 06.42.45:	ArchMage: wo chu le ge wm yao dai ni yao me
+2009/05/14 06.42.57:	kipi: WM
+2009/05/14 06.42.57:	kipi: WM
+2009/05/14 06.42.57:	kipi: WM
+2009/05/14 06.43.00:	kipi: shi shen me
+2009/05/14 06.43.00:	kipi: shi shen me
+2009/05/14 06.43.00:	kipi: shi shen me
+2009/05/14 06.43.03:	ArchMage: wu mian
+2009/05/14 06.43.03:	ArchMage: wu mian
+2009/05/14 06.43.03:	ArchMage: wu mian
+2009/05/14 06.43.27:	kipi: wo kan kan
+2009/05/14 06.43.27:	kipi: wo kan kan
+2009/05/14 06.43.27:	kipi: wo kan kan
+2009/05/14 06.44.04:	kipi: shen me zuo yong ya
+2009/05/14 06.44.04:	kipi: shen me zuo yong ya
+2009/05/14 06.44.04:	kipi: shen me zuo yong ya
+2009/05/14 06.44.18:	Naga: tou sheng ming
+2009/05/14 06.44.18:	Naga: tou sheng ming
+2009/05/14 06.44.18:	Naga: tou sheng ming
+2009/05/14 06.44.27:	kipi: xie xie
+2009/05/14 06.44.27:	kipi: xie xie
+2009/05/14 06.44.27:	kipi: xie xie
+2009/05/14 06.45.28:	Leaving Game ArchMage@(*77) Kipi()@CNBN-CNC
+2009/05/14 06.45.28:	ArchMage(77) left our world. Diablo's minions weaken.
+2009/05/14 06.45.28:	ArchMage(77) left our world. Diablo's minions weaken.
+2009/05/14 06.45.34:	Entering Game ArchMage@(*77) Q01()@CNBN-CNC
+2009/05/14 06.45.36:	http://www.china-diablo.com
+2009/05/14 06.45.36:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.45.37:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.45.37:	Use !:help for all available commands and help information
+2009/05/14 06.46.33:	Leaving Game ArchMage@(*77) Q01()@CNBN-CNC
+2009/05/14 06.46.36:	Entering Game ArchMage@(*77) Q02()@CNBN-CNC
+2009/05/14 06.46.41:	http://www.china-diablo.com
+2009/05/14 06.47.37:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.47.39:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.47.39:	Use !:help for all available commands and help information
+2009/05/14 06.49.00:	Leaving Game ArchMage@(*77) Q02()@CNBN-CNC
+2009/05/14 06.49.02:	Entering Game ArchMage@(*77) Q03()@CNBN-CNC
+2009/05/14 06.49.07:	http://www.china-diablo.com
+2009/05/14 06.49.07:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.49.08:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.49.08:	Use !:help for all available commands and help information
+2009/05/14 06.50.13:	BladeMaster: xiao xin
+2009/05/14 06.50.13:	BladeMaster: xiao xin
+2009/05/14 06.50.23:	kipi: dian mian
+2009/05/14 06.50.23:	kipi: dian mian
+2009/05/14 06.50.32:	BladeMaster: dai shang wo gei ni de yao dai jiu neng xi xue le
+2009/05/14 06.50.32:	BladeMaster: dai shang wo gei ni de yao dai jiu neng xi xue le
+2009/05/14 06.50.58:	kipi: wo yong de shi chuan ci yao dai
+2009/05/14 06.50.58:	kipi: wo yong de shi chuan ci yao dai
+2009/05/14 06.51.08:	BladeMaster: o
+2009/05/14 06.51.08:	BladeMaster: o
+2009/05/14 06.51.32:	BladeMaster: yong dp de hua, bu yong yao chuan ci yao dai.
+2009/05/14 06.51.32:	BladeMaster: yong dp de hua, bu yong yao chuan ci yao dai.
+2009/05/14 06.51.50:	kipi: 2 ge chuan ci hui die jia me
+2009/05/14 06.51.50:	kipi: 2 ge chuan ci hui die jia me
+2009/05/14 06.52.30:	Leaving Game ArchMage@(*77) Q03()@CNBN-CNC
+2009/05/14 06.52.32:	Entering Game ArchMage@(*77) Q04()@CNBN-CNC
+2009/05/14 06.52.34:	http://www.china-diablo.com
+2009/05/14 06.52.35:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 06.52.35:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 06.52.35:	Use !:help for all available commands and help information
+2009/05/14 06.53.31:	Naga: dp jiu shi 100�huan ci le
+2009/05/14 06.53.31:	Naga: dp jiu shi 100�huan ci le
+2009/05/14 06.53.42:	Naga: mei bi yao zai yong chuan ci yao dai
+2009/05/14 06.53.42:	Naga: mei bi yao zai yong chuan ci yao dai
+2009/05/14 06.54.39:	kipi: si le
+2009/05/14 06.54.39:	kipi: si le
+2009/05/14 06.54.52:	Leaving Game ArchMage@(*77) Q04()@CNBN-CNC
+2009/05/14 06.54.53:	kipi: wu li mian yi dian mian yi 
+2009/05/14 06.54.53:	kipi: wu li mian yi dian mian yi 
+2009/05/14 06.54.55:	Entering Game ArchMage@(*77) Q05()@CNBN-CNC
+2009/05/14 06.54.59:	http://www.china-diablo.com
+2009/05/14 06.57.32:	kipi: mei le
+2009/05/14 06.57.32:	kipi: mei le
+2009/05/14 06.57.53:	Naga: wo gang cai kan jian you ren lai le
+2009/05/14 06.57.53:	Naga: wo gang cai kan jian you ren lai le
+2009/05/14 06.57.54:	kipi: niu mei you le
+2009/05/14 06.57.54:	kipi: niu mei you le
+2009/05/14 06.58.08:	kipi: sheng le duo shao ji
+2009/05/14 06.58.08:	kipi: sheng le duo shao ji
+2009/05/14 06.58.17:	Naga: 4 ji
+2009/05/14 06.58.17:	Naga: 4 ji
+2009/05/14 06.58.28:	kipi: MF zhuang mei you gong jili
+2009/05/14 06.58.28:	kipi: MF zhuang mei you gong jili
+2009/05/14 06.59.30:	BladeMaster(77A) left our world. Diablo's minions weaken.
+2009/05/14 06.59.33:	Leaving Game BladeMaster@(*77a) Kipi()@CNBN-CNC
+2009/05/14 06.59.36:	Naga: ds de dd
+2009/05/14 06.59.39:	Naga: ni na qu ba
+2009/05/14 06.59.43:	Naga: ye shi bie ren gei wo de
+2009/05/14 07.00.24:	kipi: sheng xie de DD ni na qi lai
+2009/05/14 07.00.34:	kipi: ni de biao qiang wo gei BBle
+2009/05/14 07.00.35:	Naga: zhe xie bu yao le
+2009/05/14 07.00.47:	kipi: wo ye mei yong a
+2009/05/14 07.00.50:	Naga: ji xu sha biu
+2009/05/14 07.00.53:	kipi: hai ji xu shua me
+2009/05/14 07.00.56:	Naga: na jiu reng le ba
+2009/05/14 07.01.05:	kipi: wo qu zheng li xia wu pin
+2009/05/14 07.01.11:	Naga: ok
+2009/05/14 07.01.14:	Leaving Game Naga@(*77c) Kipi()@CNBN-CNC
+2009/05/14 07.01.22:	Entering Game BladeMaster@(*77a) H2()@CNBN-CNC
+2009/05/14 07.01.26:	Entering Game Naga@(*77c) Kipi()@CNBN-CNC
+2009/05/14 07.01.27:	http://www.china-diablo.com
+2009/05/14 07.01.27:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.01.27:	Use !:help for all available commands and help information
+2009/05/14 07.01.30:	http://www.china-diablo.com
+2009/05/14 07.01.30:	Leaving Game Naga@(*77c) Kipi()@CNBN-CNC
+2009/05/14 07.01.30:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.01.35:	Entering Game Naga@(*77c) H2()@CNBN-CNC
+2009/05/14 07.01.36:	Naga(77C) joined our world. Diablo's minions grow stronger.
+2009/05/14 07.01.37:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.01.38:	http://www.china-diablo.com
+2009/05/14 07.01.38:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.01.38:	Use !:help for all available commands and help information
+2009/05/14 07.01.57:	BladeMaster: 123
+2009/05/14 07.01.57:	BladeMaster: 123
+2009/05/14 07.01.59:	HC-Sor: 3
+2009/05/14 07.01.59:	HC-Sor: 3
+2009/05/14 07.02.34:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.02.35:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.02.35:	Use !:help for all available commands and help information
+2009/05/14 07.04.33:	HC-Sor: bo
+2009/05/14 07.04.33:	HC-Sor: bo
+2009/05/14 07.04.34:	zkx-hcamaI(ingtian2) left our world. Diablo's minions weaken.
+2009/05/14 07.04.34:	zkx-hcamaI(ingtian2) left our world. Diablo's minions weaken.
+2009/05/14 07.04.38:	zkx-hcamaI(ingtian2) joined our world. Diablo's minions grow stronger.
+2009/05/14 07.04.38:	zkx-hcamaI(ingtian2) joined our world. Diablo's minions grow stronger.
+2009/05/14 07.04.42:	Leaving Game ArchMage@(*77) Q05()@CNBN-CNC
+2009/05/14 07.04.44:	HC-Sor: bo
+2009/05/14 07.04.44:	HC-Sor: bo
+2009/05/14 07.05.28:	Entering Game ArchMage@(*77) Q06()@CNBN-CNC
+2009/05/14 07.05.30:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.05.31:	http://www.china-diablo.com
+2009/05/14 07.05.31:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.05.31:	Use !:help for all available commands and help information
+2009/05/14 07.06.22:	HC-Sor: wo qu da bian
+2009/05/14 07.06.22:	HC-Sor: wo qu da bian
+2009/05/14 07.06.24:	HC-Sor(jr) left our world. Diablo's minions weaken.
+2009/05/14 07.06.24:	HC-Sor(jr) left our world. Diablo's minions weaken.
+2009/05/14 07.06.35:	Leaving Game ArchMage@(*77) Q06()@CNBN-CNC
+2009/05/14 07.06.37:	Entering Game ArchMage@(*77) Q07()@CNBN-CNC
+2009/05/14 07.06.42:	http://www.china-diablo.com
+2009/05/14 07.07.00:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.07.02:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.07.02:	Use !:help for all available commands and help information
+2009/05/14 07.08.16:	zkx-hcamaI(ingtian2) left our world. Diablo's minions weaken.
+2009/05/14 07.08.16:	zkx-hcamaI(ingtian2) left our world. Diablo's minions weaken.
+2009/05/14 07.08.27:	zkx-hcsorIIII(ingtian3) left our world. Diablo's minions weaken.
+2009/05/14 07.08.27:	zkx-hcsorIIII(ingtian3) left our world. Diablo's minions weaken.
+2009/05/14 07.08.29:	Leaving Game ArchMage@(*77) Q07()@CNBN-CNC
+2009/05/14 07.08.34:	Entering Game ArchMage@(*77) Q08()@CNBN-CNC
+2009/05/14 07.08.35:	zkx-hcsorI(ingtian1) left our world. Diablo's minions weaken.
+2009/05/14 07.08.35:	zkx-hcsorI(ingtian1) left our world. Diablo's minions weaken.
+2009/05/14 07.08.36:	Leaving Game Naga@(*77c) H2()@CNBN-CNC
+2009/05/14 07.08.36:	Naga(77C) left our world. Diablo's minions weaken.
+2009/05/14 07.08.37:	Leaving Game BladeMaster@(*77a) H2()@CNBN-CNC
+2009/05/14 07.08.37:	http://www.china-diablo.com
+2009/05/14 07.08.39:	Entering Game Naga@(*77c) H3()@CNBN-CNC
+2009/05/14 07.08.41:	Entering Game BladeMaster@(*77a) H3()@CNBN-CNC
+2009/05/14 07.08.43:	http://www.china-diablo.com
+2009/05/14 07.08.43:	BladeMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/14 07.08.43:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.08.43:	Use !:help for all available commands and help information
+2009/05/14 07.08.43:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.08.45:	zkx-hcbarIII(xqingtian) joined our world. Diablo's minions grow stronger.
+2009/05/14 07.08.46:	http://www.china-diablo.com
+2009/05/14 07.08.46:	zkx-hcbarIII(xqingtian) joined our world. Diablo's minions grow stronger.
+2009/05/14 07.08.46:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.08.46:	Use !:help for all available commands and help information
+2009/05/14 07.09.10:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.10.12:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.10.14:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.10.14:	Use !:help for all available commands and help information
+2009/05/14 07.11.17:	Leaving Game ArchMage@(*77) Q08()@CNBN-CNC
+2009/05/14 07.11.21:	Entering Game ArchMage@(*77) Q09()@CNBN-CNC
+2009/05/14 07.11.23:	http://www.china-diablo.com
+2009/05/14 07.13.08:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.13.10:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.13.10:	Use !:help for all available commands and help information
+2009/05/14 07.14.27:	Leaving Game ArchMage@(*77) Q09()@CNBN-CNC
+2009/05/14 07.14.29:	Entering Game ArchMage@(*77) Q10()@CNBN-CNC
+2009/05/14 07.14.34:	http://www.china-diablo.com
+2009/05/14 07.14.37:	Naga: 3
+2009/05/14 07.14.37:	Naga: 3
+2009/05/14 07.14.46:	zkx-hcamaI: 3
+2009/05/14 07.14.46:	zkx-hcamaI: 3
+2009/05/14 07.15.02:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.15.03:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.15.03:	Use !:help for all available commands and help information
+2009/05/14 07.15.37:	HC-Sor(jr) joined our world. Diablo's minions grow stronger.
+2009/05/14 07.15.37:	HC-Sor(jr) joined our world. Diablo's minions grow stronger.
+2009/05/14 07.15.55:	HC-Sor: da bian jie shu
+2009/05/14 07.15.55:	HC-Sor: da bian jie shu
+2009/05/14 07.16.16:	Leaving Game ArchMage@(*77) Q10()@CNBN-CNC
+2009/05/14 07.16.19:	Entering Game ArchMage@(*77) Q11()@CNBN-CNC
+2009/05/14 07.16.20:	http://www.china-diablo.com
+2009/05/14 07.16.20:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.16.22:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.16.22:	Use !:help for all available commands and help information
+2009/05/14 07.17.05:	HC-Sor: 3
+2009/05/14 07.17.05:	HC-Sor: 3
+2009/05/14 07.17.15:	Leaving Game ArchMage@(*77) Q11()@CNBN-CNC
+2009/05/14 07.17.17:	Entering Game ArchMage@(*77) Q12()@CNBN-CNC
+2009/05/14 07.17.20:	HC-Sor: bo xia
+2009/05/14 07.17.20:	HC-Sor: bo xia
+2009/05/14 07.17.21:	http://www.china-diablo.com
+2009/05/14 07.17.34:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.17.35:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.17.35:	Use !:help for all available commands and help information
+2009/05/14 07.19.02:	Leaving Game ArchMage@(*77) Q12()@CNBN-CNC
+2009/05/14 07.19.04:	Entering Game ArchMage@(*77) Q13()@CNBN-CNC
+2009/05/14 07.19.09:	http://www.china-diablo.com
+2009/05/14 07.19.12:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.19.14:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.19.14:	Use !:help for all available commands and help information
+2009/05/14 07.19.55:	zkx-hcamaI(ingtian2) left our world. Diablo's minions weaken.
+2009/05/14 07.19.55:	zkx-hcamaI(ingtian2) left our world. Diablo's minions weaken.
+2009/05/14 07.20.04:	zkx-hcbarIII(xqingtian) left our world. Diablo's minions weaken.
+2009/05/14 07.20.04:	zkx-hcbarIII(xqingtian) left our world. Diablo's minions weaken.
+2009/05/14 07.20.12:	zkx-hcsorI(ingtian1) left our world. Diablo's minions weaken.
+2009/05/14 07.20.12:	zkx-hcsorI(ingtian1) left our world. Diablo's minions weaken.
+2009/05/14 07.20.18:	zkx-hcsorIIII(ingtian3) left our world. Diablo's minions weaken.
+2009/05/14 07.20.18:	zkx-hcsorIIII(ingtian3) left our world. Diablo's minions weaken.
+2009/05/14 07.20.35:	Leaving Game ArchMage@(*77) Q13()@CNBN-CNC
+2009/05/14 07.20.37:	Entering Game ArchMage@(*77) Q14()@CNBN-CNC
+2009/05/14 07.20.39:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.20.40:	http://www.china-diablo.com
+2009/05/14 07.20.40:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.20.40:	Use !:help for all available commands and help information
+2009/05/14 07.21.02:	HC-Sor: n
+2009/05/14 07.21.02:	HC-Sor: n
+2009/05/14 07.21.03:	BladeMaster(77A) left our world. Diablo's minions weaken.
+2009/05/14 07.21.03:	Leaving Game BladeMaster@(*77a) H3()@CNBN-CNC
+2009/05/14 07.21.04:	HC-Sor(jr) left our world. Diablo's minions weaken.
+2009/05/14 07.21.06:	Leaving Game Naga@(*77c) H3()@CNBN-CNC
+2009/05/14 07.21.08:	Entering Game Naga@(*77c) H4()@CNBN-CNC
+2009/05/14 07.21.11:	Entering Game BladeMaster@(*77a) H4()@CNBN-CNC
+2009/05/14 07.21.13:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.21.13:	Use !:help for all available commands and help information
+2009/05/14 07.21.13:	http://www.china-diablo.com
+2009/05/14 07.21.13:	BladeMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/14 07.21.18:	http://www.china-diablo.com
+2009/05/14 07.21.18:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.21.18:	Use !:help for all available commands and help information
+2009/05/14 07.22.11:	Leaving Game ArchMage@(*77) Q14()@CNBN-CNC
+2009/05/14 07.22.13:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.22.25:	HC-Sor: 3 bo
+2009/05/14 07.22.25:	HC-Sor: 3 bo
+2009/05/14 07.22.36:	HC-Sor: bo
+2009/05/14 07.22.36:	HC-Sor: bo
+2009/05/14 07.23.10:	Entering Game ArchMage@(*77) Q15()@CNBN-CNC
+2009/05/14 07.23.12:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.23.13:	http://www.china-diablo.com
+2009/05/14 07.23.13:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.23.13:	Use !:help for all available commands and help information
+2009/05/14 07.23.41:	HC-Sor: 3
+2009/05/14 07.23.41:	HC-Sor: 3
+2009/05/14 07.23.56:	HC-Sor: 3
+2009/05/14 07.23.56:	HC-Sor: 3
+2009/05/14 07.24.02:	HC-Sor: 3
+2009/05/14 07.24.02:	HC-Sor: 3
+2009/05/14 07.24.28:	HC-Sor: bo xia
+2009/05/14 07.24.28:	HC-Sor: bo xia
+2009/05/14 07.24.38:	HC-Sor: bo xia
+2009/05/14 07.24.38:	HC-Sor: bo xia
+2009/05/14 07.24.42:	Leaving Game ArchMage@(*77) Q15()@CNBN-CNC
+2009/05/14 07.24.43:	Entering Game ArchMage@(*77) Q16()@CNBN-CNC
+2009/05/14 07.24.44:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.24.46:	http://www.china-diablo.com
+2009/05/14 07.26.04:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.26.05:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.26.05:	Use !:help for all available commands and help information
+2009/05/14 07.27.12:	Leaving Game ArchMage@(*77) Q16()@CNBN-CNC
+2009/05/14 07.27.14:	Entering Game ArchMage@(*77) Q17()@CNBN-CNC
+2009/05/14 07.27.17:	http://www.china-diablo.com
+2009/05/14 07.27.22:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.27.24:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.27.24:	Use !:help for all available commands and help information
+2009/05/14 07.27.46:	kipi(KIPI) joined our world. Diablo's minions grow stronger.
+2009/05/14 07.27.46:	kipi(KIPI) joined our world. Diablo's minions grow stronger.
+2009/05/14 07.28.02:	HC-Sor: bo
+2009/05/14 07.28.02:	HC-Sor: bo
+2009/05/14 07.28.14:	HC-Sor: bo
+2009/05/14 07.28.14:	HC-Sor: bo
+2009/05/14 07.28.23:	HC-Sor: bo
+2009/05/14 07.28.23:	HC-Sor: bo
+2009/05/14 07.28.55:	Leaving Game ArchMage@(*77) Q17()@CNBN-CNC
+2009/05/14 07.28.57:	Entering Game ArchMage@(*77) Q18()@CNBN-CNC
+2009/05/14 07.28.59:	http://www.china-diablo.com
+2009/05/14 07.28.59:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.29.00:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.29.00:	Use !:help for all available commands and help information
+2009/05/14 07.29.35:	zkx-hcamaI(ingtian2) left our world. Diablo's minions weaken.
+2009/05/14 07.29.35:	zkx-hcamaI(ingtian2) left our world. Diablo's minions weaken.
+2009/05/14 07.29.45:	zkx-hcbarIII(xqingtian) left our world. Diablo's minions weaken.
+2009/05/14 07.29.45:	zkx-hcbarIII(xqingtian) left our world. Diablo's minions weaken.
+2009/05/14 07.29.53:	zkx-hcsorI(ingtian1) left our world. Diablo's minions weaken.
+2009/05/14 07.29.53:	zkx-hcsorI(ingtian1) left our world. Diablo's minions weaken.
+2009/05/14 07.29.59:	HC-Sor(jr) left our world. Diablo's minions weaken.
+2009/05/14 07.29.59:	HC-Sor(jr) left our world. Diablo's minions weaken.
+2009/05/14 07.29.59:	zkx-hcsorIIII(ingtian3) left our world. Diablo's minions weaken.
+2009/05/14 07.29.59:	zkx-hcsorIIII(ingtian3) left our world. Diablo's minions weaken.
+2009/05/14 07.30.03:	Leaving Game ArchMage@(*77) Q18()@CNBN-CNC
+2009/05/14 07.30.06:	Entering Game ArchMage@(*77) Q19()@CNBN-CNC
+2009/05/14 07.30.11:	http://www.china-diablo.com
+2009/05/14 07.30.16:	kipi(KIPI) left our world. Diablo's minions weaken.
+2009/05/14 07.30.16:	kipi(KIPI) left our world. Diablo's minions weaken.
+2009/05/14 07.30.17:	Leaving Game Naga@(*77c) H4()@CNBN-CNC
+2009/05/14 07.30.17:	Naga(77C) left our world. Diablo's minions weaken.
+2009/05/14 07.30.20:	Entering Game Naga@(*77c) H5()@CNBN-CNC
+2009/05/14 07.30.22:	Leaving Game BladeMaster@(*77a) H4()@CNBN-CNC
+2009/05/14 07.30.24:	http://www.china-diablo.com
+2009/05/14 07.30.24:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.30.24:	Use !:help for all available commands and help information
+2009/05/14 07.30.24:	Entering Game BladeMaster@(*77a) H5()@CNBN-CNC
+2009/05/14 07.30.25:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.30.25:	BladeMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/14 07.30.32:	http://www.china-diablo.com
+2009/05/14 07.30.33:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.30.33:	Use !:help for all available commands and help information
+2009/05/14 07.30.36:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.30.50:	HC-Sor: ama 
+2009/05/14 07.30.50:	HC-Sor: ama 
+2009/05/14 07.30.51:	HC-Sor: ds
+2009/05/14 07.30.51:	HC-Sor: ds
+2009/05/14 07.31.25:	Naga: sm ddei kan jian
+2009/05/14 07.31.25:	Naga: sm ddei kan jian
+2009/05/14 07.31.34:	HC-Sor: bo
+2009/05/14 07.31.34:	HC-Sor: bo
+2009/05/14 07.31.38:	HC-Sor: 3 bo
+2009/05/14 07.31.38:	HC-Sor: 3 bo
+2009/05/14 07.31.53:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.31.54:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.31.54:	Use !:help for all available commands and help information
+2009/05/14 07.32.24:	kipi: AMA gong ji duo shao
+2009/05/14 07.32.24:	kipi: AMA gong ji duo shao
+2009/05/14 07.32.59:	Leaving Game ArchMage@(*77) Q19()@CNBN-CNC
+2009/05/14 07.33.02:	Entering Game ArchMage@(*77) Q20()@CNBN-CNC
+2009/05/14 07.33.08:	http://www.china-diablo.com
+2009/05/14 07.33.20:	HC-Sor: 3
+2009/05/14 07.33.20:	HC-Sor: 3
+2009/05/14 07.34.06:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.34.07:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.34.07:	Use !:help for all available commands and help information
+2009/05/14 07.35.14:	Leaving Game ArchMage@(*77) Q20()@CNBN-CNC
+2009/05/14 07.35.19:	Entering Game ArchMage@(*77) Q21()@CNBN-CNC
+2009/05/14 07.35.24:	http://www.china-diablo.com
+2009/05/14 07.35.27:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.35.28:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.35.28:	Use !:help for all available commands and help information
+2009/05/14 07.36.45:	Leaving Game ArchMage@(*77) Q21()@CNBN-CNC
+2009/05/14 07.36.47:	Entering Game ArchMage@(*77) Q22()@CNBN-CNC
+2009/05/14 07.36.51:	http://www.china-diablo.com
+2009/05/14 07.38.10:	BladeMaster: bo
+2009/05/14 07.38.10:	BladeMaster: bo
+2009/05/14 07.38.33:	zkx-hcamaI(ingtian2) left our world. Diablo's minions weaken.
+2009/05/14 07.38.33:	zkx-hcamaI(ingtian2) left our world. Diablo's minions weaken.
+2009/05/14 07.38.37:	HC-Sor: n
+2009/05/14 07.38.37:	HC-Sor: n
+2009/05/14 07.38.40:	BladeMaster(77A) left our world. Diablo's minions weaken.
+2009/05/14 07.38.42:	Leaving Game BladeMaster@(*77a) H5()@CNBN-CNC
+2009/05/14 07.38.42:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.38.43:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.38.43:	Use !:help for all available commands and help information
+2009/05/14 07.38.45:	Leaving Game Naga@(*77c) H5()@CNBN-CNC
+2009/05/14 07.39.30:	Entering Game Naga@(*77c) H6()@CNBN-CNC
+2009/05/14 07.39.34:	Entering Game BladeMaster@(*77a) H6()@CNBN-CNC
+2009/05/14 07.39.42:	BladeMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/14 07.39.42:	http://www.china-diablo.com
+2009/05/14 07.39.42:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.39.42:	Use !:help for all available commands and help information
+2009/05/14 07.39.45:	http://www.china-diablo.com
+2009/05/14 07.39.45:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.39.45:	Use !:help for all available commands and help information
+2009/05/14 07.39.48:	HC-Sor: ds  20 na ge
+2009/05/14 07.39.48:	HC-Sor: ds  20 na ge
+2009/05/14 07.39.50:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.39.51:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.40.14:	HC-Sor: 3 bo
+2009/05/14 07.40.14:	HC-Sor: 3 bo
+2009/05/14 07.40.38:	kipi(KIPI) joined our world. Diablo's minions grow stronger.
+2009/05/14 07.40.38:	kipi(KIPI) joined our world. Diablo's minions grow stronger.
+2009/05/14 07.40.56:	Leaving Game ArchMage@(*77) Q22()@CNBN-CNC
+2009/05/14 07.40.59:	Entering Game ArchMage@(*77) Q23()@CNBN-CNC
+2009/05/14 07.41.04:	http://www.china-diablo.com
+2009/05/14 07.41.04:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.41.06:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.41.06:	Use !:help for all available commands and help information
+2009/05/14 07.41.54:	HC-Sor: 3
+2009/05/14 07.41.54:	HC-Sor: 3
+2009/05/14 07.42.02:	kipi: ++
+2009/05/14 07.42.02:	kipi: ++
+2009/05/14 07.42.05:	kipi: + wo
+2009/05/14 07.42.05:	kipi: + wo
+2009/05/14 07.42.09:	HC-Sor: 3
+2009/05/14 07.42.09:	HC-Sor: 3
+2009/05/14 07.42.51:	Leaving Game ArchMage@(*77) Q23()@CNBN-CNC
+2009/05/14 07.42.56:	Entering Game ArchMage@(*77) Q24()@CNBN-CNC
+2009/05/14 07.42.58:	http://www.china-diablo.com
+2009/05/14 07.42.58:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.42.59:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.42.59:	Use !:help for all available commands and help information
+2009/05/14 07.42.59:	HC-Sor: xiao xin dian ,zhe ge niu chang bt niu tai duo 
+2009/05/14 07.42.59:	HC-Sor: xiao xin dian ,zhe ge niu chang bt niu tai duo 
+2009/05/14 07.44.40:	Leaving Game ArchMage@(*77) Q24()@CNBN-CNC
+2009/05/14 07.45.19:	HC-Sor: n
+2009/05/14 07.45.19:	HC-Sor: n
+2009/05/14 07.45.20:	HC-Sor(jr) left our world. Diablo's minions weaken.
+2009/05/14 07.45.20:	HC-Sor(jr) left our world. Diablo's minions weaken.
+2009/05/14 07.45.20:	zkx-hcamaI(ingtian2) left our world. Diablo's minions weaken.
+2009/05/14 07.45.20:	zkx-hcamaI(ingtian2) left our world. Diablo's minions weaken.
+2009/05/14 07.45.36:	BladeMaster(77A) left our world. Diablo's minions weaken.
+2009/05/14 07.45.37:	zkx-hcbarIII(xqingtian) left our world. Diablo's minions weaken.
+2009/05/14 07.45.37:	Leaving Game BladeMaster@(*77a) H6()@CNBN-CNC
+2009/05/14 07.45.44:	zkx-hcsorI(ingtian1) left our world. Diablo's minions weaken.
+2009/05/14 07.45.50:	zkx-hcsorIIII(ingtian3) left our world. Diablo's minions weaken.
+2009/05/14 07.46.48:	Leaving Game Naga@(*77c) H6()@CNBN-CNC
+2009/05/14 07.46.57:	Entering Game Naga@(*77c) H7()@CNBN-CNC
+2009/05/14 07.47.01:	http://www.china-diablo.com
+2009/05/14 07.47.01:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 07.47.02:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 07.47.02:	Use !:help for all available commands and help information
+2009/05/14 07.47.31:	Leaving Game Naga@(*77c) H7()@CNBN-CNC
+2009/05/14 17.52.57:	------------------------------------------------------
+2009/05/14 17.52.57:	Diablo2 Chat Log Hack, Logging started...
+2009/05/14 17.52.57:	Entering Game ArchMage@(*77) Q1()@SHENZHEN
+2009/05/14 17.53.06:	http://www.china-diablo.com
+2009/05/14 17.53.19:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 17.53.22:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 17.53.22:	Use !:help for all available commands and help information
+2009/05/14 17.57.26:	Leaving Game ArchMage@(*77) Q1()@SHENZHEN
+2009/05/14 17.57.35:	Entering Game PGRune_HC@(*77) Q2()@SHENZHEN
+2009/05/14 17.57.37:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 17.57.38:	<Hackmap>: Life below chicken threshold,Exit game.
+2009/05/14 17.57.38:	Leaving Game PGRune_HC@(*77) Q2()@SHENZHEN
+2009/05/14 17.57.44:	Entering Game PGRune_HC@(*77) Q2()@SHENZHEN
+2009/05/14 17.57.46:	http://www.china-diablo.com
+2009/05/14 17.57.46:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 17.57.47:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 17.57.47:	Use !:help for all available commands and help information
+2009/05/14 17.58.30:	Leaving Game PGRune_HC@(*77) Q2()@SHENZHEN
+2009/05/14 17.58.40:	Entering Game DeathKnight@(*77) Q1()@SHENZHEN
+2009/05/14 17.58.43:	http://www.china-diablo.com
+2009/05/14 17.58.43:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 17.58.47:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 17.58.47:	Use !:help for all available commands and help information
+2009/05/14 17.58.52:	Leaving Game DeathKnight@(*77) Q1()@SHENZHEN
+2009/05/14 18.00.48:	Entering Game Naga@(*77c) Q2()@SHENZHEN
+2009/05/14 18.00.51:	http://www.china-diablo.com
+2009/05/14 18.00.51:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 18.00.54:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 18.00.54:	Use !:help for all available commands and help information
+2009/05/14 18.02.04:	Leaving Game Naga@(*77c) Q2()@SHENZHEN
+2009/05/14 18.02.28:	Entering Game BladeMaster@(*77a) Asss()@SHENZHEN
+2009/05/14 18.02.31:	http://www.china-diablo.com
+2009/05/14 18.02.31:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 18.02.31:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 18.02.31:	Use !:help for all available commands and help information
+2009/05/14 18.05.05:	nanwu-mf(nanwuwuxin1) left our world. Diablo's minions weaken.
+2009/05/14 18.05.09:	Leaving Game BladeMaster@(*77a) Asss()@SHENZHEN
+2009/05/14 18.06.33:	Entering Game Warehouse@(*77a) Qwq()@SHENZHEN
+2009/05/14 18.06.36:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 18.06.36:	http://www.china-diablo.com
+2009/05/14 18.06.37:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 18.06.37:	Use !:help for all available commands and help information
+2009/05/14 18.06.54:	Leaving Game Warehouse@(*77a) Qwq()@SHENZHEN
+2009/05/14 18.08.17:	Entering Game ArchMage@(*77) Q1()@SHENZHEN
+2009/05/14 18.08.20:	http://www.china-diablo.com
+2009/05/14 18.08.20:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 18.08.21:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 18.08.21:	Use !:help for all available commands and help information
+2009/05/14 18.09.29:	Leaving Game ArchMage@(*77) Q1()@SHENZHEN
+2009/05/14 18.09.59:	Entering Game ArchMage@(*77) Q1()@SHENZHEN
+2009/05/14 18.10.01:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 18.10.02:	http://www.china-diablo.com
+2009/05/14 18.10.02:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 18.10.02:	Use !:help for all available commands and help information
+2009/05/14 18.10.41:	Leaving Game ArchMage@(*77) Q1()@SHENZHEN
+2009/05/14 18.10.51:	Entering Game ArchMage@(*77) Q2()@SHENZHEN
+2009/05/14 18.10.54:	http://www.china-diablo.com
+2009/05/14 18.11.18:	------------------------------------------------------
+2009/05/14 18.11.18:	Diablo2 Chat Log Hack, Logging started...
+2009/05/14 18.11.18:	Entering Game BladeMaster@(*77a) Q2()@SHENZHEN
+2009/05/14 18.11.20:	BladeMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/14 18.11.22:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 18.11.22:	Use !:help for all available commands and help information
+2009/05/14 18.11.26:	http://www.china-diablo.com
+2009/05/14 18.11.27:	------------------------------------------------------
+2009/05/14 18.11.27:	Diablo2 Chat Log Hack, Logging started...
+2009/05/14 18.11.27:	Entering Game Naga@(*77c) Qw()@SHENZHEN
+2009/05/14 18.11.29:	http://www.china-diablo.com
+2009/05/14 18.11.29:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 18.11.31:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 18.11.31:	Use !:help for all available commands and help information
+2009/05/14 18.11.38:	Leaving Game Naga@(*77c) Qw()@SHENZHEN
+2009/05/14 18.11.42:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 18.11.43:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 18.11.43:	Use !:help for all available commands and help information
+2009/05/14 18.13.57:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 18.14.03:	<Hackmap>: Config Reload Successful 
+2009/05/14 18.14.05:	<Hackmap>: Config Reload Successful 
+2009/05/14 18.14.10:	Entering Game Naga@(*77c) Q2()@SHENZHEN
+2009/05/14 18.14.13:	Naga(77C) joined our world. Diablo's minions grow stronger.
+2009/05/14 18.14.13:	Naga(77C) joined our world. Diablo's minions grow stronger.
+2009/05/14 18.14.23:	http://www.china-diablo.com
+2009/05/14 18.14.24:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 18.14.24:	Use !:help for all available commands and help information
+2009/05/14 18.18.54:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 18.19.06:	Naga dropped due to timeout.
+2009/05/14 18.19.06:	Naga dropped due to timeout.
+2009/05/14 18.19.42:	------------------------------------------------------
+2009/05/14 18.19.42:	Diablo2 Chat Log Hack, Logging started...
+2009/05/14 18.19.42:	Entering Game Naga@(*77c) Q2()@SHENZHEN
+2009/05/14 18.19.43:	Naga(77C) joined our world. Diablo's minions grow stronger.
+2009/05/14 18.19.43:	Naga(77C) joined our world. Diablo's minions grow stronger.
+2009/05/14 18.19.45:	http://www.china-diablo.com
+2009/05/14 18.19.46:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 18.19.46:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 18.19.46:	Use !:help for all available commands and help information
+2009/05/14 18.20.06:	BladeMaster dropped due to timeout.
+2009/05/14 18.20.06:	BladeMaster dropped due to timeout.
+2009/05/14 18.21.17:	------------------------------------------------------
+2009/05/14 18.21.17:	Diablo2 Chat Log Hack, Logging started...
+2009/05/14 18.21.17:	Entering Game BladeMaster@(*77a) Q2()@SHENZHEN
+2009/05/14 18.21.18:	BladeMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/14 18.21.19:	BladeMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/14 18.21.20:	http://www.china-diablo.com
+2009/05/14 18.21.20:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 18.21.21:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 18.21.21:	Use !:help for all available commands and help information
+2009/05/14 18.23.21:	------------------------------------------------------
+2009/05/14 18.23.21:	Diablo2 Chat Log Hack, Logging started...
+2009/05/14 18.23.21:	Entering Game DeathKnight@(*77) Q2()@SHENZHEN
+2009/05/14 18.23.22:	DeathKnight(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 18.23.22:	DeathKnight(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 18.23.22:	DeathKnight(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 18.23.25:	http://www.china-diablo.com
+2009/05/14 18.23.25:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 18.23.26:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 18.23.26:	Use !:help for all available commands and help information
+2009/05/14 18.33.32:	DeathKnight(77) left our world. Diablo's minions weaken.
+2009/05/14 18.33.33:	DeathKnight(77) left our world. Diablo's minions weaken.
+2009/05/14 18.33.33:	DeathKnight(77) left our world. Diablo's minions weaken.
+2009/05/14 18.33.33:	BladeMaster(77A) left our world. Diablo's minions weaken.
+2009/05/14 18.33.33:	BladeMaster(77A) left our world. Diablo's minions weaken.
+2009/05/14 18.33.48:	Naga(77C) left our world. Diablo's minions weaken.
+2009/05/14 18.33.56:	Leaving Game Naga@(*77c) Q2()@SHENZHEN
+2009/05/14 18.58.15:	------------------------------------------------------
+2009/05/14 18.58.15:	Diablo2 Chat Log Hack, Logging started...
+2009/05/14 18.58.15:	Entering Game ArchMage@(*77) Q1()@SHENZHEN
+2009/05/14 18.58.21:	http://www.china-diablo.com
+2009/05/14 18.58.51:	------------------------------------------------------
+2009/05/14 18.58.51:	Diablo2 Chat Log Hack, Logging started...
+2009/05/14 18.58.51:	Entering Game BladeMaster@(*77a) Q1()@SHENZHEN
+2009/05/14 18.58.52:	BladeMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/14 18.58.56:	http://www.china-diablo.com
+2009/05/14 18.58.56:	------------------------------------------------------
+2009/05/14 18.58.56:	Diablo2 Chat Log Hack, Logging started...
+2009/05/14 18.58.56:	Entering Game Naga@(*77c) Q1()@SHENZHEN
+2009/05/14 18.58.57:	Naga(77C) joined our world. Diablo's minions grow stronger.
+2009/05/14 18.58.57:	Naga(77C) joined our world. Diablo's minions grow stronger.
+2009/05/14 18.58.59:	http://www.china-diablo.com
+2009/05/14 18.58.59:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 18.59.00:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 18.59.00:	Use !:help for all available commands and help information
+2009/05/14 18.59.03:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 18.59.03:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 18.59.03:	Use !:help for all available commands and help information
+2009/05/14 18.59.03:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 18.59.03:	Use !:help for all available commands and help information
+2009/05/14 18.59.12:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 18.59.49:	Leaving Game ArchMage@(*77) Q1()@SHENZHEN
+2009/05/14 18.59.50:	ArchMage(77) left our world. Diablo's minions weaken.
+2009/05/14 18.59.50:	ArchMage(77) left our world. Diablo's minions weaken.
+2009/05/14 18.59.52:	Entering Game ArchMage@(*77) Q2()@SHENZHEN
+2009/05/14 18.59.55:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 18.59.55:	http://www.china-diablo.com
+2009/05/14 18.59.56:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 18.59.56:	Use !:help for all available commands and help information
+2009/05/14 19.01.13:	Leaving Game ArchMage@(*77) Q2()@SHENZHEN
+2009/05/14 19.02.53:	Entering Game ArchMage@(*77) Q3()@SHENZHEN
+2009/05/14 19.02.57:	http://www.china-diablo.com
+2009/05/14 19.02.57:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.03.15:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.03.15:	Use !:help for all available commands and help information
+2009/05/14 19.04.05:	Leaving Game ArchMage@(*77) Q3()@SHENZHEN
+2009/05/14 19.04.08:	Entering Game ArchMage@(*77) Q4()@SHENZHEN
+2009/05/14 19.04.11:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.04.11:	http://www.china-diablo.com
+2009/05/14 19.04.12:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.04.12:	Use !:help for all available commands and help information
+2009/05/14 19.04.51:	Leaving Game ArchMage@(*77) Q4()@SHENZHEN
+2009/05/14 19.04.59:	Entering Game ArchMage@(*77) Q1()@SHENZHEN
+2009/05/14 19.05.00:	ArchMage(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.05.00:	ArchMage(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.05.03:	http://www.china-diablo.com
+2009/05/14 19.05.03:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.05.04:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.05.04:	Use !:help for all available commands and help information
+2009/05/14 19.11.09:	------------------------------------------------------
+2009/05/14 19.11.09:	Diablo2 Chat Log Hack, Logging started...
+2009/05/14 19.11.09:	Entering Game DeathKnight@(*77) Q1()@SHENZHEN
+2009/05/14 19.11.11:	DeathKnight(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.11.11:	DeathKnight(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.11.11:	DeathKnight(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.11.15:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.11.15:	http://www.china-diablo.com
+2009/05/14 19.11.15:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.11.15:	Use !:help for all available commands and help information
+2009/05/14 19.13.04:	Leaving Game DeathKnight@(*77) Q1()@SHENZHEN
+2009/05/14 19.13.04:	DeathKnight(77) left our world. Diablo's minions weaken.
+2009/05/14 19.13.04:	DeathKnight(77) left our world. Diablo's minions weaken.
+2009/05/14 19.13.04:	DeathKnight(77) left our world. Diablo's minions weaken.
+2009/05/14 19.13.05:	Naga(77C) left our world. Diablo's minions weaken.
+2009/05/14 19.13.05:	Naga(77C) left our world. Diablo's minions weaken.
+2009/05/14 19.13.05:	BladeMaster(77A) left our world. Diablo's minions weaken.
+2009/05/14 19.13.15:	Leaving Game Naga@(*77c) Q1()@SHENZHEN
+2009/05/14 19.13.19:	Leaving Game ArchMage@(*77) Q1()@SHENZHEN
+2009/05/14 19.13.19:	Leaving Game BladeMaster@(*77a) Q1()@SHENZHEN
+2009/05/14 19.13.59:	Entering Game ArchMage@(*77) Q01()@SHENZHEN
+2009/05/14 19.14.07:	http://www.china-diablo.com
+2009/05/14 19.14.10:	Entering Game BladeMaster@(*77a) Q01()@SHENZHEN
+2009/05/14 19.14.12:	BladeMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.14.13:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.14.13:	Use !:help for all available commands and help information
+2009/05/14 19.14.16:	Entering Game Naga@(*77c) Q01()@SHENZHEN
+2009/05/14 19.14.16:	http://www.china-diablo.com
+2009/05/14 19.14.17:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.14.17:	Use !:help for all available commands and help information
+2009/05/14 19.14.18:	Naga(77C) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.14.18:	Naga(77C) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.14.22:	http://www.china-diablo.com
+2009/05/14 19.14.22:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.14.22:	Use !:help for all available commands and help information
+2009/05/14 19.14.23:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.14.24:	Entering Game DeathKnight@(*77) Q01()@SHENZHEN
+2009/05/14 19.14.25:	DeathKnight(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.14.25:	DeathKnight(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.14.25:	DeathKnight(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.14.28:	http://www.china-diablo.com
+2009/05/14 19.14.28:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.14.29:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.14.29:	Use !:help for all available commands and help information
+2009/05/14 19.14.55:	Leaving Game DeathKnight@(*77) Q01()@SHENZHEN
+2009/05/14 19.14.55:	DeathKnight(77) left our world. Diablo's minions weaken.
+2009/05/14 19.14.55:	DeathKnight(77) left our world. Diablo's minions weaken.
+2009/05/14 19.14.55:	DeathKnight(77) left our world. Diablo's minions weaken.
+2009/05/14 19.16.03:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.16.07:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.16.09:	HC-Sor(jr) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.16.09:	HC-Sor(jr) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.16.09:	HC-Sor(jr) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.16.33:	HC-Sor: zai gao mao mao 
+2009/05/14 19.16.33:	HC-Sor: zai gao mao mao 
+2009/05/14 19.16.33:	HC-Sor: zai gao mao mao 
+2009/05/14 19.16.40:	ArchMage: zuo ren wu
+2009/05/14 19.16.40:	ArchMage: zuo ren wu
+2009/05/14 19.16.40:	ArchMage: zuo ren wu
+2009/05/14 19.16.52:	HC-Sor: zm yang ,wo gei ni  up de hai keyi ba
+2009/05/14 19.16.52:	HC-Sor: zm yang ,wo gei ni  up de hai keyi ba
+2009/05/14 19.16.52:	HC-Sor: zm yang ,wo gei ni  up de hai keyi ba
+2009/05/14 19.17.07:	ArchMage: jiu shi ji neng jia cuo le
+2009/05/14 19.17.07:	ArchMage: jiu shi ji neng jia cuo le
+2009/05/14 19.17.07:	ArchMage: jiu shi ji neng jia cuo le
+2009/05/14 19.17.14:	HC-Sor: ....
+2009/05/14 19.17.14:	HC-Sor: ....
+2009/05/14 19.17.14:	HC-Sor: ....
+2009/05/14 19.17.24:	HC-Sor: ni  bu shi mf sor
+2009/05/14 19.17.24:	HC-Sor: ni  bu shi mf sor
+2009/05/14 19.17.24:	HC-Sor: ni  bu shi mf sor
+2009/05/14 19.17.25:	From Admin (*Admin): Announcement from Admin: qi dong xia you xi
+2009/05/14 19.17.25:	From Admin (*Admin): Announcement from Admin: qi dong xia you xi
+2009/05/14 19.17.25:	From Admin (*Admin): Announcement from Admin: qi dong xia you xi
+2009/05/14 19.17.30:	ArchMage: bu shi
+2009/05/14 19.17.30:	ArchMage: bu shi
+2009/05/14 19.17.30:	ArchMage: bu shi
+2009/05/14 19.17.33:	HC-Sor: wo kao
+2009/05/14 19.17.33:	HC-Sor: wo kao
+2009/05/14 19.17.33:	HC-Sor: wo kao
+2009/05/14 19.17.41:	ArchMage: hehe
+2009/05/14 19.17.41:	ArchMage: hehe
+2009/05/14 19.17.41:	ArchMage: hehe
+2009/05/14 19.17.44:	HC-Sor: na wo zai gei ni  up yi ge ba
+2009/05/14 19.17.44:	HC-Sor: na wo zai gei ni  up yi ge ba
+2009/05/14 19.17.44:	HC-Sor: na wo zai gei ni  up yi ge ba
+2009/05/14 19.17.57:	From Admin (*Admin): Announcement from Admin: da jia  bao  cun  tui chu , qi dong  xia  FWQ
+2009/05/14 19.17.57:	From Admin (*Admin): Announcement from Admin: da jia  bao  cun  tui chu , qi dong  xia  FWQ
+2009/05/14 19.17.57:	From Admin (*Admin): Announcement from Admin: da jia  bao  cun  tui chu , qi dong  xia  FWQ
+2009/05/14 19.18.05:	HC-Sor(jr) left our world. Diablo's minions weaken.
+2009/05/14 19.18.05:	HC-Sor(jr) left our world. Diablo's minions weaken.
+2009/05/14 19.18.05:	HC-Sor(jr) left our world. Diablo's minions weaken.
+2009/05/14 19.18.33:	Sent to HC-Sor (*jr): jia cheng mf sor, jiu ba ta dang cheng mf sor yong
+2009/05/14 19.18.58:	From HC-Sor (*jr): qi shi wo shi xiang rang ni dang wo de ren rou bot ,haha
+2009/05/14 19.19.15:	Sent to HC-Sor (*jr): xian zai ky km kp le
+2009/05/14 19.19.28:	From HC-Sor (*jr): xu yao mu xi xiao dun 
+2009/05/14 19.19.46:	Sent to HC-Sor (*jr): xu yao sm
+2009/05/14 19.20.04:	From HC-Sor (*jr): mo xi de xiao dun 
+2009/05/14 19.20.21:	ArchMage: +4r de na ge
+2009/05/14 19.20.21:	ArchMage: +4r de na ge
+2009/05/14 19.20.21:	ArchMage: +4r de na ge
+2009/05/14 19.20.37:	Sent to HC-Sor (*jr): +4r de na ge
+2009/05/14 19.21.00:	Leaving Game BladeMaster@(*77a) Q01()@SHENZHEN
+2009/05/14 19.21.03:	Leaving Game Naga@(*77c) Q01()@SHENZHEN
+2009/05/14 19.21.05:	Leaving Game ArchMage@(*77) Q01()@SHENZHEN
+2009/05/14 19.29.37:	Entering Game ArchMage@(*77) Q01()@CNBN-CNC
+2009/05/14 19.29.52:	http://www.china-diablo.com
+2009/05/14 19.29.52:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.29.55:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.29.55:	Use !:help for all available commands and help information
+2009/05/14 19.30.40:	Leaving Game ArchMage@(*77) Q01()@CNBN-CNC
+2009/05/14 19.31.36:	------------------------------------------------------
+2009/05/14 19.31.36:	Diablo2 Chat Log Hack, Logging started...
+2009/05/14 19.31.36:	Entering Game ArchMage@(*77) Kipi()@CNBN-CNC
+2009/05/14 19.31.40:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.31.40:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.31.40:	Use !:help for all available commands and help information
+2009/05/14 19.31.40:	http://www.china-diablo.com
+2009/05/14 19.32.12:	ArchMage：a4
+2009/05/14 19.32.28:	ArchMage：a5
+2009/05/14 19.32.33:	kipi：A5
+2009/05/14 19.32.42:	ArchMage：em de
+2009/05/14 19.32.49:	kipi：kipi2
+2009/05/14 19.32.51:	kipi（KIPI）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/05/14 19.33.11:	Leaving Game ArchMage@(*77) Kipi()@CNBN-CNC
+2009/05/14 19.33.16:	Entering Game ArchMage@(*77) Kipi2()@CNBN-CNC
+2009/05/14 19.33.18:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.33.19:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.33.19:	Use !:help for all available commands and help information
+2009/05/14 19.33.19:	http://www.china-diablo.com
+2009/05/14 19.33.23:	kipi：A2
+2009/05/14 19.33.44:	kipi：a4
+2009/05/14 19.33.46:	<Hackmap>: Warning !! Only 3 Townportals Left 
+2009/05/14 19.33.46:	<Hackmap>: Warning !! Only 3 Townportals Left 
+2009/05/14 19.33.55:	<Hackmap>: Warning !! Only 2 Townportals Left 
+2009/05/14 19.33.55:	<Hackmap>: Warning !! Only 2 Townportals Left 
+2009/05/14 19.33.56:	kipi：DIYU
+2009/05/14 19.33.58:	kipi：DI YU
+2009/05/14 19.34.01:	kipi（KIPI）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/05/14 19.34.01:	ArchMage：a5
+2009/05/14 19.34.09:	Leaving Game ArchMage@(*77) Kipi2()@CNBN-CNC
+2009/05/14 19.34.14:	Entering Game ArchMage@(*77) Kipi3()@CNBN-CNC
+2009/05/14 19.34.17:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.34.18:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.34.18:	Use !:help for all available commands and help information
+2009/05/14 19.34.18:	http://www.china-diablo.com
+2009/05/14 19.34.19:	kipi：A1
+2009/05/14 19.34.22:	ArchMage：dy wo mei dian
+2009/05/14 19.34.35:	ArchMage：zhi you a3 de dian
+2009/05/14 19.34.49:	kipi：xie xie
+2009/05/14 19.34.50:	binxue-mf（binxuewushi3）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/05/14 19.34.53:	binxue-mf：
+2009/05/14 19.34.53:	kipi（KIPI）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/05/14 19.34.57:	binxue-mf：yao wo ganshenme 
+2009/05/14 19.35.11:	binxue-mf（binxuewushi3）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/05/14 19.36.24:	Leaving Game ArchMage@(*77) Kipi3()@CNBN-CNC
+2009/05/14 19.42.03:	Entering Game DeathKnight@(*77) Q1()@CNBN-CNC
+2009/05/14 19.42.06:	http://www.china-diablo.com
+2009/05/14 19.42.06:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.42.08:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.42.08:	Use !:help for all available commands and help information
+2009/05/14 19.42.38:	binxue-mf（binxuewushi3）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/05/14 19.42.58:	binxue-mf：zai pass 
+2009/05/14 19.43.02:	DeathKnight：mei
+2009/05/14 19.43.12:	Leaving Game DeathKnight@(*77) Q1()@CNBN-CNC
+2009/05/14 19.50.40:	Entering Game DH-DemonHunter@(*77) F222()@CNBN-CNC
+2009/05/14 19.50.44:	http://www.china-diablo.com
+2009/05/14 19.50.44:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.50.45:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.50.45:	Use !:help for all available commands and help information
+2009/05/14 19.50.53:	DH-DemonHunter：pass 
+2009/05/14 19.51.01:	binxue-busa：en ,dai ren 
+2009/05/14 19.51.32:	DH-DemonHunter：wo jin ge sor
+2009/05/14 19.51.32:	Leaving Game DH-DemonHunter@(*77) F222()@CNBN-CNC
+2009/05/14 19.51.50:	Entering Game ArchMage@(*77) F222()@CNBN-CNC
+2009/05/14 19.51.55:	http://www.china-diablo.com
+2009/05/14 19.51.56:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.51.56:	Use !:help for all available commands and help information
+2009/05/14 19.51.56:	Angel-ring（y2k02）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/05/14 19.52.10:	binxue-busa：77 ni de  80+ de  sor buyao jin
+2009/05/14 19.52.38:	------------------------------------------------------
+2009/05/14 19.52.38:	Diablo2 Chat Log Hack, Logging started...
+2009/05/14 19.52.38:	Entering Game DH-DemonHunter@(*77) F222()@CNBN-CNC
+2009/05/14 19.52.39:	DH-DemonHunter（77）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/05/14 19.52.41:	http://www.china-diablo.com
+2009/05/14 19.52.41:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.52.41:	<Hackmap>: Life below chicken threshold,Exit game.
+2009/05/14 19.52.41:	DH-DemonHunter（77）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/05/14 19.52.41:	Leaving Game DH-DemonHunter@(*77) F222()@CNBN-CNC
+2009/05/14 19.52.43:	Entering Game DH-DemonHunter@(*77) F222()@CNBN-CNC
+2009/05/14 19.52.44:	DH-DemonHunter（77）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/05/14 19.52.46:	http://www.china-diablo.com
+2009/05/14 19.52.46:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.52.46:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.52.46:	Use !:help for all available commands and help information
+2009/05/14 19.52.52:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.52.54:	binxue-busa: 77 ni 80+de  buyao jin
+2009/05/14 19.52.54:	binxue-busa：77 ni 80+de  buyao jin
+2009/05/14 19.53.03:	ArchMage: o
+2009/05/14 19.53.03:	ArchMage：o
+2009/05/14 19.53.04:	ArchMage(77) left our world. Diablo's minions weaken.
+2009/05/14 19.53.04:	Leaving Game ArchMage@(*77) F222()@CNBN-CNC
+2009/05/14 19.53.13:	Leaving Game DH-DemonHunter@(*77) F222()@CNBN-CNC
+2009/05/14 19.53.18:	Entering Game DH-DemonHunter@(*77) F222()@CNBN-CNC
+2009/05/14 19.53.21:	http://www.china-diablo.com
+2009/05/14 19.53.21:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.53.21:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.53.21:	Use !:help for all available commands and help information
+2009/05/14 19.53.25:	Angel-ring: mei le
+2009/05/14 19.53.45:	binxue-busa: ...cai 4ge @@
+2009/05/14 19.53.55:	binxue-busa: 77 haiyou meiyou 
+2009/05/14 19.54.05:	DH-DemonHunter: wo zai jin ge
+2009/05/14 19.54.20:	binxue-busa: liu 1ge weizhi gei wo de  bb ,wo dy yao bb bobo
+2009/05/14 19.54.47:	DH-DemonHunter: =
+2009/05/14 19.54.50:	Angel-wing: hao ji dong...hao jiu mei wan d2 le...
+2009/05/14 19.54.55:	binxue-busa: ...
+2009/05/14 19.55.07:	binxue-busa: wo ye henjiu mei wan le  
+2009/05/14 19.55.52:	------------------------------------------------------
+2009/05/14 19.55.52:	Diablo2 Chat Log Hack, Logging started...
+2009/05/14 19.55.52:	Entering Game DR-DarkRanger@(*77c) F222()@CNBN-CNC
+2009/05/14 19.55.53:	DR-DarkRanger(77C) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.55.55:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.55.55:	<Hackmap>: Life below chicken threshold,Exit game.
+2009/05/14 19.55.55:	DR-DarkRanger(77C) left our world. Diablo's minions weaken.
+2009/05/14 19.55.56:	Leaving Game DR-DarkRanger@(*77c) F222()@CNBN-CNC
+2009/05/14 19.56.06:	Entering Game DR-DarkRanger@(*77c) F222()@CNBN-CNC
+2009/05/14 19.56.07:	DR-DarkRanger(77C) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.56.09:	http://www.china-diablo.com
+2009/05/14 19.56.10:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.56.10:	Use !:help for all available commands and help information
+2009/05/14 19.56.44:	------------------------------------------------------
+2009/05/14 19.56.44:	Diablo2 Chat Log Hack, Logging started...
+2009/05/14 19.56.44:	Entering Game BeastMaster@(*77a) F222()@CNBN-CNC
+2009/05/14 19.56.45:	BeastMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.56.45:	BeastMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.56.45:	binxue-busa: mei le 
+2009/05/14 19.56.45:	binxue-busa: mei le 
+2009/05/14 19.56.48:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.56.49:	binxue-busa: mei le 
+2009/05/14 19.56.49:	http://www.china-diablo.com
+2009/05/14 19.56.50:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.56.50:	Use !:help for all available commands and help information
+2009/05/14 19.56.50:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.56.50:	<Hackmap>: Life below chicken threshold,Exit game.
+2009/05/14 19.56.50:	BeastMaster(77A) left our world. Diablo's minions weaken.
+2009/05/14 19.56.50:	BeastMaster(77A) left our world. Diablo's minions weaken.
+2009/05/14 19.56.50:	Leaving Game BeastMaster@(*77a) F222()@CNBN-CNC
+2009/05/14 19.56.53:	Entering Game BeastMaster@(*77a) F222()@CNBN-CNC
+2009/05/14 19.56.53:	binxue-busa: ...
+2009/05/14 19.56.53:	binxue-busa: ...
+2009/05/14 19.56.54:	BeastMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.56.54:	BeastMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.56.55:	DR-DarkRanger: ok
+2009/05/14 19.56.55:	DR-DarkRanger: ok
+2009/05/14 19.57.00:	http://www.china-diablo.com
+2009/05/14 19.57.00:	DR-DarkRanger: ok
+2009/05/14 19.57.00:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.57.00:	Use !:help for all available commands and help information
+2009/05/14 19.57.01:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.57.14:	binxue-busa: 1
+2009/05/14 19.57.14:	binxue-busa: 1
+2009/05/14 19.57.14:	binxue-busa: 1
+2009/05/14 19.57.17:	<Hackmap>: Warning !! Only 0 Townportals Left 
+2009/05/14 19.57.17:	<Hackmap>: Life below chicken threshold,Exit game.
+2009/05/14 19.57.17:	BeastMaster(77A) left our world. Diablo's minions weaken.
+2009/05/14 19.57.17:	BeastMaster(77A) left our world. Diablo's minions weaken.
+2009/05/14 19.57.18:	Leaving Game BeastMaster@(*77a) F222()@CNBN-CNC
+2009/05/14 19.57.20:	Entering Game BeastMaster@(*77a) F222()@CNBN-CNC
+2009/05/14 19.57.21:	BeastMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.57.21:	BeastMaster(77A) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.57.22:	http://www.china-diablo.com
+2009/05/14 19.57.22:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.57.23:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.57.23:	Use !:help for all available commands and help information
+2009/05/14 19.57.33:	binxue-busa: go
+2009/05/14 19.57.33:	binxue-busa: go
+2009/05/14 19.57.33:	binxue-busa: go
+2009/05/14 19.57.47:	<Hackmap>: Life below chicken threshold,Exit game.
+2009/05/14 19.57.47:	DH-DemonHunter(77) left our world. Diablo's minions weaken.
+2009/05/14 19.57.47:	DH-DemonHunter(77) left our world. Diablo's minions weaken.
+2009/05/14 19.57.51:	Leaving Game DH-DemonHunter@(*77) F222()@CNBN-CNC
+2009/05/14 19.58.15:	Entering Game DH-DemonHunter@(*77) F222()@CNBN-CNC
+2009/05/14 19.58.17:	DH-DemonHunter(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.58.17:	DH-DemonHunter(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.58.21:	http://www.china-diablo.com
+2009/05/14 19.58.21:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.58.21:	Use !:help for all available commands and help information
+2009/05/14 19.58.39:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 19.58.54:	binxue-bb: 1
+2009/05/14 19.58.54:	binxue-bb: 1
+2009/05/14 19.58.54:	binxue-bb: 1
+2009/05/14 19.59.47:	binxue-busa: 1
+2009/05/14 19.59.47:	binxue-busa: 1
+2009/05/14 19.59.47:	binxue-busa: 1
+2009/05/14 19.59.49:	<Hackmap>: Life below chicken threshold,Exit game.
+2009/05/14 19.59.49:	DH-DemonHunter(77) left our world. Diablo's minions weaken.
+2009/05/14 19.59.49:	DH-DemonHunter(77) left our world. Diablo's minions weaken.
+2009/05/14 19.59.50:	Leaving Game DH-DemonHunter@(*77) F222()@CNBN-CNC
+2009/05/14 19.59.53:	Entering Game DH-DemonHunter@(*77) F222()@CNBN-CNC
+2009/05/14 19.59.54:	DH-DemonHunter(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.59.54:	DH-DemonHunter(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 19.59.56:	http://www.china-diablo.com
+2009/05/14 19.59.56:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 19.59.56:	Use !:help for all available commands and help information
+2009/05/14 19.59.58:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 20.00.45:	binxue-busa: ok 
+2009/05/14 20.00.45:	binxue-busa: ok 
+2009/05/14 20.00.45:	binxue-busa: ok 
+2009/05/14 20.00.48:	DH-DemonHunter: ok
+2009/05/14 20.00.48:	DH-DemonHunter: ok
+2009/05/14 20.00.48:	DH-DemonHunter: ok
+2009/05/14 20.00.50:	binxue-busa: 1
+2009/05/14 20.00.50:	binxue-busa: 1
+2009/05/14 20.00.50:	binxue-busa: 1
+2009/05/14 20.01.42:	binxue-busa: 1
+2009/05/14 20.01.42:	binxue-busa: 1
+2009/05/14 20.01.42:	binxue-busa: 1
+2009/05/14 20.01.49:	binxue-busa: lidui 
+2009/05/14 20.01.49:	binxue-busa: lidui 
+2009/05/14 20.01.49:	binxue-busa: lidui 
+2009/05/14 20.01.57:	binxue-busa: tuizu  
+2009/05/14 20.01.57:	binxue-busa: tuizu  
+2009/05/14 20.01.57:	binxue-busa: tuizu  
+2009/05/14 20.02.32:	binxue-busa: go
+2009/05/14 20.02.32:	binxue-busa: go
+2009/05/14 20.02.32:	binxue-busa: go
+2009/05/14 20.02.33:	<Hackmap>: Warning !! Only 0 Townportals Left 
+2009/05/14 20.02.33:	<Hackmap>: Warning !! Only 0 Townportals Left 
+2009/05/14 20.03.16:	<Hackmap>: Warning !! Only 0 Townportals Left 
+2009/05/14 20.03.16:	<Hackmap>: Warning !! Only 0 Townportals Left 
+2009/05/14 20.03.16:	<Hackmap>: Warning !! Only 0 Townportals Left 
+2009/05/14 20.03.16:	<Hackmap>: Warning !! Only 0 Townportals Left 
+2009/05/14 20.04.15:	binxue-busa: ok 
+2009/05/14 20.04.15:	binxue-busa: ok 
+2009/05/14 20.04.15:	binxue-busa: ok 
+2009/05/14 20.04.22:	binxue-busa: xian guolai 
+2009/05/14 20.04.22:	binxue-busa: xian guolai 
+2009/05/14 20.04.22:	binxue-busa: xian guolai 
+2009/05/14 20.04.23:	Angel-wing: no
+2009/05/14 20.04.23:	Angel-wing: no
+2009/05/14 20.04.23:	Angel-wing: no
+2009/05/14 20.04.29:	DH-DemonHunter: ok
+2009/05/14 20.04.29:	DH-DemonHunter: ok
+2009/05/14 20.04.29:	DH-DemonHunter: ok
+2009/05/14 20.04.43:	binxue-busa: ama mei guolai 
+2009/05/14 20.04.43:	binxue-busa: ama mei guolai 
+2009/05/14 20.04.44:	binxue-busa: ama mei guolai 
+2009/05/14 20.05.04:	Angel-ring: ok
+2009/05/14 20.05.04:	Angel-ring: ok
+2009/05/14 20.05.04:	Angel-ring: ok
+2009/05/14 20.05.11:	binxue-busa: 1
+2009/05/14 20.05.11:	binxue-busa: 1
+2009/05/14 20.05.11:	binxue-busa: 1
+2009/05/14 20.05.34:	<Hackmap>: Warning !! Only 0 Townportals Left 
+2009/05/14 20.05.35:	<Hackmap>: Warning !! Only 0 Townportals Left 
+2009/05/14 20.07.20:	binxue-bb: ok  
+2009/05/14 20.07.20:	binxue-bb: ok  
+2009/05/14 20.07.20:	binxue-bb: ok  
+2009/05/14 20.07.26:	BeastMaster: ok
+2009/05/14 20.07.26:	BeastMaster: ok
+2009/05/14 20.07.26:	BeastMaster: ok
+2009/05/14 20.07.50:	<Hackmap>: Warning !! Only 0 Townportals Left 
+2009/05/14 20.07.55:	binxue-busa: duohao 
+2009/05/14 20.07.55:	binxue-busa: duohao 
+2009/05/14 20.07.55:	binxue-busa: duohao 
+2009/05/14 20.08.01:	binxue-busa: ok 
+2009/05/14 20.08.01:	binxue-busa: ok 
+2009/05/14 20.08.01:	binxue-busa: ok 
+2009/05/14 20.08.06:	DR-DarkRanger: ok le
+2009/05/14 20.08.06:	DR-DarkRanger: ok le
+2009/05/14 20.08.06:	DR-DarkRanger: ok le
+2009/05/14 20.08.28:	binxue-busa: xia yige jiu keyi le 
+2009/05/14 20.08.28:	binxue-busa: xia yige jiu keyi le 
+2009/05/14 20.08.28:	binxue-busa: xia yige jiu keyi le 
+2009/05/14 20.08.44:	binxue-busa: go
+2009/05/14 20.08.44:	binxue-busa: go
+2009/05/14 20.08.44:	binxue-busa: go
+2009/05/14 20.09.14:	BeastMaster: ama dang zhe le
+2009/05/14 20.09.16:	BeastMaster: ama dang zhe le
+2009/05/14 20.09.24:	binxue-busa: ...
+2009/05/14 20.09.27:	BeastMaster: ama dang zhe le
+2009/05/14 20.09.27:	binxue-busa: ...
+2009/05/14 20.09.28:	binxue-busa: ...
+2009/05/14 20.09.58:	binxue-busa: 1
+2009/05/14 20.09.58:	binxue-busa: 1
+2009/05/14 20.09.58:	binxue-busa: 1
+2009/05/14 20.10.19:	<Hackmap>: Warning !! Only 0 Townportals Left 
+2009/05/14 20.10.22:	binxue-busa: n= em 
+2009/05/14 20.10.22:	binxue-busa: n= em 
+2009/05/14 20.10.22:	binxue-busa: n= em 
+2009/05/14 20.10.29:	binxue-bb(binxuewushi3) left our world. Diablo's minions weaken.
+2009/05/14 20.10.29:	binxue-bb(binxuewushi3) left our world. Diablo's minions weaken.
+2009/05/14 20.10.29:	binxue-bb(binxuewushi3) left our world. Diablo's minions weaken.
+2009/05/14 20.10.42:	DR-DarkRanger(77C) left our world. Diablo's minions weaken.
+2009/05/14 20.10.42:	DR-DarkRanger(77C) left our world. Diablo's minions weaken.
+2009/05/14 20.10.47:	Angel-ring(y2k02) left our world. Diablo's minions weaken.
+2009/05/14 20.10.47:	Angel-ring(y2k02) left our world. Diablo's minions weaken.
+2009/05/14 20.10.48:	binxue-busa(binxuewushi1) left our world. Diablo's minions weaken.
+2009/05/14 20.10.48:	binxue-busa(binxuewushi1) left our world. Diablo's minions weaken.
+2009/05/14 20.10.49:	BeastMaster(77A) left our world. Diablo's minions weaken.
+2009/05/14 20.11.09:	Leaving Game BeastMaster@(*77a) F222()@CNBN-CNC
+2009/05/14 20.11.11:	Leaving Game DR-DarkRanger@(*77c) F222()@CNBN-CNC
+2009/05/14 20.11.18:	Leaving Game DH-DemonHunter@(*77) F222()@CNBN-CNC
+2009/05/14 20.11.35:	Entering Game BeastMaster@(*77a) Em()@CNBN-CNC
+2009/05/14 20.11.41:	http://www.china-diablo.com
+2009/05/14 20.11.41:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 20.11.41:	Use !:help for all available commands and help information
+2009/05/14 20.12.04:	Entering Game DR-DarkRanger@(*77c) Em()@CNBN-CNC
+2009/05/14 20.12.04:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 20.12.08:	DR-DarkRanger(77C) joined our world. Diablo's minions grow stronger.
+2009/05/14 20.12.09:	Entering Game DH-DemonHunter@(*77) Em()@CNBN-CNC
+2009/05/14 20.12.14:	http://www.china-diablo.com
+2009/05/14 20.12.14:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 20.12.14:	Use !:help for all available commands and help information
+2009/05/14 20.12.15:	DH-DemonHunter(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 20.12.15:	DH-DemonHunter(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 20.12.20:	http://www.china-diablo.com
+2009/05/14 20.12.20:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 20.12.20:	Use !:help for all available commands and help information
+2009/05/14 20.12.21:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 20.12.38:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 20.12.56:	binxue-busa: ok lr e 
+2009/05/14 20.12.56:	binxue-busa: ok lr e 
+2009/05/14 20.12.56:	binxue-busa: ok lr e 
+2009/05/14 20.13.04:	BeastMaster: ok le
+2009/05/14 20.13.04:	BeastMaster: ok le
+2009/05/14 20.13.04:	BeastMaster: ok le
+2009/05/14 20.13.33:	binxue-busa: 1
+2009/05/14 20.13.33:	binxue-busa: 1
+2009/05/14 20.13.33:	binxue-busa: 1
+2009/05/14 20.13.56:	binxue-busa: go
+2009/05/14 20.13.56:	binxue-busa: go
+2009/05/14 20.13.56:	binxue-busa: go
+2009/05/14 20.14.14:	binxue-bb: youzhang 
+2009/05/14 20.14.14:	binxue-bb: youzhang 
+2009/05/14 20.14.14:	binxue-bb: youzhang 
+2009/05/14 20.15.12:	binxue-busa: 1
+2009/05/14 20.15.12:	binxue-busa: 1
+2009/05/14 20.15.12:	binxue-busa: 1
+2009/05/14 20.15.18:	binxue-busa: lidui kaimen 
+2009/05/14 20.15.18:	binxue-busa: lidui kaimen 
+2009/05/14 20.15.18:	binxue-busa: lidui kaimen 
+2009/05/14 20.15.35:	Angel-wing: qu ge you zhang de
+2009/05/14 20.15.35:	Angel-wing: qu ge you zhang de
+2009/05/14 20.15.40:	Angel-wing: qu ge you zhang de
+2009/05/14 20.15.45:	binxue-busa: ....
+2009/05/14 20.15.45:	binxue-busa: ....
+2009/05/14 20.15.52:	binxue-busa: ....
+2009/05/14 20.15.58:	binxue-busa: zhang ne 
+2009/05/14 20.15.58:	binxue-busa: zhang ne 
+2009/05/14 20.15.59:	binxue-busa: zhang ne 
+2009/05/14 20.16.12:	Angel-wing: wo de ka le
+2009/05/14 20.16.12:	Angel-wing: wo de ka le
+2009/05/14 20.16.12:	Angel-wing: wo de ka le
+2009/05/14 20.16.30:	binxue-busa: dy de zhang haizai  
+2009/05/14 20.16.30:	binxue-busa: dy de zhang haizai  
+2009/05/14 20.16.30:	binxue-busa: dy de zhang haizai  
+2009/05/14 20.16.39:	DH-DemonHunter: you
+2009/05/14 20.16.39:	DH-DemonHunter: you
+2009/05/14 20.16.39:	DH-DemonHunter: you
+2009/05/14 20.16.47:	DH-DemonHunter: xing kun wo zai pt li dui le
+2009/05/14 20.16.47:	DH-DemonHunter: xing kun wo zai pt li dui le
+2009/05/14 20.16.47:	DH-DemonHunter: xing kun wo zai pt li dui le
+2009/05/14 20.16.52:	binxue-busa: go
+2009/05/14 20.16.52:	binxue-busa: go
+2009/05/14 20.16.52:	binxue-busa: go
+2009/05/14 20.19.23:	binxue-busa: ok 
+2009/05/14 20.19.25:	binxue-busa: ok 
+2009/05/14 20.19.38:	binxue-busa: 1
+2009/05/14 20.19.39:	binxue-busa: 1
+2009/05/14 20.19.50:	binxue-busa: ok 
+2009/05/14 20.19.50:	binxue-busa: 1
+2009/05/14 20.20.03:	binxue-busa: 1
+2009/05/14 20.20.03:	binxue-busa: 1
+2009/05/14 20.20.03:	binxue-busa: 1
+2009/05/14 20.20.25:	binxue-busa: go
+2009/05/14 20.20.25:	binxue-busa: go
+2009/05/14 20.20.27:	binxue-busa: go
+2009/05/14 20.21.17:	binxue-busa: 1
+2009/05/14 20.21.18:	binxue-busa: 1
+2009/05/14 20.21.19:	binxue-busa: 1
+2009/05/14 20.21.30:	binxue-busa: xia yige  
+2009/05/14 20.21.30:	binxue-busa: xia yige  
+2009/05/14 20.21.30:	binxue-busa: xia yige  
+2009/05/14 20.22.16:	binxue-busa: go
+2009/05/14 20.22.16:	binxue-busa: go
+2009/05/14 20.22.16:	binxue-busa: go
+2009/05/14 20.24.41:	binxue-busa: 2
+2009/05/14 20.24.41:	binxue-busa: 2
+2009/05/14 20.24.41:	binxue-busa: 2
+2009/05/14 20.26.43:	binxue-busa: 1
+2009/05/14 20.26.43:	binxue-busa: 1
+2009/05/14 20.26.43:	binxue-busa: 1
+2009/05/14 20.27.08:	binxue-busa: n=dy
+2009/05/14 20.27.08:	binxue-busa: n=dy
+2009/05/14 20.27.08:	binxue-busa: n=dy
+2009/05/14 20.27.13:	Angel-ring(y2k02) left our world. Diablo's minions weaken.
+2009/05/14 20.27.13:	Angel-ring(y2k02) left our world. Diablo's minions weaken.
+2009/05/14 20.27.13:	Angel-ring(y2k02) left our world. Diablo's minions weaken.
+2009/05/14 20.27.17:	binxue-bb(binxuewushi3) left our world. Diablo's minions weaken.
+2009/05/14 20.27.17:	binxue-bb(binxuewushi3) left our world. Diablo's minions weaken.
+2009/05/14 20.27.17:	binxue-bb(binxuewushi3) left our world. Diablo's minions weaken.
+2009/05/14 20.27.19:	BeastMaster(77A) left our world. Diablo's minions weaken.
+2009/05/14 20.27.19:	BeastMaster(77A) left our world. Diablo's minions weaken.
+2009/05/14 20.27.20:	DR-DarkRanger(77C) left our world. Diablo's minions weaken.
+2009/05/14 20.27.35:	Leaving Game DH-DemonHunter@(*77) Em()@CNBN-CNC
+2009/05/14 20.27.39:	Leaving Game BeastMaster@(*77a) Em()@CNBN-CNC
+2009/05/14 20.27.41:	Leaving Game DR-DarkRanger@(*77c) Em()@CNBN-CNC
+2009/05/14 20.28.02:	Entering Game BeastMaster@(*77a) Dy1()@CNBN-CNC
+2009/05/14 20.28.06:	Entering Game DR-DarkRanger@(*77c) Dy1()@CNBN-CNC
+2009/05/14 20.28.17:	http://www.china-diablo.com
+2009/05/14 20.28.17:	Angel-ring(y2k02) joined our world. Diablo's minions grow stronger.
+2009/05/14 20.28.17:	DR-DarkRanger(77C) joined our world. Diablo's minions grow stronger.
+2009/05/14 20.28.17:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 20.28.17:	Use !:help for all available commands and help information
+2009/05/14 20.28.21:	http://www.china-diablo.com
+2009/05/14 20.28.21:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 20.28.21:	Use !:help for all available commands and help information
+2009/05/14 20.28.23:	Entering Game DH-DemonHunter@(*77) Dy1()@CNBN-CNC
+2009/05/14 20.28.24:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 20.28.26:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 20.28.28:	DH-DemonHunter(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 20.28.28:	DH-DemonHunter(77) joined our world. Diablo's minions grow stronger.
+2009/05/14 20.28.36:	http://www.china-diablo.com
+2009/05/14 20.28.36:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 20.28.36:	Use !:help for all available commands and help information
+2009/05/14 20.28.36:	Angel-wing(y2k01) joined our world. Diablo's minions grow stronger.
+2009/05/14 20.28.36:	Angel-wing(y2k01) joined our world. Diablo's minions grow stronger.
+2009/05/14 20.28.36:	Angel-wing(y2k01) joined our world. Diablo's minions grow stronger.
+2009/05/14 20.28.41:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 20.28.47:	nanwu-bb(nanwuwuxin1) joined our world. Diablo's minions grow stronger.
+2009/05/14 20.28.47:	nanwu-bb(nanwuwuxin1) joined our world. Diablo's minions grow stronger.
+2009/05/14 20.28.47:	nanwu-bb(nanwuwuxin1) joined our world. Diablo's minions grow stronger.
+2009/05/14 20.29.35:	binxue-busa: 1
+2009/05/14 20.29.35:	binxue-busa: 1
+2009/05/14 20.29.35:	binxue-busa: 1
+2009/05/14 20.31.18:	binxue-busa: km
+2009/05/14 20.31.18:	binxue-busa: km
+2009/05/14 20.31.18:	binxue-busa: km
+2009/05/14 20.31.19:	binxue-busa: 1
+2009/05/14 20.31.19:	binxue-busa: 1
+2009/05/14 20.31.19:	binxue-busa: 1
+2009/05/14 20.32.17:	binxue-busa: go
+2009/05/14 20.32.17:	binxue-busa: go
+2009/05/14 20.32.17:	binxue-busa: go
+2009/05/14 20.33.53:	Angel-ring is busy
+2009/05/14 20.34.03:	binxue-busa: 1
+2009/05/14 20.34.03:	binxue-busa: 1
+2009/05/14 20.34.03:	binxue-busa: 1
+2009/05/14 20.34.13:	binxue-busa: 1
+2009/05/14 20.34.13:	binxue-busa: 1
+2009/05/14 20.34.13:	binxue-busa: 1
+2009/05/14 20.35.18:	binxue-busa: go
+2009/05/14 20.35.18:	binxue-busa: go
+2009/05/14 20.35.18:	binxue-busa: go
+2009/05/14 20.35.28:	binxue-busa: 1
+2009/05/14 20.35.28:	binxue-busa: 1
+2009/05/14 20.35.28:	binxue-busa: 1
+2009/05/14 20.36.28:	DH-DemonHunter: 500+ ping
+2009/05/14 20.36.28:	DH-DemonHunter: 500+ ping
+2009/05/14 20.36.28:	DH-DemonHunter: 500+ ping
+2009/05/14 20.40.50:	BeastMaster: 1
+2009/05/14 20.40.50:	BeastMaster: 1
+2009/05/14 20.40.50:	BeastMaster: 1
+2009/05/14 20.40.56:	binxue-busa: 2
+2009/05/14 20.40.56:	binxue-busa: 2
+2009/05/14 20.40.56:	binxue-busa: 2
+2009/05/14 20.41.38:	binxue-busa: 1
+2009/05/14 20.41.38:	binxue-busa: 1
+2009/05/14 20.41.38:	binxue-busa: 1
+2009/05/14 20.42.11:	binxue-busa: kai le  
+2009/05/14 20.42.11:	binxue-busa: kai le  
+2009/05/14 20.42.11:	binxue-busa: kai le  
+2009/05/14 20.46.59:	BeastMaster: care
+2009/05/14 20.46.59:	BeastMaster: care
+2009/05/14 20.46.59:	BeastMaster: care
+2009/05/14 20.47.11:	binxue-busa: wo 4r tai di le 
+2009/05/14 20.47.11:	binxue-busa: wo 4r tai di le 
+2009/05/14 20.47.11:	binxue-busa: wo 4r tai di le 
+2009/05/14 20.47.43:	binxue-busa: jiu lr max
+2009/05/14 20.47.43:	binxue-busa: jiu lr max
+2009/05/14 20.47.43:	binxue-busa: jiu lr max
+2009/05/14 20.49.27:	BeastMaster: yong wo qu jia life me
+2009/05/14 20.49.27:	BeastMaster: yong wo qu jia life me
+2009/05/14 20.49.27:	BeastMaster: yong wo qu jia life me
+2009/05/14 20.49.36:	binxue-busa: buyong 
+2009/05/14 20.49.36:	binxue-busa: buyong 
+2009/05/14 20.49.36:	binxue-busa: buyong 
+2009/05/14 20.50.46:	binxue-busa: mei bb wo ye neng dai ,jiu shi weizxian 
+2009/05/14 20.50.46:	binxue-busa: mei bb wo ye neng dai ,jiu shi weizxian 
+2009/05/14 20.50.46:	binxue-busa: mei bb wo ye neng dai ,jiu shi weizxian 
+2009/05/14 20.52.06:	DH-DemonHunter: man man da.
+2009/05/14 20.52.06:	DH-DemonHunter: man man da.
+2009/05/14 20.52.06:	DH-DemonHunter: man man da.
+2009/05/14 20.52.09:	DH-DemonHunter: bu zhao ji
+2009/05/14 20.52.09:	DH-DemonHunter: bu zhao ji
+2009/05/14 20.52.09:	DH-DemonHunter: bu zhao ji
+2009/05/14 20.53.03:	binxue-busa: 1
+2009/05/14 20.53.03:	binxue-busa: 1
+2009/05/14 20.53.03:	binxue-busa: 1
+2009/05/14 20.53.14:	binxue-busa: 1
+2009/05/14 20.53.14:	binxue-busa: 1
+2009/05/14 20.53.14:	binxue-busa: 1
+2009/05/14 20.53.39:	binxue-busa: ok
+2009/05/14 20.53.39:	binxue-busa: ok
+2009/05/14 20.53.39:	binxue-busa: ok
+2009/05/14 20.53.44:	Angel-wing: xiexie ni
+2009/05/14 20.53.44:	Angel-wing: xiexie ni
+2009/05/14 20.53.44:	nanwu-bb(nanwuwuxin1) left our world. Diablo's minions weaken.
+2009/05/14 20.53.44:	nanwu-bb(nanwuwuxin1) left our world. Diablo's minions weaken.
+2009/05/14 20.53.44:	Angel-wing: xiexie ni
+2009/05/14 20.53.44:	nanwu-bb(nanwuwuxin1) left our world. Diablo's minions weaken.
+2009/05/14 20.53.45:	binxue-bb(binxuewushi3) left our world. Diablo's minions weaken.
+2009/05/14 20.53.45:	binxue-bb(binxuewushi3) left our world. Diablo's minions weaken.
+2009/05/14 20.53.45:	binxue-bb(binxuewushi3) left our world. Diablo's minions weaken.
+2009/05/14 20.53.53:	Angel-wing(y2k01) left our world. Diablo's minions weaken.
+2009/05/14 20.53.53:	Angel-wing(y2k01) left our world. Diablo's minions weaken.
+2009/05/14 20.53.53:	Angel-wing(y2k01) left our world. Diablo's minions weaken.
+2009/05/14 20.53.54:	binxue-busa: buyong 
+2009/05/14 20.53.54:	binxue-busa: buyong 
+2009/05/14 20.53.54:	binxue-busa: buyong 
+2009/05/14 20.53.57:	binxue-busa(binxuewushi1) left our world. Diablo's minions weaken.
+2009/05/14 20.53.57:	binxue-busa(binxuewushi1) left our world. Diablo's minions weaken.
+2009/05/14 20.53.57:	binxue-busa(binxuewushi1) left our world. Diablo's minions weaken.
+2009/05/14 20.54.01:	BeastMaster(77A) left our world. Diablo's minions weaken.
+2009/05/14 20.54.01:	BeastMaster(77A) left our world. Diablo's minions weaken.
+2009/05/14 20.54.02:	DR-DarkRanger(77C) left our world. Diablo's minions weaken.
+2009/05/14 20.54.05:	Angel-ring(y2k02) left our world. Diablo's minions weaken.
+2009/05/14 20.54.08:	Leaving Game DR-DarkRanger@(*77c) Dy1()@CNBN-CNC
+2009/05/14 20.54.21:	Leaving Game BeastMaster@(*77a) Dy1()@CNBN-CNC
+2009/05/14 20.54.36:	Leaving Game DH-DemonHunter@(*77) Dy1()@CNBN-CNC
+2009/05/14 20.55.32:	Entering Game HardCore-Man@(*77) Q1()@home
+2009/05/14 20.55.40:	www.d2home.com.cn
+2009/05/14 20.55.40:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 20.55.42:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 20.55.42:	Use !:help for all available commands and help information
+2009/05/14 20.55.52:	Leaving Game HardCore-Man@(*77) Q1()@home
+2009/05/14 20.56.16:	Entering Game DemonHunter@(*77) Eee()@home
+2009/05/14 20.56.19:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 20.56.19:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 20.56.19:	Use !:help for all available commands and help information
+2009/05/14 20.56.19:	www.d2home.com.cn
+2009/05/14 20.56.29:	HChuige-sor(kitty) left our world. Diablo's minions weaken.
+2009/05/14 20.56.29:	Leaving Game DemonHunter@(*77) Eee()@home
+2009/05/14 20.57.25:	Entering Game Warden@(*77) Q()@home
+2009/05/14 20.57.28:	www.d2home.com.cn
+2009/05/14 20.57.35:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 20.57.36:	Leaving Game Warden@(*77) Q()@home
+2009/05/14 20.58.04:	Entering Game DeathKnight@(*77) Qw()@home
+2009/05/14 20.58.06:	www.d2home.com.cn
+2009/05/14 20.58.06:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 20.58.07:	Leaving Game DeathKnight@(*77) Qw()@home
+2009/05/14 20.59.10:	Entering Game PandaBrewmaster@(*77) Q()@home
+2009/05/14 20.59.12:	Leaving Game PandaBrewmaster@(*77) Q()@home
+2009/05/14 21.06.53:	Entering Game ArchMage@(*77) Q1()@home
+2009/05/14 21.06.56:	www.d2home.com.cn
+2009/05/14 21.06.56:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/05/14 21.06.58:	Welcome, you can use !:version and !:copyright to see the server information
+2009/05/14 21.06.58:	Use !:help for all available commands and help information
+2009/05/14 21.09.10:	Leaving Game ArchMage@(*77) Q1()@home
+2009/09/27 18.11.05:	------------------------------------------------------
+2009/09/27 18.11.05:	Diablo2 Chat Log Hack, Logging started...
+2009/09/27 18.11.05:	Entering Game boring@(*) ()@
+2009/09/27 18.11.08:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 18.11.21:	Leaving Game boring@(*) ()@
+2009/09/27 18.11.39:	Entering Game Butcher@(*honghe) Eg1()@CNBN
+2009/09/27 18.11.44:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 18.11.44:	http://www.china-diablo.com CNBN
+2009/09/27 18.11.45:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 18.11.45:	Use !:help for all available commands and help information
+2009/09/27 18.11.53:	Leaving Game Butcher@(*honghe) Eg1()@CNBN
+2009/09/27 18.15.31:	Entering Game Butcher@(*honghe) Ser()@CNBN
+2009/09/27 18.15.36:	http://www.china-diablo.com CNBN
+2009/09/27 18.15.36:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 18.15.38:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 18.15.38:	Use !:help for all available commands and help information
+2009/09/27 18.15.40:	<Hackmap>: Config Reload Successful 
+2009/09/27 18.15.42:	<Hackmap>: Config Reload Successful 
+2009/09/27 18.15.46:	Leaving Game Butcher@(*honghe) Ser()@CNBN
+2009/09/27 18.15.49:	Entering Game Butcher@(*honghe) Awe()@CNBN
+2009/09/27 18.15.55:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 18.15.56:	http://www.china-diablo.com CNBN
+2009/09/27 18.15.56:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 18.15.56:	Use !:help for all available commands and help information
+2009/09/27 18.16.13:	Leaving Game Butcher@(*honghe) Awe()@CNBN
+2009/09/27 18.18.27:	Entering Game Butcher@(*honghe) Awe()@CNBN
+2009/09/27 18.18.33:	http://www.china-diablo.com CNBN
+2009/09/27 18.18.33:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 18.18.35:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 18.18.35:	Use !:help for all available commands and help information
+2009/09/27 18.18.36:	Leaving Game Butcher@(*honghe) Awe()@CNBN
+2009/09/27 18.18.43:	Entering Game Butcher@(*honghe) Eg1()@CNBN
+2009/09/27 18.18.49:	http://www.china-diablo.com CNBN
+2009/09/27 18.18.49:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 18.18.51:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 18.18.51:	Use !:help for all available commands and help information
+2009/09/27 18.18.52:	Leaving Game Butcher@(*honghe) Eg1()@CNBN
+2009/09/27 18.21.05:	Entering Game Butcher@(*honghe) A()@CNBN
+2009/09/27 18.21.12:	http://www.china-diablo.com CNBN
+2009/09/27 18.21.12:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 18.21.14:	<Hackmap>: Config Reload Successful 
+2009/09/27 18.21.14:	<Hackmap>: Config Reload Successful 
+2009/09/27 18.21.15:	Leaving Game Butcher@(*honghe) A()@CNBN
+2009/09/27 18.21.22:	Entering Game Butcher@(*honghe) Eg1()@CNBN
+2009/09/27 18.21.28:	http://www.china-diablo.com CNBN
+2009/09/27 18.21.28:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 18.21.29:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 18.21.29:	Use !:help for all available commands and help information
+2009/09/27 18.21.30:	Leaving Game Butcher@(*honghe) Eg1()@CNBN
+2009/09/27 18.21.54:	Entering Game Butcher@(*honghe) Eg2()@CNBN
+2009/09/27 18.22.01:	http://www.china-diablo.com CNBN
+2009/09/27 18.22.01:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 18.22.03:	<Hackmap>: Config Reload Successful 
+2009/09/27 18.22.04:	<Hackmap>: Config Reload Successful 
+2009/09/27 18.22.05:	Leaving Game Butcher@(*honghe) Eg2()@CNBN
+2009/09/27 18.22.23:	------------------------------------------------------
+2009/09/27 18.22.23:	Diablo2 Chat Log Hack, Logging started...
+2009/09/27 18.22.23:	Entering Game Butcher@(*honghe) Ser()@CNBN
+2009/09/27 18.22.29:	http://www.china-diablo.com CNBN
+2009/09/27 18.22.29:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 18.22.31:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 18.22.31:	Use !:help for all available commands and help information
+2009/09/27 18.22.31:	Leaving Game Butcher@(*honghe) Ser()@CNBN
+2009/09/27 18.22.37:	Entering Game Butcher@(*honghe) Eg1()@CNBN
+2009/09/27 18.22.43:	http://www.china-diablo.com CNBN
+2009/09/27 18.22.43:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 18.22.45:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 18.22.45:	Use !:help for all available commands and help information
+2009/09/27 18.22.46:	Leaving Game Butcher@(*honghe) Eg1()@CNBN
+2009/09/27 18.38.26:	------------------------------------------------------
+2009/09/27 18.38.26:	Diablo2 Chat Log Hack, Logging started...
+2009/09/27 18.38.26:	Entering Game Butcher@(*honghe) Awe()@CNBN
+2009/09/27 18.38.32:	http://www.china-diablo.com CNBN
+2009/09/27 18.38.32:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 18.38.35:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 18.38.35:	Use !:help for all available commands and help information
+2009/09/27 19.26.54:	------------------------------------------------------
+2009/09/27 19.26.54:	Diablo2 Chat Log Hack, Logging started...
+2009/09/27 19.26.54:	Entering Game Butcher@(*honghe) Ef()@CNBN
+2009/09/27 19.27.02:	http://www.china-diablo.com CNBN
+2009/09/27 19.27.02:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 19.27.04:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 19.27.04:	Use !:help for all available commands and help information
+2009/09/27 19.28.17:	Leaving Game Butcher@(*honghe) Ef()@CNBN
+2009/09/27 19.28.35:	Entering Game Butcher@(*honghe) C4()@CNBN
+2009/09/27 19.28.41:	JustDoIt（InDe-19）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.28.41:	wqx-kc（wangqiaoxue）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.28.41:	http://www.china-diablo.com CNBN
+2009/09/27 19.28.41:	hijack（hijack）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.28.41:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 19.28.43:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 19.28.43:	Use !:help for all available commands and help information
+2009/09/27 19.28.43:	Sor_GG（boss_lyan）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.30.18:	Butcher死亡，殺死他的是地獄之牛
+2009/09/27 19.30.20:	Butcher：e
+2009/09/27 19.30.31:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.30.34:	wqx-kc（wangqiaoxue）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.30.34:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.30.36:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.30.36:	Fairy-P（aoding）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.30.37:	Leaving Game Butcher@(*honghe) C4()@CNBN
+2009/09/27 19.30.41:	Entering Game Butcher@(*honghe) C5()@CNBN
+2009/09/27 19.30.52:	http://www.china-diablo.com CNBN
+2009/09/27 19.30.52:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 19.30.52:	Use !:help for all available commands and help information
+2009/09/27 19.30.52:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 19.31.22:	Fairy-P（aoding）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.31.31:	JustDoIt（InDe-19）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.32.53:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.32.57:	BAR-KP（KING）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.32.57:	Leaving Game Butcher@(*honghe) C5()@CNBN
+2009/09/27 19.33.01:	Entering Game Butcher@(*honghe) C6()@CNBN
+2009/09/27 19.33.09:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 19.33.09:	Use !:help for all available commands and help information
+2009/09/27 19.33.09:	JustDoIt（InDe-19）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.33.09:	DelleAlpi（DelleAlpi）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.33.09:	http://www.china-diablo.com CNBN
+2009/09/27 19.33.11:	BAR-KP（KING）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.33.12:	Sor_GG（boss_lyan）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.33.14:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 19.34.38:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.34.42:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.34.43:	BAR-KP（KING）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.34.44:	DelleAlpi（DelleAlpi）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.34.44:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.34.45:	JustDoIt（InDe-19）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.34.45:	Shane-LuckyMM（shane）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.34.50:	shania-twain（czj520）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.34.51:	Leaving Game Butcher@(*honghe) C6()@CNBN
+2009/09/27 19.34.54:	Entering Game Butcher@(*honghe) C7()@CNBN
+2009/09/27 19.35.02:	http://www.china-diablo.com CNBN
+2009/09/27 19.35.02:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 19.35.02:	Use !:help for all available commands and help information
+2009/09/27 19.35.05:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 19.35.24:	BAR-KP：|
+2009/09/27 19.36.03:	JustDoIt死亡，殺死他的是地獄之牛
+2009/09/27 19.36.26:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.36.30:	BAR-KP（KING）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.36.32:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.36.32:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.36.33:	DelleAlpi（DelleAlpi）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.36.36:	JustDoIt（InDe-19）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.36.37:	Shane-LuckyMM（shane）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.36.40:	Leaving Game Butcher@(*honghe) C7()@CNBN
+2009/09/27 19.36.43:	Entering Game Butcher@(*honghe) C8()@CNBN
+2009/09/27 19.36.51:	http://www.china-diablo.com CNBN
+2009/09/27 19.36.51:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 19.36.52:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 19.36.52:	Use !:help for all available commands and help information
+2009/09/27 19.37.59:	CHAOJINIUBSOR（xushuo102）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.38.03:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.38.11:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.38.13:	CHAOJINIUBSOR：+
+2009/09/27 19.38.13:	BAR-KP（KING）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.38.14:	CHAOJINIUBSOR（xushuo102）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.38.14:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.38.16:	DelleAlpi（DelleAlpi）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.38.17:	JustDoIt（InDe-19）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.38.19:	Leaving Game Butcher@(*honghe) C8()@CNBN
+2009/09/27 19.38.23:	Entering Game Butcher@(*honghe) C9()@CNBN
+2009/09/27 19.38.30:	http://www.china-diablo.com CNBN
+2009/09/27 19.38.31:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 19.38.31:	Use !:help for all available commands and help information
+2009/09/27 19.38.31:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 19.39.01:	BAR-KP：xiangcun sha niumm
+2009/09/27 19.39.11:	CHAOJINIUBSOR：bu sha le ,,,wo gua qi chi jing yan
+2009/09/27 19.39.46:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.39.55:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.39.56:	DelleAlpi（DelleAlpi）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.39.57:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.39.59:	INDE-SIWULJKC（InDe-45）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.39.59:	BAR-KP（KING）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.40.00:	JustDoIt（InDe-19）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.40.01:	CHAOJINIUBSOR（xushuo102）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.40.02:	Leaving Game Butcher@(*honghe) C9()@CNBN
+2009/09/27 19.40.06:	Entering Game Butcher@(*honghe) C10()@CNBN
+2009/09/27 19.40.14:	http://www.china-diablo.com CNBN
+2009/09/27 19.40.14:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 19.40.16:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 19.40.16:	Use !:help for all available commands and help information
+2009/09/27 19.40.35:	Sor_GG：++
+2009/09/27 19.41.52:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.41.59:	DelleAlpi（DelleAlpi）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.42.00:	INDE-SIWULJKC（InDe-45）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.42.00:	CHAOJINIUBSOR（xushuo102）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.42.04:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.42.04:	Leaving Game Butcher@(*honghe) C10()@CNBN
+2009/09/27 19.42.08:	Entering Game Butcher@(*honghe) C11()@CNBN
+2009/09/27 19.42.17:	JustDoIt（InDe-19）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.42.17:	http://www.china-diablo.com CNBN
+2009/09/27 19.42.17:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 19.42.17:	Use !:help for all available commands and help information
+2009/09/27 19.42.21:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 19.42.44:	Sor_GG：++
+2009/09/27 19.42.46:	yin-ama：+++++++++++++++++++
+2009/09/27 19.43.56:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.43.59:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.44.00:	DelleAlpi（DelleAlpi）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.44.03:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.44.10:	Leaving Game Butcher@(*honghe) C11()@CNBN
+2009/09/27 19.44.14:	Entering Game Butcher@(*honghe) C12()@CNBN
+2009/09/27 19.44.22:	CHAOJINIUBSOR（xushuo102）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.44.22:	http://www.china-diablo.com CNBN
+2009/09/27 19.44.22:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 19.44.22:	Use !:help for all available commands and help information
+2009/09/27 19.44.22:	JustDoIt（InDe-19）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.44.23:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 19.44.25:	yin-ama（yin）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.44.37:	yin-ama：p
+2009/09/27 19.44.37:	yin-ama：p
+2009/09/27 19.44.38:	yin-ama：p
+2009/09/27 19.45.45:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.45.49:	DelleAlpi（DelleAlpi）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.45.52:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.45.52:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.45.53:	CHAOJINIUBSOR（xushuo102）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.45.55:	Leaving Game Butcher@(*honghe) C12()@CNBN
+2009/09/27 19.45.59:	Entering Game Butcher@(*honghe) C13()@CNBN
+2009/09/27 19.46.07:	http://www.china-diablo.com CNBN
+2009/09/27 19.46.07:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 19.46.09:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 19.46.09:	Use !:help for all available commands and help information
+2009/09/27 19.46.09:	yin-ama（yin）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.47.28:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.47.30:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.47.32:	yin-ama（yin）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.47.34:	CHAOJINIUBSOR（xushuo102）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.47.34:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.47.39:	Leaving Game Butcher@(*honghe) C13()@CNBN
+2009/09/27 19.47.43:	Entering Game Butcher@(*honghe) C14()@CNBN
+2009/09/27 19.47.52:	http://www.china-diablo.com CNBN
+2009/09/27 19.47.52:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 19.47.52:	Use !:help for all available commands and help information
+2009/09/27 19.47.52:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 19.48.06:	plyj-sor（plyj12256）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.48.37:	BAR-KP（KING）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.49.51:	Wuqituxing-IV時間用盡加以排除。
+2009/09/27 19.49.59:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.50.01:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.50.03:	yin-ama（yin）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.50.04:	BAR-KP（KING）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.50.07:	CHAOJINIUBSOR（xushuo102）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.50.08:	Leaving Game Butcher@(*honghe) C14()@CNBN
+2009/09/27 19.50.21:	Entering Game Butcher@(*honghe) C15()@CNBN
+2009/09/27 19.50.28:	http://www.china-diablo.com CNBN
+2009/09/27 19.50.28:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 19.50.30:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 19.50.30:	Use !:help for all available commands and help information
+2009/09/27 19.52.12:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.52.15:	plyj-sor（plyj12256）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.52.15:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.52.16:	Leaving Game Butcher@(*honghe) C15()@CNBN
+2009/09/27 19.52.23:	Entering Game Butcher@(*honghe) C16()@CNBN
+2009/09/27 19.52.31:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 19.52.31:	Use !:help for all available commands and help information
+2009/09/27 19.52.31:	http://www.china-diablo.com CNBN
+2009/09/27 19.53.00:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 19.54.04:	CHAOJINIUBSOR：wo ye lian ge bb qu
+2009/09/27 19.54.23:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.54.25:	plyj-sor（plyj12256）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.54.26:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.54.28:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.54.31:	yin-ama（yin）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.54.36:	CHAOJINIUBSOR（xushuo102）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.54.38:	BAR-KP（KING）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.54.40:	Leaving Game Butcher@(*honghe) C16()@CNBN
+2009/09/27 19.54.44:	Entering Game Butcher@(*honghe) C17()@CNBN
+2009/09/27 19.54.52:	http://www.china-diablo.com CNBN
+2009/09/27 19.54.52:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 19.54.52:	Use !:help for all available commands and help information
+2009/09/27 19.54.59:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 19.55.47:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.55.51:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.55.56:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.55.59:	Leaving Game Butcher@(*honghe) C17()@CNBN
+2009/09/27 19.56.04:	Entering Game Butcher@(*honghe) C18()@CNBN
+2009/09/27 19.56.10:	http://www.china-diablo.com CNBN
+2009/09/27 19.56.10:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 19.56.12:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 19.56.12:	Use !:help for all available commands and help information
+2009/09/27 19.56.30:	JustDoIt（InDe-19）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.56.36:	yin-ama（yin）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 19.57.23:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.57.24:	INDE-SIWULJKC（InDe-45）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.57.29:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.57.30:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.57.32:	CHAOJINIUBSOR（xushuo102）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.57.33:	JustDoIt（InDe-19）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.57.35:	yin-ama（yin）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.57.36:	Leaving Game Butcher@(*honghe) C18()@CNBN
+2009/09/27 19.57.40:	Entering Game Butcher@(*honghe) C19()@CNBN
+2009/09/27 19.57.48:	http://www.china-diablo.com CNBN
+2009/09/27 19.57.48:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 19.57.48:	Use !:help for all available commands and help information
+2009/09/27 19.58.12:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 19.59.08:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.59.12:	INDE-SIWULJKC（InDe-45）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.59.14:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.59.21:	shania-twain（czj520）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.59.21:	JustDoIt（InDe-19）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.59.21:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.59.21:	CHAOJINIUBSOR（xushuo102）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 19.59.21:	Leaving Game Butcher@(*honghe) C19()@CNBN
+2009/09/27 20.00.41:	Entering Game Butcher@(*honghe) C21()@CNBN
+2009/09/27 20.00.50:	INDE-SIWULJKC（InDe-45）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 20.00.50:	http://www.china-diablo.com CNBN
+2009/09/27 20.00.50:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.00.50:	Use !:help for all available commands and help information
+2009/09/27 20.00.53:	hijack（hijack）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 20.00.56:	CHAOJIUNIUBBAR（xushuo102）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 20.01.03:	shania-twain（czj520）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 20.01.04:	C_light（teleibo）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 20.01.04:	Sor_GG（boss_lyan）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 20.01.18:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.02.17:	Sor_GG死亡，殺死他的是地獄之牛
+2009/09/27 20.02.20:	CHAOJIUNIUBBAR：....
+2009/09/27 20.02.21:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.02.30:	Sor_GG（boss_lyan）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 20.02.39:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.02.41:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.02.42:	INDE-SIWULJKC（InDe-45）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.02.43:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.02.48:	CHAOJIUNIUBBAR（xushuo102）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.02.51:	shania-twain（czj520）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.02.55:	Leaving Game Butcher@(*honghe) C21()@CNBN
+2009/09/27 20.02.59:	Entering Game Butcher@(*honghe) C22()@CNBN
+2009/09/27 20.03.05:	http://www.china-diablo.com CNBN
+2009/09/27 20.03.05:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.03.06:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.03.06:	Use !:help for all available commands and help information
+2009/09/27 20.03.47:	INDE-SIWULJKC死亡，殺死他的是地獄之牛
+2009/09/27 20.03.55:	inde-supermfsor死亡，殺死他的是地獄之牛
+2009/09/27 20.04.46:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.04.48:	INDE-SIWULJKC（InDe-45）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.04.49:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.04.49:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.04.50:	CHAOJIUNIUBBAR（xushuo102）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.04.51:	inde-supermfsor（InDe-16）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.04.51:	Leaving Game Butcher@(*honghe) C22()@CNBN
+2009/09/27 20.04.56:	Entering Game Butcher@(*honghe) C23()@CNBN
+2009/09/27 20.05.02:	http://www.china-diablo.com CNBN
+2009/09/27 20.05.02:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.05.03:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.05.03:	Use !:help for all available commands and help information
+2009/09/27 20.05.04:	shania-twain（czj520）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 20.06.58:	INDE-SIWULJKC死亡，殺死他的是地獄之牛
+2009/09/27 20.07.06:	Wuqituxing-IV：shui dai  kc 
+2009/09/27 20.07.28:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.07.55:	Roma_CiCi（naqueshi）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.08.01:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.08.02:	INDE-SIWULJKC（InDe-45）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.08.04:	shania-twain（czj520）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.08.10:	CHAOJIUNIUBBAR死亡，殺死他的是地獄之牛
+2009/09/27 20.08.12:	CHAOJIUNIUBBAR（xushuo102）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.08.13:	Leaving Game Butcher@(*honghe) C23()@CNBN
+2009/09/27 20.08.17:	Entering Game Butcher@(*honghe) C24()@CNBN
+2009/09/27 20.08.25:	http://www.china-diablo.com CNBN
+2009/09/27 20.08.25:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.08.25:	Use !:help for all available commands and help information
+2009/09/27 20.08.25:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.09.47:	CHAOJIUNIUBBAR死亡，殺死他的是地獄之牛
+2009/09/27 20.10.28:	Roma_CiCi（naqueshi）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.10.31:	DaMiMi_WfzonPK（DaMiMi）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.10.33:	C_light（teleibo）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.10.35:	INDE-SIWULJKC（InDe-45）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.10.36:	CHAOJIUNIUBBAR（xushuo102）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.10.37:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.10.38:	Leaving Game Butcher@(*honghe) C24()@CNBN
+2009/09/27 20.10.42:	Entering Game Butcher@(*honghe) C25()@CNBN
+2009/09/27 20.10.49:	http://www.china-diablo.com CNBN
+2009/09/27 20.10.50:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.10.50:	Use !:help for all available commands and help information
+2009/09/27 20.11.01:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.12.28:	<BattleNet>: InDe-45 is logged on from account #00000000, and is currently in game "C25".
+2009/09/27 20.12.55:	CHAOJIUNIUBBAR死亡，殺死他的是地獄之牛
+2009/09/27 20.13.04:	DaMiMi_WfzonPK（DaMiMi）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.13.08:	Roma_CiCi（naqueshi）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.13.09:	INDE-SIWULJKC（InDe-45）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.13.10:	CHAOJIUNIUBBAR（xushuo102）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.13.12:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.13.13:	C_light（teleibo）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.13.13:	JustDoIt（InDe-19）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.13.16:	Leaving Game Butcher@(*honghe) C25()@CNBN
+2009/09/27 20.13.20:	Entering Game Butcher@(*honghe) C26()@CNBN
+2009/09/27 20.13.28:	http://www.china-diablo.com CNBN
+2009/09/27 20.13.28:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.13.28:	Use !:help for all available commands and help information
+2009/09/27 20.13.37:	C_light：......21ie
+2009/09/27 20.13.57:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.14.08:	JustDoIt：gong xi fa cai
+2009/09/27 20.14.14:	C_light：xx,haha
+2009/09/27 20.14.29:	Sor_GG：fa hong bao
+2009/09/27 20.14.39:	C_light：mei ren 1W
+2009/09/27 20.16.01:	DaMiMi_WfzonPK死亡，殺死他的是地獄之牛
+2009/09/27 20.16.05:	DaMiMi_WfzonPK（DaMiMi）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.16.11:	Leaving Game Butcher@(*honghe) C26()@CNBN
+2009/09/27 20.16.33:	Entering Game Butcher@(*honghe) C27()@CNBN
+2009/09/27 20.16.41:	http://www.china-diablo.com CNBN
+2009/09/27 20.16.41:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.16.41:	Use !:help for all available commands and help information
+2009/09/27 20.16.45:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.16.46:	CHAOJIUNIUBBAR（xushuo102）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 20.16.51:	shania-twain（czj520）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/27 20.19.10:	Roma_CiCi（naqueshi）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.19.18:	Sor_GG（boss_lyan）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.19.18:	shania-twain（czj520）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.19.20:	CHAOJIUNIUBBAR（xushuo102）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 20.19.22:	Leaving Game Butcher@(*honghe) C27()@CNBN
+2009/09/27 20.22.22:	Entering Game Butcher@(*honghe) C28()@CNBN
+2009/09/27 20.22.57:	Leaving Game Butcher@(*honghe) C28()@CNBN
+2009/09/27 20.23.52:	Entering Game Butcher@(*honghe) Afew()@CNBN
+2009/09/27 20.24.00:	http://www.china-diablo.com CNBN
+2009/09/27 20.26.21:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.26.25:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.26.25:	Use !:help for all available commands and help information
+2009/09/27 20.29.26:	Leaving Game Butcher@(*honghe) Afew()@CNBN
+2009/09/27 20.29.30:	Entering Game Butcher@(*honghe) Drh()@CNBN
+2009/09/27 20.29.37:	http://www.china-diablo.com CNBN
+2009/09/27 20.29.37:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.29.39:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.29.39:	Use !:help for all available commands and help information
+2009/09/27 20.31.29:	Leaving Game Butcher@(*honghe) Drh()@CNBN
+2009/09/27 20.31.32:	Entering Game Butcher@(*honghe) Dsthr()@CNBN
+2009/09/27 20.31.38:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.31.39:	http://www.china-diablo.com CNBN
+2009/09/27 20.31.40:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.31.40:	Use !:help for all available commands and help information
+2009/09/27 20.34.08:	Leaving Game Butcher@(*honghe) Dsthr()@CNBN
+2009/09/27 20.34.11:	Entering Game Butcher@(*honghe) E()@CNBN
+2009/09/27 20.34.17:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.34.18:	http://www.china-diablo.com CNBN
+2009/09/27 20.34.19:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.34.19:	Use !:help for all available commands and help information
+2009/09/27 20.38.28:	Leaving Game Butcher@(*honghe) E()@CNBN
+2009/09/27 20.38.30:	Entering Game Butcher@(*honghe) Sey()@CNBN
+2009/09/27 20.38.36:	http://www.china-diablo.com CNBN
+2009/09/27 20.38.36:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.38.38:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.38.38:	Use !:help for all available commands and help information
+2009/09/27 20.40.05:	Leaving Game Butcher@(*honghe) Sey()@CNBN
+2009/09/27 20.40.10:	Entering Game Butcher@(*honghe) Eg1()@CNBN
+2009/09/27 20.40.15:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.40.16:	http://www.china-diablo.com CNBN
+2009/09/27 20.40.16:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.40.16:	Use !:help for all available commands and help information
+2009/09/27 20.42.22:	Leaving Game Butcher@(*honghe) Eg1()@CNBN
+2009/09/27 20.42.37:	Entering Game Butcher@(*honghe) Awef()@CNBN
+2009/09/27 20.42.43:	http://www.china-diablo.com CNBN
+2009/09/27 20.42.43:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.42.45:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.42.45:	Use !:help for all available commands and help information
+2009/09/27 20.44.48:	Leaving Game Butcher@(*honghe) Awef()@CNBN
+2009/09/27 20.44.52:	Entering Game Butcher@(*honghe) Eg5()@CNBN
+2009/09/27 20.44.58:	http://www.china-diablo.com CNBN
+2009/09/27 20.44.58:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.45.00:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.45.00:	Use !:help for all available commands and help information
+2009/09/27 20.49.15:	Leaving Game Butcher@(*honghe) Eg5()@CNBN
+2009/09/27 20.49.19:	Entering Game Butcher@(*honghe) Ftjy()@CNBN
+2009/09/27 20.49.24:	http://www.china-diablo.com CNBN
+2009/09/27 20.49.24:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.49.25:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.49.25:	Use !:help for all available commands and help information
+2009/09/27 20.49.34:	Leaving Game Butcher@(*honghe) Ftjy()@CNBN
+2009/09/27 20.49.39:	Entering Game Butcher@(*honghe) Eg8()@CNBN
+2009/09/27 20.49.44:	http://www.china-diablo.com CNBN
+2009/09/27 20.49.44:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.49.46:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.49.46:	Use !:help for all available commands and help information
+2009/09/27 20.50.54:	Leaving Game Butcher@(*honghe) Eg8()@CNBN
+2009/09/27 20.50.57:	Entering Game Butcher@(*honghe) Awef()@CNBN
+2009/09/27 20.51.03:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.51.04:	http://www.china-diablo.com CNBN
+2009/09/27 20.51.04:	Leaving Game Butcher@(*honghe) Awef()@CNBN
+2009/09/27 20.51.08:	Entering Game Butcher@(*honghe) Eg9()@CNBN
+2009/09/27 20.51.13:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.51.14:	http://www.china-diablo.com CNBN
+2009/09/27 20.51.14:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.51.14:	Use !:help for all available commands and help information
+2009/09/27 20.53.26:	Leaving Game Butcher@(*honghe) Eg9()@CNBN
+2009/09/27 20.53.32:	Entering Game Butcher@(*honghe) Tyfjt()@CNBN
+2009/09/27 20.53.37:	http://www.china-diablo.com CNBN
+2009/09/27 20.53.37:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.53.39:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.53.39:	Use !:help for all available commands and help information
+2009/09/27 20.55.34:	Leaving Game Butcher@(*honghe) Tyfjt()@CNBN
+2009/09/27 20.55.37:	Entering Game Butcher@(*honghe) Awr()@CNBN
+2009/09/27 20.55.43:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 20.55.44:	http://www.china-diablo.com CNBN
+2009/09/27 20.55.44:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 20.55.44:	Use !:help for all available commands and help information
+2009/09/27 22.22.02:	------------------------------------------------------
+2009/09/27 22.22.02:	Diablo2 Chat Log Hack, Logging started...
+2009/09/27 22.22.02:	Entering Game GM-TWO@(*gm2) Awef()@CNBN
+2009/09/27 22.22.09:	http://www.china-diablo.com CNBN
+2009/09/27 22.22.09:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 22.22.42:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 22.22.42:	Use !:help for all available commands and help information
+2009/09/27 22.23.18:	Leaving Game GM-TWO@(*gm2) Awef()@CNBN
+2009/09/27 22.24.49:	Entering Game GM-TWO@(*gm2) Awf()@CNBN
+2009/09/27 22.24.54:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 22.24.55:	http://www.china-diablo.com CNBN
+2009/09/27 22.24.57:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 22.24.57:	Use !:help for all available commands and help information
+2009/09/27 22.25.16:	<Hackmap>: Config Reload Successful 
+2009/09/27 22.25.18:	<Hackmap>: Config Reload Successful 
+2009/09/27 22.36.41:	------------------------------------------------------
+2009/09/27 22.36.41:	Diablo2 Chat Log Hack, Logging started...
+2009/09/27 22.36.41:	Entering Game Butcher@(*honghe) C38()@CNBN
+2009/09/27 22.36.48:	Wuqituxing-IV（Cobra-05）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 22.36.48:	http://www.china-diablo.com CNBN
+2009/09/27 22.36.48:	TJF-AMA（tjf）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 22.36.48:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 22.36.50:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 22.36.50:	Use !:help for all available commands and help information
+2009/09/27 22.36.50:	yy_sOr（yanhua）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 22.36.52:	coco（huangqc）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 22.36.56:	tianzai_kcsor（tianzai）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 22.37.11:	lengxue-sor（lengxue）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 22.42.49:	<Hackmap>: Config Reload Successful 
+2009/09/27 22.42.49:	<Hackmap>: Config Reload Successful 
+2009/09/27 22.44.03:	<Hackmap>: Config Reload Successful 
+2009/09/27 22.44.11:	<Hackmap>: Config Reload Successful 
+2009/09/27 22.52.02:	<Hackmap>: Config Reload Successful 
+2009/09/27 22.52.03:	<Hackmap>: Config Reload Successful 
+2009/09/27 22.52.26:	Leaving Game Butcher@(*honghe) C38()@CNBN
+2009/09/27 22.52.29:	Entering Game Butcher@(*honghe) Hdrth()@CNBN
+2009/09/27 22.52.35:	http://www.china-diablo.com CNBN
+2009/09/27 22.52.35:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 22.52.37:	Leaving Game Butcher@(*honghe) Hdrth()@CNBN
+2009/09/27 22.52.54:	Entering Game InDe-FreeStyle@(*inde-6) Hdrt()@CNBN
+2009/09/27 22.53.00:	http://www.china-diablo.com CNBN
+2009/09/27 22.53.00:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 22.53.14:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 22.53.14:	Use !:help for all available commands and help information
+2009/09/27 22.53.56:	Leaving Game InDe-FreeStyle@(*inde-6) Hdrt()@CNBN
+2009/09/27 22.54.00:	Entering Game InDe-FreeStyle@(*inde-6) C38()@CNBN
+2009/09/27 22.54.06:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 22.54.07:	http://www.china-diablo.com CNBN
+2009/09/27 22.54.08:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 22.54.08:	Use !:help for all available commands and help information
+2009/09/27 22.54.30:	Leaving Game InDe-FreeStyle@(*inde-6) C38()@CNBN
+2009/09/27 23.08.09:	Entering Game InDe-FreeStyle@(*inde-6) Drth()@CNBN
+2009/09/27 23.08.15:	http://www.china-diablo.com CNBN
+2009/09/27 23.08.15:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 23.08.18:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 23.08.18:	Use !:help for all available commands and help information
+2009/09/27 23.08.27:	Leaving Game InDe-FreeStyle@(*inde-6) Drth()@CNBN
+2009/09/27 23.08.35:	Entering Game InDe-FreeStyle@(*inde-6) C3()@CNBN
+2009/09/27 23.08.41:	http://www.china-diablo.com CNBN
+2009/09/27 23.08.41:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 23.08.42:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/27 23.08.42:	Use !:help for all available commands and help information
+2009/09/27 23.08.49:	XZ_FeiTianKCI：xiao6 z
+2009/09/27 23.08.51:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.08.52:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.09.36:	XZ_FeiTianKCI（xz_12）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 23.09.48:	InUtero-SoR死亡，殺死他的是母牛之王
+2009/09/27 23.10.00:	InUtero-SoR（InUtero）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 23.12.12:	<BattleNet>: diablofans is logged on from account #00000000, and is currently in game "C3".
+2009/09/27 23.12.14:	InDe-FreeStyle：
+2009/09/27 23.12.34:	SUPER_GIRLS（diablofans）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/27 23.45.57:	------------------------------------------------------
+2009/09/27 23.45.57:	Diablo2 Chat Log Hack, Logging started...
+2009/09/27 23.45.57:	Entering Game ss@(*) ()@
+2009/09/27 23.46.00:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 23.46.10:	Leaving Game ss@(*) ()@
+2009/09/27 23.48.20:	Entering Game ss@(*) ()@
+2009/09/27 23.48.22:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/27 23.49.25:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.50.56:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.52.06:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.52.08:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.52.23:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.52.54:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.52.56:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.53.16:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.53.18:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.54.16:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.55.16:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.55.17:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.55.28:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.55.29:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.56.00:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.56.01:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.56.15:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.56.16:	<Hackmap>: Config Reload Successful 
+2009/09/27 23.57.11:	Leaving Game ss@(*) ()@
+2009/09/27 23.57.48:	Entering Game ss@(*) ()@
+2009/09/27 23.57.51:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 00.00.45:	<Hackmap>: Config Reload Successful 
+2009/09/28 00.00.47:	<Hackmap>: Config Reload Successful 
+2009/09/28 00.02.09:	Leaving Game ss@(*) ()@
+2009/09/28 00.18.51:	------------------------------------------------------
+2009/09/28 00.18.51:	Diablo2 Chat Log Hack, Logging started...
+2009/09/28 00.18.51:	Entering Game GM-TWO@(*gm2) Awfe()@CNBN
+2009/09/28 00.19.00:	http://www.china-diablo.com CNBN
+2009/09/28 00.19.00:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 00.21.43:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/28 00.21.43:	Use !:help for all available commands and help information
+2009/09/28 00.21.46:	Leaving Game GM-TWO@(*gm2) Awfe()@CNBN
+2009/09/28 16.36.04:	------------------------------------------------------
+2009/09/28 16.36.04:	Diablo2 Chat Log Hack, Logging started...
+2009/09/28 16.36.04:	Entering Game Butcher@(*honghe) Drht()@CNBN
+2009/09/28 16.36.12:	http://www.china-diablo.com CNBN
+2009/09/28 16.36.12:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 16.36.17:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/28 16.36.17:	Use !:help for all available commands and help information
+2009/09/28 16.42.22:	<Hackmap>: Config Reload Successful 
+2009/09/28 16.42.23:	<Hackmap>: Config Reload Successful 
+2009/09/28 16.42.39:	<Hackmap>: Config Reload Successful 
+2009/09/28 16.42.40:	<Hackmap>: Config Reload Successful 
+2009/09/28 16.42.47:	<Hackmap>: Config Reload Successful 
+2009/09/28 16.42.48:	<Hackmap>: Config Reload Successful 
+2009/09/28 16.43.00:	<Hackmap>: Config Reload Successful 
+2009/09/28 16.43.01:	<Hackmap>: Config Reload Successful 
+2009/09/28 16.43.06:	<Hackmap>: Config Reload Successful 
+2009/09/28 16.43.07:	<Hackmap>: Config Reload Successful 
+2009/09/28 16.43.42:	<Hackmap>: Config Reload Successful 
+2009/09/28 16.43.45:	<Hackmap>: Config Reload Successful 
+2009/09/28 16.45.33:	<Hackmap>: Config Reload Successful 
+2009/09/28 16.45.34:	<Hackmap>: Config Reload Successful 
+2009/09/28 16.55.46:	Leaving Game Butcher@(*honghe) Drht()@CNBN
+2009/09/28 16.57.38:	Entering Game MF-Kcsor@(*honghe) ()@
+2009/09/28 16.57.42:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 17.03.11:	Leaving Game MF-Kcsor@(*honghe) ()@
+2009/09/28 17.35.22:	------------------------------------------------------
+2009/09/28 17.35.22:	Diablo2 Chat Log Hack, Logging started...
+2009/09/28 17.35.22:	Entering Game Butcher@(*honghe) Eg1()@CNBN
+2009/09/28 17.35.29:	http://www.china-diablo.com CNBN
+2009/09/28 17.35.29:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 17.35.32:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/28 17.35.32:	Use !:help for all available commands and help information
+2009/09/28 17.37.49:	Leaving Game Butcher@(*honghe) Eg1()@CNBN
+2009/09/28 18.00.01:	------------------------------------------------------
+2009/09/28 18.00.01:	Diablo2 Chat Log Hack, Logging started...
+2009/09/28 18.00.01:	Entering Game Butcher@(*honghe) C3()@CNBN
+2009/09/28 18.00.08:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 18.00.09:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/28 18.00.09:	Use !:help for all available commands and help information
+2009/09/28 18.00.09:	http://www.china-diablo.com CNBN
+2009/09/28 18.00.14:	freeeee（freellen）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.00.18:	Leaving Game Butcher@(*honghe) C3()@CNBN
+2009/09/28 18.00.25:	Entering Game Butcher@(*honghe) C4()@CNBN
+2009/09/28 18.00.30:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 18.00.31:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/28 18.00.31:	Use !:help for all available commands and help information
+2009/09/28 18.00.31:	http://www.china-diablo.com CNBN
+2009/09/28 18.00.48:	f-f（czj5200）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.02.24:	freeeee（freellen）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.02.31:	Qcj_bb（qqccjj）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.02.32:	Leaving Game Butcher@(*honghe) C4()@CNBN
+2009/09/28 18.02.36:	Entering Game Butcher@(*honghe) C5()@CNBN
+2009/09/28 18.02.44:	http://www.china-diablo.com CNBN
+2009/09/28 18.02.44:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/28 18.02.44:	Use !:help for all available commands and help information
+2009/09/28 18.02.47:	Qcj_bb（qqccjj）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.02.51:	XiaoXiao-sOr（XIAOXIAO1219）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.03.00:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 18.03.01:	f-f（czj5200）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.03.08:	BB-Hit（diqiu46）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.03.38:	syh-kcsor（syh）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.04.08:	BB-Hit死亡，殺死他的是地獄之牛
+2009/09/28 18.04.15:	f-f死亡，殺死他的是地獄之牛
+2009/09/28 18.04.15:	XiaoXiao-sOr（XIAOXIAO1219）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.04.17:	BB-Hit（diqiu46）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.04.18:	f-f（czj5200）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.04.19:	Leaving Game Butcher@(*honghe) C5()@CNBN
+2009/09/28 18.04.31:	Entering Game Butcher@(*honghe) K8()@CNBN
+2009/09/28 18.04.36:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.04.36:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 18.04.37:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/28 18.04.37:	Use !:help for all available commands and help information
+2009/09/28 18.04.37:	lc_MFbar（lichleon）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.04.37:	Cool（Cammi）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.04.37:	http://www.china-diablo.com CNBN
+2009/09/28 18.04.38:	Leaving Game Butcher@(*honghe) K8()@CNBN
+2009/09/28 18.04.41:	Entering Game Butcher@(*honghe) K9()@CNBN
+2009/09/28 18.04.47:	Jojo（xswoow）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.04.47:	lc_MFbar（lichleon）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.04.47:	http://www.china-diablo.com CNBN
+2009/09/28 18.04.47:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 18.04.48:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/28 18.04.48:	Use !:help for all available commands and help information
+2009/09/28 18.04.48:	TTama（GOD）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.04.56:	<Hackmap>: Config Reload Successful 
+2009/09/28 18.04.58:	<Hackmap>: Config Reload Successful 
+2009/09/28 18.05.11:	BAR-KP（KING）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.05.44:	BAR-KP：rob 4#
+2009/09/28 18.05.52:	hijack：ds
+2009/09/28 18.05.53:	coco死亡，殺死他的是利刃魔
+2009/09/28 18.05.58:	BAR-KP：hehe xx
+2009/09/28 18.05.59:	coco：...
+2009/09/28 18.06.02:	coco（huangqc）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.06.12:	coco（huangqc）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.08.28:	coco（huangqc）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.08.34:	lc_MFbar（lichleon）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.08.35:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.08.43:	TTama（GOD）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.08.45:	Leaving Game Butcher@(*honghe) K9()@CNBN
+2009/09/28 18.08.49:	Entering Game Butcher@(*honghe) K10()@CNBN
+2009/09/28 18.08.55:	Jojo（xswoow）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.08.56:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/28 18.08.56:	Use !:help for all available commands and help information
+2009/09/28 18.08.56:	http://www.china-diablo.com CNBN
+2009/09/28 18.09.05:	BAR-KP（KING）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.09.09:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 18.09.26:	<Hackmap>: Config Reload Successful 
+2009/09/28 18.09.27:	<Hackmap>: Config Reload Successful 
+2009/09/28 18.09.41:	BAR-KP：hehe niu mm quan bao laji anjin
+2009/09/28 18.09.48:	hijack：hh
+2009/09/28 18.09.51:	BAR-KP：ygai hui bao orb ba
+2009/09/28 18.09.58:	hijack：en
+2009/09/28 18.10.33:	Cool（Cammi）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.10.41:	Cool：++
+2009/09/28 18.10.51:	Cool：xiexie
+2009/09/28 18.12.05:	coco（huangqc）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.12.22:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.12.23:	Cool（Cammi）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.12.23:	lc_MFbar（lichleon）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.12.29:	Leaving Game Butcher@(*honghe) K10()@CNBN
+2009/09/28 18.12.33:	Entering Game Butcher@(*honghe) K11()@CNBN
+2009/09/28 18.12.41:	Jojo（xswoow）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.12.41:	http://www.china-diablo.com CNBN
+2009/09/28 18.12.41:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 18.12.42:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/28 18.12.42:	Use !:help for all available commands and help information
+2009/09/28 18.12.42:	TTama（GOD）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.12.49:	TTama時間用盡加以排除。
+2009/09/28 18.12.52:	BAR-KP（KING）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.12.58:	TTama（GOD）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.15.50:	coco（huangqc）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.15.58:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.16.04:	TTama（GOD）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.16.06:	BAR-KP（KING）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.16.09:	Cool（Cammi）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.16.10:	lc_MFbar（lichleon）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.16.11:	Leaving Game Butcher@(*honghe) K11()@CNBN
+2009/09/28 18.16.14:	Entering Game Butcher@(*honghe) K12()@CNBN
+2009/09/28 18.16.21:	http://www.china-diablo.com CNBN
+2009/09/28 18.16.21:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/28 18.16.21:	Use !:help for all available commands and help information
+2009/09/28 18.16.21:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 18.16.23:	Jojo（xswoow）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.16.36:	BAR-KP：hehe niu mm mei ci odu neng chu liang ge anjin de
+2009/09/28 18.16.37:	XiaoXiao-sOr（XIAOXIAO1219）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.16.48:	lc_MFbar：shi de
+2009/09/28 18.17.00:	lc_MFbar正在忙碌
+2009/09/28 18.19.05:	coco（huangqc）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.19.08:	XiaoXiao-sOr（XIAOXIAO1219）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.19.09:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.19.11:	Jojo（xswoow）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.19.15:	Leaving Game Butcher@(*honghe) K12()@CNBN
+2009/09/28 18.19.18:	Entering Game Butcher@(*honghe) K13()@CNBN
+2009/09/28 18.19.24:	http://www.china-diablo.com CNBN
+2009/09/28 18.19.24:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 18.19.26:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/28 18.19.26:	Use !:help for all available commands and help information
+2009/09/28 18.19.33:	BAR-KP（KING）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.20.34:	<Hackmap>: Config Reload Successful 
+2009/09/28 18.20.34:	<Hackmap>: Config Reload Successful 
+2009/09/28 18.21.27:	swb-winter（swb-19）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.21.43:	swb-winter：+++
+2009/09/28 18.21.48:	swb-winter死亡，殺死他的是地獄之牛
+2009/09/28 18.21.50:	coco（huangqc）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.21.55:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.21.56:	swb-winter（swb-19）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.21.57:	XiaoXiao-sOr（XIAOXIAO1219）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.21.59:	Leaving Game Butcher@(*honghe) K13()@CNBN
+2009/09/28 18.22.02:	Entering Game Butcher@(*honghe) K14()@CNBN
+2009/09/28 18.22.09:	http://www.china-diablo.com CNBN
+2009/09/28 18.22.09:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/28 18.22.09:	Use !:help for all available commands and help information
+2009/09/28 18.22.13:	swb-winter（swb-19）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.22.17:	BAR-KP（KING）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.22.34:	BAR-KP：niu mm yifu
+2009/09/28 18.22.37:	syh-kcsor（syh）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.22.41:	syh-kcsor（syh）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.22.51:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 18.23.11:	hijack（hijack）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.23.53:	coco死亡，殺死他的是地獄之牛
+2009/09/28 18.24.01:	coco（huangqc）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.25.03:	swb-winter（swb-19）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.25.21:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.25.24:	BAR-KP（KING）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.25.26:	XiaoXiao-sOr（XIAOXIAO1219）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.25.31:	Leaving Game Butcher@(*honghe) K14()@CNBN
+2009/09/28 18.25.34:	Entering Game Butcher@(*honghe) K15()@CNBN
+2009/09/28 18.25.42:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/28 18.25.42:	Use !:help for all available commands and help information
+2009/09/28 18.25.42:	http://www.china-diablo.com CNBN
+2009/09/28 18.25.54:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 18.27.09:	small-mfsor（smallbee）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.27.34:	small-mfsor：+++xx
+2009/09/28 18.27.41:	coco（huangqc）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.27.44:	Puma_KcSor（sor_puma）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.27.50:	swb-winter（swb-19）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.27.50:	XiaoXiao-sOr（XIAOXIAO1219）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.27.50:	hijack（hijack）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.27.54:	BAR-KP（KING）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 18.27.56:	Leaving Game Butcher@(*honghe) K15()@CNBN
+2009/09/28 18.28.00:	Entering Game Butcher@(*honghe) K16()@CNBN
+2009/09/28 18.28.08:	http://www.china-diablo.com CNBN
+2009/09/28 18.28.08:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 18.28.09:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/28 18.28.09:	Use !:help for all available commands and help information
+2009/09/28 18.28.15:	small-mfsor（smallbee）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.28.28:	BAR-KP：buy 100pd/7mf sc
+2009/09/28 18.28.48:	Puma_KcSor：you  20life/100pd sc  ~~
+2009/09/28 18.28.54:	BAR-KP：yao mf de
+2009/09/28 18.28.57:	swb-winter時間用盡加以排除。
+2009/09/28 18.29.01:	Puma_KcSor：mei  na ge  
+2009/09/28 18.29.18:	swb-winter（swb-19）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.30.25:	BAR-KP：zm sell
+2009/09/28 18.30.48:	Puma_KcSor：wo  
+2009/09/28 18.30.56:	Leaving Game Butcher@(*honghe) K16()@CNBN
+2009/09/28 18.32.08:	Entering Game Butcher@(*honghe) Ser()@CNBN
+2009/09/28 18.32.14:	http://www.china-diablo.com CNBN
+2009/09/28 18.32.32:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 18.32.34:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/28 18.32.34:	Use !:help for all available commands and help information
+2009/09/28 18.32.40:	Leaving Game Butcher@(*honghe) Ser()@CNBN
+2009/09/28 18.32.43:	Entering Game Butcher@(*honghe) S()@CNBN
+2009/09/28 18.32.50:	http://www.china-diablo.com CNBN
+2009/09/28 18.32.57:	------------------------------------------------------
+2009/09/28 18.32.57:	Diablo2 Chat Log Hack, Logging started...
+2009/09/28 18.32.57:	Entering Game InDe-FreeStyle@(*inde-6) S()@CNBN
+2009/09/28 18.33.01:	InDe-FreeStyle（InDe-6）進入了我們的世界。暗黑破壞神的嘍囉又更強了。
+2009/09/28 18.33.01:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/28 18.33.01:	Use !:help for all available commands and help information
+2009/09/28 18.33.03:	http://www.china-diablo.com CNBN
+2009/09/28 18.33.03:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 18.33.05:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/28 18.33.05:	Use !:help for all available commands and help information
+2009/09/28 18.33.29:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/28 18.37.14:	InDe-FreeStyle（InDe-6）離開了我們的世界，暗黑破壞神的嘍囉被削弱了。
+2009/09/28 19.08.58:	Leaving Game Butcher@(*honghe) S()@CNBN
+2009/09/29 00.05.33:	------------------------------------------------------
+2009/09/29 00.05.33:	Diablo2 Chat Log Hack, Logging started...
+2009/09/29 00.05.33:	Entering Game Butcher@(*honghe) Awe()@CNBN
+2009/09/29 00.05.43:	http://www.china-diablo.com CNBN
+2009/09/29 00.05.43:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/29 00.05.49:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/29 00.05.49:	Use !:help for all available commands and help information
+2009/09/29 00.08.38:	Leaving Game Butcher@(*honghe) Awe()@CNBN
+2009/09/29 00.08.41:	Entering Game Butcher@(*honghe) Drth()@CNBN
+2009/09/29 00.08.47:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/29 00.08.49:	http://www.china-diablo.com CNBN
+2009/09/29 00.08.50:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/29 00.08.50:	Use !:help for all available commands and help information
+2009/09/29 00.12.25:	Leaving Game Butcher@(*honghe) Drth()@CNBN
+2009/09/29 00.12.48:	Entering Game Butcher@(*honghe) Ser()@CNBN
+2009/09/29 00.12.54:	http://www.china-diablo.com CNBN
+2009/09/29 00.12.57:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/29 00.12.59:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/29 00.12.59:	Use !:help for all available commands and help information
+2009/09/29 00.15.40:	Leaving Game Butcher@(*honghe) Ser()@CNBN
+2009/09/29 00.15.49:	Entering Game Butcher@(*honghe) Hdrth()@CNBN
+2009/09/29 00.15.54:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/29 00.15.55:	http://www.china-diablo.com CNBN
+2009/09/29 00.15.56:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/29 00.15.56:	Use !:help for all available commands and help information
+2009/09/29 00.17.54:	Leaving Game Butcher@(*honghe) Hdrth()@CNBN
+2009/09/29 00.18.05:	Entering Game Butcher@(*honghe) Drht()@CNBN
+2009/09/29 00.18.11:	<Hackmap>: Sting's Hackmap For Diablo II fixed by ding (v109.10) installed.
+2009/09/29 00.18.12:	http://www.china-diablo.com CNBN
+2009/09/29 00.18.12:	Welcome, you can use !:version and !:copyright to see the server information
+2009/09/29 00.18.12:	Use !:help for all available commands and help information
+2009/09/29 00.19.52:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.19.58:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.21.30:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.21.34:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.21.35:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.21.36:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.21.49:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.21.51:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.22.01:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.22.20:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.22.22:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.22.36:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.23.04:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.23.10:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.24.29:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.24.34:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.25.41:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.25.42:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.25.54:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.26.03:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.26.12:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.26.19:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.26.30:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.26.41:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.26.48:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.26.55:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.27.02:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.27.12:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.27.28:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.27.29:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.27.35:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.29.25:	<Hackmap>: Config Reload Successful 
+2009/09/29 00.29.32:	Leaving Game Butcher@(*honghe) Drht()@CNBN

@@ -1,0 +1,2 @@
+ ; findAreaColor($left, $top, $right, $bottom, $color, $shadow, $step, $title)
+ ; findPointColor($x, $y, $color)    ;---某个点是否有特定颜色，返回 true flase

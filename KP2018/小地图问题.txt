@@ -1,0 +1,6 @@
+点到亮绿色的
+
+暗黑下的plugin文件夹的d2hackmap.cfg 中找怪物属性，如
+Poison Immunity Desc:           "%2i"               //毒素免疫
+在单是数字2的前面加个1改为 12即可：
+Poison Immunity Desc:           "%12i"               //毒素免疫

@@ -8,8 +8,8 @@
 #RequireAdmin
 ; -----------绿色方块 0x18FB01        ；紫色 0xA420FC   红色 0xFC2C00    ，"0xCE8523" ;橙色
 Global $testversion = 0;  是测试版 1   0 为正式版
-Global $dingZhiFlag = 109 ;  没订制 0 ， 109 ，111 ,  113 ，    每个战网npc，出身地可能都不同，加入订制flag
-Local $onlykp = 1 ;    0 不是  1 专门kp
+Global $dingZhiFlag = 111 ;  没订制 0 ， 109 ，111 ,  113 ，    每个战网npc，出身地可能都不同，加入订制flag
+Global $onlykp = 0 ;    0 不是  1 专门kp
 
 Global $cheapversion = 0 ; 1 是简易版本，不装箱， 0 为全功能
 Local $debugmode = 0 ;   1 打开 0 关闭 手动调试模式，用于游戏内控制
@@ -52,8 +52,6 @@ $ranLimte = Random(-10, 13, 1) ;最大次数限制的前后范围   比如可以 80-20 或者 80+
 #include <string.au3>   ;16进制转字符串
 
 #include "CoProc.au3"
-
-
 
 ; d2
 ;AutoItSetOption("GUIOnEventMode", 1)
@@ -1036,7 +1034,7 @@ Func roomplay() ;房间内运行的主程序
 							Sleep(10)
 							fireMonsterByColor(10, 10, 780, 540, 0)
 							If $onlykp <> 1 Then
-								$killQuery = 3 ; 把标记位改为其他，就下局就可以k其他怪了
+								$killQuery = 1 ; 把标记位改为其他，就下局就可以k其他怪了
 								If $killQuery = 1 Then ;如果标记位是1，就不打了重新来
 									exitRoom()
 									Return
@@ -2326,12 +2324,15 @@ Func resumepet()
 		Sleep(2000)
 		$coord = findtianshi()
 		If $coord[0] >= 0 And $coord[1] >= 0 Then
-			TrayTip("", $coord[0] & $coord[1], 9, 16)
+			
+			TrayTip("", "复活方式1", 9, 16)
+			Sleep(1000)
 			MouseMove($coord[0], $coord[1]);
 			MouseClick('left', $coord[0], $coord[1] + 20)
 			Sleep(2000)
-			MouseMove(356, 130)
-			MouseClick("left", 356, 130, 1)
+			MouseMove(356, 140)
+			Sleep(500)
+			MouseClick("left", Default, Default, 1)
 			;MouseMove(356,135)      ; 复活pet
 			;MouseClick("left",356,135,1)
 			Sleep(2000)
@@ -2339,11 +2340,14 @@ Func resumepet()
 			Return
 		Else
 			;---------
+						
+			TrayTip("", "复活方式2", 9, 16)
+			Sleep(1000)
 			MouseMove(240, 200) ; 针对有的电脑特殊，尝试手动定位
 			Sleep(2000)
 			MouseClick("left", Default, Default, 1)
 			Sleep(3000)
-			MouseMove(356, 130)
+			MouseMove(356, 140)
 			MouseClick("left", Default, Default, 1)
 			Sleep(2000)
 			MouseClick("left", 400, 300, 1) ;双击一次，防止点到其他对话按钮

@@ -821,7 +821,7 @@
 								<object type="TARadio" name="Radio2">
 									<properties>
 										<property name="Left" vt="Int8">8</property>
-										<property name="Top" vt="Int8">126</property>
+										<property name="Top" vt="Int16">158</property>
 										<property name="Width" vt="Int8">121</property>
 										<property name="Height" vt="Int8">17</property>
 										<property name="Caption" vt="WString">特殊订制</property>
@@ -1003,6 +1003,20 @@
 											<components/>
 										</object>
 									</components>
+								</object>
+								<object type="TACheckbox" name="ckbLsor">
+									<properties>
+										<property name="Left" vt="Int8">8</property>
+										<property name="Top" vt="Int8">124</property>
+										<property name="Width" vt="Int8">121</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">LSOR 加强效率版</property>
+										<property name="TabOrder" vt="Int8">3</property>
+										<property name="CtrlStyle" vt="Int32">1342242819</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
 								</object>
 							</components>
 						</object>

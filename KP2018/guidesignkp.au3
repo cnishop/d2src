@@ -108,7 +108,7 @@ $RadP8 = GUICtrlCreateRadio("8", 316, 129, 65, 17)
 GUICtrlCreateGroup("", -99, -99, 1, 1)
 $Group2 = GUICtrlCreateGroup("角色攻击类型", 16, 164, 494, 281)
 $Radio1 = GUICtrlCreateRadio("通用类型", 24, 192, 97, 17)
-$Radio2 = GUICtrlCreateRadio("特殊订制", 24, 290, 121, 17)
+$Radio2 = GUICtrlCreateRadio("特殊订制", 24, 322, 121, 17)
 $Group12 = GUICtrlCreateGroup("", 124, 187, 353, 86)
 $Label11 = GUICtrlCreateLabel("传送", 136, 207, 28, 17)
 $cmbTpFire = GUICtrlCreateCombo("", 176, 207, 49, 25, BitOR($CBS_DROPDOWNLIST,$CBS_AUTOHSCROLL,$CBS_UPPERCASE))
@@ -122,6 +122,7 @@ GUICtrlSetData(-1, "F1|F2|F3|F4|F5|F6|F7|F8", "F1")
 $Label19 = GUICtrlCreateLabel("次数", 278, 235, 28, 17)
 $firelighttime = GUICtrlCreateInput("25", 350, 235, 49, 21, BitOR($GUI_SS_DEFAULT_INPUT,$ES_NUMBER))
 GUICtrlCreateGroup("", -99, -99, 1, 1)
+$ckbLsor = GUICtrlCreateCheckbox("LSOR 加强效率版", 24, 288, 121, 17)
 GUICtrlCreateGroup("", -99, -99, 1, 1)
 $Group1 = GUICtrlCreateGroup("帐号信息", 16, 41, 209, 113)
 $Label1 = GUICtrlCreateLabel("站网帐号", 24, 65, 52, 17)
@@ -778,8 +779,14 @@ Func saveinfor()
 EndFunc   ;==>saveinfor
 
 Func readinfor()
+	If $onlykp <> 1 Then 
+		GUICtrlSetState($ckbLsor, $GUI_CHECKED)
+		GUICtrlSetState($ckbLsor, $GUI_DISABLE)
+	Else
+		GUICtrlSetState($ckbLsor, $GUI_UNCHECKED)
+		GUICtrlSetState($ckbLsor, $GUI_DISABLE)
+	EndIf
 	
-
 	$usr = IniRead(@ScriptDir & "\" & $infofiles, "KP", "帐号", "")
 	$psd = _HexToString(IniRead(@ScriptDir & "\" & $infofiles, "KP", "密码", "")) ;16进制转换回二进制
 	$fire = IniRead(@ScriptDir & "\" & $infofiles, "KP", "类型", "1")

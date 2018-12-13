@@ -1,0 +1,606 @@
+ 
+'---把窗口先手动放在00 位置 
+Rem begin 
+Delay 3000 
+Dim Hwnd 
+Hwnd = Plugin.Window.MousePoint()
+Call Plugin.Window.Move(Hwnd, 0, 0)
+//下面这句是得到窗口句柄的客户区大小 
+sRect = Plugin.Window.GetClientRect(Hwnd)
+//下面这句用于分割字符串,将横坐标和纵坐标分成两个字符串
+dim MyArray   
+MyArray = Split(sRect, "|")   
+//下面这句将字符串转换成数值   
+L = Clng(MyArray(0)): T = Clng(MyArray(1))   
+R = Clng(MyArray(2)): B = Clng(MyArray(3)) 
+//得到人物中心坐标 
+dim XX,YY 
+XX=L+400 
+YY=T+300 
+//Goto path3 
+//Goto start2  测试打完后 
+//以下是单机游戏，默认第一个人物，选地狱难度，进游戏 
+//MoveTo XX,YY+20 
+//LeftClick 1 
+//Delay 100 
+//KeyPress "Enter", 1 
+//MoveTo XX,YY+50 
+//LeftClick 1 
+//Delay 3000 
+//以下是战网， 
+//建立游戏 
+Call checklogin() //建房间前后都检测 
+MoveTo XX + 180, YY + 160 
+Delay 300 
+LeftClick 1 
+Delay 300 
+Randomize 
+x = Int((99999 * Rnd) + 1) +Int((99 * Rnd) + 1) 
+SayString x 
+MoveTo XX+210,YY+120 
+LeftClick 1 
+Delay 5000 
+Call checklogin() //建房间前后都检测 
+Call notinroom() 
+Call checkact4()  //检查是否在act4
+Call dead()
+'检查是否有雇佣兵
+Call assistantdead()
+//查看是否血满了
+Call huibagxue()
+Call hebagxue() //除去物品栏多余的血
+        
+        
+//开始点步行到红门附近 
+KeyPress "Tab", 1 
+VBS Randomize 
+VBS wait1 = Int((2 * Rnd) + 1) 
+Delay wait1*1000 
+VBS Randomize 
+VBS sz = Int((3 * Rnd) + 1) 
+Call movedoor(sz)
+//查看是否血满了
+Call huixiaoxue()
+Call findDoor() 
+//Call notinroom()
+  
+//以下进入红门后操作  进行技能切换 
+KeyPress "F5", 1 
+RightClick 1 
+Delay 100 
+KeyPress "F1", 1 
+Delay 500 
+'移动到boss前 
+VBS Randomize 
+VBS mv = Int((3 * Rnd) + 1) 
+Call moveboss(mv) 
+Delay 10 
+//KeyPress "F3", 1 
+//MoveTo XX+110,YY-140 
+//For 6
+// 
+// MoveTo XX + 100, YY - 110
+// Delay 10
+//    RightDown 1
+//    Call huidaxue() //回血操作
+//
+//    Delay 300 
+//Next
+//
+//RightUp 1 
+//Delay 10
+//释放技能打怪 
+KeyPress "F2", 1 
+MoveTo XX+110,YY-140 
+For 15
+    MoveTo XX + 100, YY - 120
+    Delay 100
+    RightDown 1
+    Call huidaxue() //回血操作
+    MoveTo XX + 100, YY - 80
+    Delay 100
+    RightDown 1
+    Delay 10 
+Next
+KeyPress "F3", 1 
+MoveTo XX+110,YY-140 
+For 6
+    MoveTo XX + 100, YY - 120
+    Delay 10
+    RightDown 1
+    Call huidaxue() //回血操作
+    Delay 300 
+Next
+RightUp 1 
+Delay 10 
+//下面是打完怪找暗金的东西和红色东西 
+KeyDown "Alt", 1 
+Delay 500 
+dim Cor2(2) 
+dim s2,x2,y2 
+声明变量 
+Cor2(0)="1CC40C":Cor2(1)="1CC40C":Cor2(2)="1CC40C" 
+// 橙色 2084D0 绿色 008400 暗金 648094 亮绿 1CC40C   大回血的紫色 FC20A4 ,现改成绿色
+//定义颜色数组变量 请自行修改颜色代码 
+s2=0 
+定义数组下标初始值变量 
+For 3 
+    For 4 
+        //循环3次 
+        Delay 10 
+        //循环里设置延时  防止系统内存占用太高 
+ 
+        Call FindCenterColor(200, 0, 800, 580, Cor2(s2), x2, y2) 
+        //区域从中间向外查找颜色。0,0,1024,768为区域范围，Cor(s)为颜色数组变量，x,y为坐标变量 
+        If x2>0 and y2>0 Then 
+            //如果找到颜色 
+            Delay 200 
+            //延时100毫秒 
+            //Call MessageBox("找到颜色"&"Cor("&s&") "&"坐标为:"&x&","&y) 
+            MoveTo x2,y2 
+            Delay 200 
+            LeftClick 1 
+            Delay 1000 
+            //弹出窗口 找到颜色和坐标 
+        Else 
+            Delay 100 
+            //延时100毫秒 
+            //Call MessageBox("没找到颜色"&"Cor2("&s2&")") 
+            //弹出窗口 没有找到颜色 
+        End If 
+        //条件结束 
+    Next 
+    s2=s2+1 
+    //变量递增 
+Next 
+循环结束 
+KeyUp "Alt", 1 
+//退出游戏，重新开始 
+Call exitgame()
+Sub exitgame()
+    KeyPress "Esc", 1 
+    Delay 100 
+    MoveTo XX,YY-30 
+    Delay 100 
+    LeftClick 1
+    EndScript
+End Sub
+'--------------------- 
+Sub movedoor(path)  //进入游戏后移动到红门的路线 
+    Select Case path 
+    Case 1 
+        //情况1 
+        Rem path1  //右边 
+        MoveTo XX-50,YY+250 
+        LeftClick 1 
+        Delay 2000 
+        MoveTo XX+250,YY+200 
+        LeftClick 1 
+        Delay 1700 
+        MoveTo XX-280,YY+130 
+        LeftClick 1 
+        Delay 1400 
+        MoveTo XX-280,YY+130 
+        LeftClick 1 
+        Delay 1400 
+        MoveTo XX-280,YY+130 
+        LeftClick 1 
+        Delay 1400 
+        MoveTo XX-380,YY+60 
+        Delay 100 
+        LeftClick 1 
+        Delay 1300 
+    Case 2 
+        //情况2 
+        Rem path2  //左边 
+        MoveTo XX-380,YY 
+        LeftClick 1 
+        Delay 2000 
+        MoveTo XX-380,YY 
+        LeftClick 1 
+        Delay 1900 
+        MoveTo XX-280,YY+180 
+        LeftClick 1 
+        Delay 1700 
+        MoveTo XX-280,YY+180 
+        LeftClick 1 
+        Delay 1400 
+        MoveTo XX-280,YY+180 
+        LeftClick 1 
+        Delay 1400 
+        MoveTo XX+250,YY+150 
+        LeftClick 1 
+        Delay 1400 
+        MoveTo XX+250,YY+150 
+        Delay 100 
+        LeftClick 1 
+        Delay 1300 
+    Case 3 
+    
+        Rem path3  //zuobian 
+        MoveTo XX-150,YY+180 
+        LeftClick 1 
+        Delay 1800 
+        MoveTo XX+360,YY+190 
+        LeftClick 1 
+        Delay 1700 
+        MoveTo XX-350,YY+190 
+        LeftClick 1 
+        Delay 1400 
+        MoveTo XX-350,YY+190 
+        LeftClick 1 
+        Delay 1400 
+        MoveTo XX-360,YY+190 
+        LeftClick 1 
+        Delay 1300 
+        MoveTo XX-250,YY-50 
+        LeftClick 1 
+        Delay 1300 
+    Case Else 
+        //否则 
+        Goto path1
+        //        
+        //        MoveTo XX-260,YY+220 
+        //        LeftClick 1 
+        //        Delay 2000 
+        //        MoveTo XX-200,YY+200 
+        //        Delay 100 
+        //        LeftClick 1 
+        //        Delay 1400 
+        //        MoveTo XX + 80, YY + 150 
+        //        Delay 100 
+        //        LeftClick 1 
+        //        Delay 1400 
+        //        MoveTo XX-200,YY+180 
+        //        LeftClick 1 
+        //        Delay 1400 
+        //        MoveTo XX-200,YY+180 
+        //        LeftClick 1 
+        //        Delay 1400 
+        //        MoveTo XX-280,YY+20 
+        //        Delay 100 
+        //        LeftClick 1 
+        //        Delay 1300 
+    End Select 
+End Sub 
+'--------------------- 
+Sub finddoor() 
+    //下面开始找红门 
+    dim Cor(2) 
+    dim s,x,y 
+    //声明变量 
+    Cor(0)="FFFFFF"//:Cor(1)="484848":Cor(2)="585858" 
+    //定义颜色数组变量 请自行修改颜色代码 
+    s=0 
+    //定义数组下标初始值变量 
+    For 3 
+        //循环3次 
+        Delay 10 
+        //循环里设置延时  防止系统内存占用太高 
+        //VBSCall FindCenterColor(0,0,1024,768,Cor(s),x,y) 
+        Call FindCenterColor(0,0,600,480,Cor(s),x,y) 
+        //区域从中间向外查找颜色。0,0,1024,768为区域范围，Cor(s)为颜色数组变量，x,y为坐标变量 
+        If x>0 and y>0 Then 
+            Delay 100 
+            MoveTo x,y 
+            Delay 1000 
+            LeftClick 1 
+            Delay 2000 
+        Else 
+            Delay 100 
+        End If 
+        //条件结束 
+        s=s+1 
+        //变量递增 
+    Next 
+    //循环结束 
+End Sub 
+'--------------------- 
+Sub moveboss(pathboss) 
+    Select Case pathboss 
+    Case 1 
+        //情况1 
+        '移动到boss前 
+        MoveTo XX+200,YY-150 
+        Delay 300 
+        RightClick 1 
+        Delay 500 
+        MoveTo XX+200,YY-150 
+        Delay 300 
+        RightClick 1 
+        Delay 500 
+        MoveTo XX+200,YY-150 
+        Delay 300 
+        RightClick 1 
+        Delay 500 
+        MoveTo XX+200,YY-150 
+        Delay 300 
+        RightClick 1 
+        Delay 500 
+        MoveTo XX+230,YY-180 
+        Delay 300 
+        RightClick 1 
+        Delay 500 
+    Case 2 
+        //情况2 
+        MoveTo XX+290,YY-150 
+        Delay 100 
+        RightClick 1 
+        Delay 500 
+        MoveTo XX+290,YY-150 
+        Delay 300 
+        RightClick 1 
+        Delay 500 
+        MoveTo XX+290,YY-150 
+        Delay 300 
+        RightClick 1 
+        Delay 500 
+        MoveTo XX-150,YY-150 
+        Delay 300 
+        RightClick 1 
+        Delay 700 
+        MoveTo XX+330,YY-200 
+        Delay 300 
+        RightClick 1 
+        Delay 500 
+    Case Else 
+        //否则 
+        MoveTo XX+100,YY-230 
+        Delay 100 
+        RightClick 1 
+        Delay 500 
+        MoveTo XX+280,YY-150 
+        Delay 300 
+        RightClick 1 
+        Delay 500 
+        MoveTo XX+280,YY-150 
+        Delay 300 
+        RightClick 1 
+        Delay 500 
+        MoveTo XX+120,YY-120 
+        Delay 300 
+        RightClick 1 
+        Delay 500 
+        MoveTo XX+280,YY-120 
+        Delay 300 
+        RightClick 1 
+        Delay 500 
+        
+    End Select 
+End Sub 
+  
+'------------------------ 
+Sub checklogin()    //登录界面的检查 
+    Rem again 
+    Call FindPic(0,0,800,600,"login.bmp",0.9,intX,intY) //登录首页面 
+    If intX > 0 and intY > 0 Then 
+        MoveTo XX,YY+50 
+        LeftClick 1 
+        Delay 2000 
+    End If 
+ 
+    Dim usr
+    usr = "james2005" 
+    Dim pwd
+    pwd = "111222" 
+    Call FindPic(0,0,800,600,"loginnet.bmp",0.9,intX,intY) //看是否是在登录战网界面 
+    If intX > 0 and intY > 0 Then 
+        Delay 100 
+        MoveTo XX,YY+40 
+        LeftDoubleClick 1 
+        Delay 500 
+        SayString usr 
+        Delay 500 
+        MoveTo XX,YY+90 
+        LeftDoubleClick 1 
+        Delay 100 
+        SayString pwd 
+        Delay 100 
+        KeyPress "Enter", 1 
+        Delay 5000 
+    End If 
+    Call FindPic(0,0,800,600,"role.bmp",0.9,intX,intY) //看是否是选择人物界面 
+    If intX > 0 and intY > 0 Then 
+        Delay 100 
+        KeyPress "Down", 1 
+        Delay 100 
+        KeyPress "Down", 1 
+        Delay 100 
+        KeyPress "Right", 1 
+        Delay 500 
+        KeyPress "Enter", 1 
+        Delay 1000 
+    End If 
+    Call FindPic(0,0,800,600,"net.bmp",0.9,intX,intY) //建立房间界面 
+    If intX > 0 and intY > 0 Then 
+        Call FindPic(0,0,800,600,"wait.bmp",0.9,intX,intY) //如果显示等待中 
+        If intX > 0 and intY > 0 Then 
+            KeyPress "Enter", 1 
+            Delay 1000 
+            EndScript 
+        End If 
+    
+        Call FindPic(0,0,800,600,"wait2.bmp",0.9,intX,intY) //如果显示等待中 
+        If intX > 0 and intY > 0 Then 
+            KeyPress "Enter", 1 
+            Delay 1000 
+            EndScript
+        End If 
+    
+    End If 
+End Sub 
+Sub huibagxue()  //回大血
+    //查看是否血满了
+    Call FindPic(0,0,800,600,"life.bmp",0.9,intX,intY) //看是否是选择人物界面 
+    If intX < 0 and intY < 0 Then 
+        Delay 100
+        KeyPress "B", 1
+        Call FindPic(0,0,800,600,"huixue.bmp",0.8,intX,intY) //看是找到背包中的红
+        If intX > 0 and intY > 0 Then 
+            Delay 100
+            MoveTo intX, intY
+            Delay 200
+            RightClick 1
+            Delay 100
+        Else 
+            Call huixiaoxue()
+        End If
+        KeyPress "B", 1
+    End If
+    
+End Sub
+Sub hebagxue()  //除去物品栏多余血瓶
+    //查看是否血满了
+    Delay 100
+    KeyPress "B", 1
+    for 3
+        Call FindPic(0,0,800,600,"huixue.bmp",0.7,intX,intY) //看是找到背包中的红
+        If intX > 0 and intY > 0 Then 
+            Delay 100
+            MoveTo intX, intY
+            Delay 300
+            RightClick 1
+            Delay 500
+        End If
+    Next
+    KeyPress "B", 1
+    
+End Sub
+Sub huidaxue() //回大血，瞬间的
+    //查看是否血满了
+    Call FindPic(0,0,800,600,"life.bmp",0.9,intX,intY) //看是否是选择人物界面 
+    If intX < 0 and intY < 0 Then 
+        KeyPress "2", 1
+        Delay 10
+    End If
+    
+End Sub
+Sub huixiaoxue() //回小血
+    //查看是否血满了
+    Call FindPic(0,0,800,600,"life.bmp",0.9,intX,intY) //看是否是选择人物界面 
+    If intX < 0 and intY < 0 Then 
+        KeyPress "1", 1
+        Delay 100
+    End If
+    
+End Sub
+Sub dead() //检查人物是否挂了
+    //查看是否血满了
+    Delay 100
+    KeyPress "B", 1
+    Delay 100
+    Call FindPic(0,0,800,600,"noassemble.bmp",0.8,intX,intY) //看是否是选择人物界面 
+    If intX > 0 and intY > 0 Then 
+        KeyPress "B", 1
+        Delay 100
+        MoveTo XX, YY+1
+        LeftClick 1
+        Delay 100
+        MoveTo XX, YY-1
+        LeftClick 1
+        Delay 100      
+    Else
+        KeyPress "B", 1
+    End If
+End Sub
+'检查是否有雇佣兵
+Sub assistantdead()
+    Call FindCenterColor(0, 0, 100, 100, "008400", x2, y2)
+    If x2 < 0 and y2 < 0 Then 
+        //Call Plugin.Media.Play("C:\WINDOWS\Media\Windows XP 启动.wav")
+        Delay 1000
+        //下面这句是关闭声音播放
+        Call Plugin.Media.Stop()
+        Call assistant()
+        
+        EndScript
+    End If  
+End Sub
+Sub assistant()
+    MoveTo XX-260,YY+220 
+    LeftClick 1 
+    Delay 2000 
+    MoveTo XX-200,YY+200 
+    Delay 100 
+    LeftClick 1 
+    Delay 2000
+        
+    MoveTo XX - 100, YY - 230
+    Delay 100
+    LeftClick 1
+    Delay 100
+    MoveTo XX - 100, YY - 160
+    Delay 100
+    LeftClick 1
+    Delay 2000
+    MoveTo XX - 350, YY - 100
+    Delay 10
+    LeftClick 1
+    Delay 2000
+          
+    Call FindPic(0,0,800,600,"tairuier.bmp",0.5,intX,intY) //看是否是选择人物界面 
+    If intX > 0 and intY > 0 Then 
+        MoveTo intX, intY
+        Delay 1000
+        LeftClick 1
+        Delay 2000
+        MoveTo XX - 10, YY - 170   
+        Delay 300
+        LeftClick 1
+        Delay 2000
+    End If
+     
+    MoveTo XX + 340, YY + 170
+    Delay 100
+    LeftClick 1
+    Delay 2000
+     
+    Call FindPic(0,0,800,600,"act4point.bmp",0.5,intX,intY) //看是否是选择人物界面 
+    If intX > 0 and intY > 0 Then   
+        MoveTo intX, intY
+        Delay 100
+        LeftClick 1
+        Delay 2000
+    End If
+    
+    MoveTo XX - 60, YY - 230
+    Delay 100
+    LeftClick 1
+    Delay 100
+    MoveTo XX - 60, YY - 160
+    Delay 100
+    LeftClick 1
+    Delay 2000
+    Call exitgame()
+End Sub
+Function notinroom()
+    Call FindCenterColor(300, 550, 350, 640,"4888B0",intX,intY)
+    If intX<0 and intY<0 Then  
+        EndScript
+    End If
+End Function
+Sub checkact4()
+ 
+    KeyPress "Q", 1
+    Delay 500
+    Call FindPic(0,0,800,600,"act4.bmp",0.8,intX,intY) //看是否是选择人物界面 
+    If intX > 0 and intY > 0 Then 
+        KeyPress "Q", 1
+        Delay 500
+        MoveTo XX + 340, YY - 260 
+        Delay 100
+        LeftClick 1
+        Delay 3000
+        MoveTo XX - 60, YY - 230
+        Delay 100
+        LeftClick 1
+        Delay 100
+        MoveTo XX - 60, YY - 160
+        Delay 100
+        LeftClick 1
+        Delay 2000
+        Call exitgame()
+    End If
+    KeyPress "Q", 1
+    
+End Sub

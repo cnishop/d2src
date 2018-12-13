@@ -1,0 +1,242 @@
+
+Func fire3cByBlock($XBS_Start, $YBS_Start, $XBS_Stop, $YBS_Stop)
+	$findrecround = 0 ;  中间往四周找的次数
+	$bhtime = 5
+	$XBS_Start = $XBS_Start
+	$YBS_Start = $YBS_Start
+	$XBS_Stop = $XBS_Stop
+	$YBS_Stop = $YBS_Stop
+	
+	$xleft_diff = 100
+	$ytop_diff = 100
+	$xright_diff = 100
+	$ybottom_diff = 100
+
+	
+	#CS
+		$xleft_diff = 0
+		$ytop_diff = 0
+		$xright_diff = 0
+		$ybottom_diff = 0
+	#CE
+	
+	
+	
+	$FailsCount = 0
+	Sleep(50)
+	Send("{" & $char_Bh & "}")
+	Sleep(30)
+	Send("{" & $char_Conc & "}")
+	Sleep(30)
+	$beginAttackTime = TimerInit()
+	
+	;---------------最开始先打一次
+	Send("{LSHIFT down}")
+	Sleep(50)
+	MouseMove(500, 350)
+	;ExitLoop
+	;MouseDown("left")
+	For $i = 0 To 4 Step 1
+		For $j = 0 To 10 Step 1
+			MouseClick("left", 500, 350, 1)
+			Sleep(100)
+			;Sleep(1000)
+		Next
+	Next
+	;MouseUp("left")
+	Sleep(50)
+	Send("{LSHIFT up}")
+	;---------------最开始先打一次
+	
+	Do
+		$XYBlock = PixelSearch($XBS_Start, $YBS_Start, $XBS_Stop, $YBS_Stop, "0xFC2C00", 0, 10)
+		If Not @error Then
+			TrayTip("", "找到类似boss，查找需攻击的3C", 1, 16)
+			Sleep(200)
+			$XBC = 400 ;以人物坐标为中心， 太远离，肯定肯定打不到
+			$YBC = 300
+
+			While 1
+				addmanatorole()
+				addBloodtorole()
+				
+				If checkNowDead() = 1 Then ;如果死亡
+					;ExitLoop 2
+					TrayTip("", "人物挂了...", 1, 16)
+					Sleep(500)
+					Return
+				EndIf
+				
+				TrayTip("", "重新查找区域1：" & $XBC - $xleft_diff & $YBC - $ytop_diff & $XBC + $xright_diff & $YBC + $ybottom_diff, 1, 16)
+				Sleep(500)
+				;If AreaColorCountCheck(200, 100, 600, 520, 15, "FC2C00", 20, 500, 15) == 1 Then
+
+				
+				$tp_Pix = PixelSearch($XBC - $xleft_diff, $YBC - $ytop_diff, $XBC + $xright_diff, $YBC + $ybottom_diff, "0xFC2C00", 0, 10)
+				;$tp_Pix = PixelSearch(50, 20, 790, 520, "0xFC2C00", 0, 10)
+				If Not @error Then
+					MouseMove($tp_Pix[0], $tp_Pix[1])
+					TrayTip("", "攻击范围内查找到可能的目标，准备检测", 1, 16)
+					Dim $tp_PixS[9]
+					$tp_PixS[1] = PixelGetColor($tp_Pix[0] + 10, $tp_Pix[1])
+					$tp_PixS[2] = PixelGetColor($tp_Pix[0] + 13, $tp_Pix[1])
+					$tp_PixS[3] = PixelGetColor($tp_Pix[0] - 10, $tp_Pix[1])
+					$tp_PixS[4] = PixelGetColor($tp_Pix[0] - 13, $tp_Pix[1])
+					$tp_PixS[5] = PixelGetColor($tp_Pix[0], $tp_Pix[1] + 10)
+					$tp_PixS[6] = PixelGetColor($tp_Pix[0], $tp_Pix[1] + 13)
+					$tp_PixS[7] = PixelGetColor($tp_Pix[0], $tp_Pix[1] - 10)
+					$tp_PixS[8] = PixelGetColor($tp_Pix[0], $tp_Pix[1] - 13)
+					$SimpleCounter = 0
+					For $p = 1 To 8
+						If Hex($tp_PixS[$p], 6) == "FC2C00" Then
+							$SimpleCounter = $SimpleCounter + 1
+						EndIf
+					Next
+					If $SimpleCounter >= 5 Then
+						;此时表示可能找到了属于怪物的方块颜色
+						;此时如果距离太近或太远，可能要移动下位置才好打
+						
+						$xx = $tp_Pix[0] - 400
+						$yy = $tp_Pix[1] - 300
+						
+						
+						$xiebian = Sqrt($xx * $xx + $yy * $yy)
+						;TrayTip("", "怪距离：" & $xiebian, 1, 16)
+						;Sleep(100)
+						If $xiebian >= 300 Then
+							TrayTip("", "距离怪物太远了，不一定攻击到", 1, 16)
+							Sleep(100)
+							MouseClick("left", $tp_Pix[0], $tp_Pix[1], 2)
+							Sleep(500)
+						ElseIf $xiebian <= 50 Then
+							TrayTip("", "距离太近了，不一定攻击到,稍微移动下", 1, 16)
+							Sleep(100)
+							MouseClick("left", 400 + Random(-100, 100, 1), 300 + Random(-50, 50, 1), 2)
+							Sleep(50)
+						EndIf
+
+
+						;TrayTip("", "原地释放BH技能" & $bhtime / 1000 & "秒.", 1, 16)
+						TrayTip("", "原地释放BH技能", 1, 16)
+						addmanatorole()
+						addBloodtorole()
+						Send("{LSHIFT down}")
+						Sleep(50)
+						MouseMove($tp_Pix[0], $tp_Pix[1])
+						;ExitLoop
+						;MouseDown("left")
+						For $i = 0 To $bhtime Step 1
+							For $j = 0 To 10 Step 1
+								MouseClick("left", $tp_Pix[0], $tp_Pix[1], 1)
+								Sleep(100)
+								;Sleep(1000)
+							Next
+						Next
+						;MouseUp("left")
+						Sleep(50)
+						Send("{LSHIFT up}")
+						Sleep(20)
+						
+						addmanatorole()
+						addBloodtorole()
+						
+						$xleft_diff = 0
+						$ytop_diff = 0
+						$xright_diff = 0
+						$ybottom_diff = 0
+						
+						ContinueLoop
+					Else
+							
+						If AreaColorCountCheck($XBC - $xleft_diff, $YBC - $ytop_diff, $XBC + $xright_diff, $YBC + $ybottom_diff, 15, "FC2C00", 30, 200, 15) == 1 Then ;如果不满住，尝试检查总像素看看
+							
+							
+							
+							TrayTip("", "原地释放BH技能", 1, 16)
+							addmanatorole()
+							addBloodtorole()
+							Send("{LSHIFT down}")
+							Sleep(50)
+							MouseMove($tp_Pix[0], $tp_Pix[1])
+							;ExitLoop
+							;MouseDown("left")
+							For $i = 0 To $bhtime Step 1
+								For $j = 0 To 10 Step 1
+									MouseClick("left", $tp_Pix[0], $tp_Pix[1], 1)
+									Sleep(100)
+									;Sleep(1000)
+								Next
+							Next
+							;MouseUp("left")
+							Sleep(50)
+							Send("{LSHIFT up}")
+							Sleep(20)
+							
+							addmanatorole()
+							addBloodtorole()
+							
+							$xleft_diff = 0
+							$ytop_diff = 0
+							$xright_diff = 0
+							$ybottom_diff = 0
+						EndIf
+						
+						
+						TrayTip("", "目标不满足条件", 1, 16)
+						Sleep(200)
+						;ExitLoop
+					EndIf
+				Else
+					Sleep(10)
+					$xleft_diff = $xleft_diff + 50
+					$ytop_diff = $ytop_diff + 50
+					$xright_diff = $xright_diff + 50
+					$ybottom_diff = $ybottom_diff + 50
+					TrayTip("", "没有合适的目标.继续找次数" & $findrecround, 1, 16)
+					Sleep(100)
+					If $xleft_diff > 350 Or $ytop_diff >= 300 Or $xright_diff > 350 Or $ybottom_diff >= 300 Then ;如果超过范围，就退出
+						$xleft_diff = 50
+						$ytop_diff = 50
+						$xright_diff = 50
+						$ybottom_diff = 50
+						$findrecround = $findrecround + 1
+						If $findrecround >= 3 Then
+							ExitLoop 1
+						EndIf
+					EndIf
+					
+				EndIf
+				
+				$xleft_diff = $xleft_diff + 50
+				$ytop_diff = $ytop_diff + 50
+				$xright_diff = $xright_diff + 50
+				$ybottom_diff = $ybottom_diff + 50
+				Sleep(100)
+				If $xleft_diff > 350 Or $ytop_diff >= 300 Or $xright_diff > 350 Or $ybottom_diff >= 300 Then ;如果超过范围，就退出
+					$xleft_diff = 50
+					$ytop_diff = 50
+					$xright_diff = 50
+					$ybottom_diff = 50
+					$findrecround = $findrecround + 1
+					If $findrecround >= 3 Then
+						ExitLoop 1
+					EndIf
+				EndIf
+				TrayTip("", "重新查找区域2：" & $XBC - $xleft_diff & $YBC - $ytop_diff & $XBC + $xright_diff & $YBC + $ybottom_diff, 1, 16)
+				Sleep(500)
+				;此处增加一个可能一直隔着墙一直打怪的情况判断
+				$dif = TimerDiff($beginAttackTime)
+				If $dif >= 60000 Then
+					ExitLoop 2
+				EndIf
+				
+			WEnd
+		Else;即一个红色点都没找到的话，再次查找，如果累计不满足条件，就退出
+			
+			$FailsCount = $FailsCount + 1
+			Sleep(Random(100, 200))
+			$dif = TimerDiff($beginAttackTime)
+		EndIf
+	Until $FailsCount > 8 Or $dif >= 60000 ;搜索失败次数大于5次 或者 超过了1分钟
+	Return 0
+EndFunc   ;==>fire3cByBlock

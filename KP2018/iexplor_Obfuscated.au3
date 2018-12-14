@@ -659,7 +659,7 @@ Func roomplay() ;房间内运行的主程序
 				TrayTip("", "pet挂了，待复活", 1, 16)
 				Sleep(1000)
 				resumepet() ;复活雇佣兵
-				;exitRoom()
+				exitRoom()
 				;exitRoomWithMap()
 				writelog("雇佣兵---第 " & $round & " 局: " & "雇佣兵死亡")
 				;Sleep(Random(80, 100, 1))
@@ -2330,13 +2330,14 @@ Func resumepet()
 			MouseMove($coord[0], $coord[1]);
 			MouseClick('left', $coord[0], $coord[1] + 20)
 			Sleep(2000)
-			MouseMove(356, 135)
-			Sleep(500)
+			MouseMove(356, 137)
+			Sleep(1000)
 			MouseClick("left", Default, Default, 1)
 			;MouseMove(356,135)      ; 复活pet
 			;MouseClick("left",356,135,1)
 			Sleep(2000)
 			MouseClick("left", 400, 300, 1) ;双击一次，防止点到其他对话按钮
+			Sleep(1000)
 			Return
 		Else
 			;---------
@@ -2347,7 +2348,7 @@ Func resumepet()
 			Sleep(2000)
 			MouseClick("left", Default, Default, 1)
 			Sleep(3000)
-			MouseMove(356, 135)
+			MouseMove(356, 137)
 			MouseClick("left", Default, Default, 1)
 			Sleep(2000)
 			MouseClick("left", 400, 300, 1) ;双击一次，防止点到其他对话按钮

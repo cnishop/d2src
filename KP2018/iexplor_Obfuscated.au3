@@ -2517,7 +2517,7 @@ Func resumepet()
 		;;来到act4
 		MouseClick("left", 130, 240, 1)
 		Sleep(3000)
-		MouseMove(280, 60)
+		MouseMove(275, 65)
 		Sleep(500)
 		MouseClick("left", Default, Default, 1)
 		;MouseClick("left", 280, 60, 1);点中泰瑞尔

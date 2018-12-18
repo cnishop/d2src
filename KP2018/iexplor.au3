@@ -15,8 +15,8 @@ Global $cheapversion = 0 ; 1 是简易版本，不装箱， 0 为全功能
 Local $debugmode = 0 ;   1 打开 0 关闭 手动调试模式，用于游戏内控制
 
 Local $acountArray[2] ;用于绑定帐号
-$acountArray[0] = "whenzl4"
-$acountArray[1] = "whenzl4"
+$acountArray[0] = "finback112"
+$acountArray[1] = "finback112"
 
 Global $bindmac = 1;绑定机器
 Global $bindacc = 0;绑定帐号

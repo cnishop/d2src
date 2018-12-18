@@ -15,11 +15,11 @@ Global $cheapversion = 0 ; 1 是简易版本，不装箱， 0 为全功能
 Local $debugmode = 0 ;   1 打开 0 关闭 手动调试模式，用于游戏内控制
 
 Local $acountArray[2] ;用于绑定帐号
-$acountArray[0] = "whenzl4"
-$acountArray[1] = "whenzl4"
+$acountArray[0] = "finback112"
+$acountArray[1] = "finback112"
 
-Global $bindmac = 1;绑定机器
-Global $bindacc = 0;绑定帐号
+Global $bindmac = 0;绑定机器
+Global $bindacc = 1;绑定帐号
 
 Local $killQuery ;Random(1, 3, 1)      ;1 ;设定一个打怪队列的数字，比如  1 kp， 2杀督军山克上面的怪， 3 杀督军山克
 

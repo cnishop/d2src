@@ -761,6 +761,8 @@ Func roomplay() ;房间内运行的主程序
 						;Sleep(500)
 						;Send("{F6}")
 						;Sleep(500)
+						;MouseClick("right", 400, 400, 1)
+						;Sleep(500)
 						
 						$shortpath = 0
 						If ($parm_path = 1) Then ;如果是随机路线
@@ -3047,7 +3049,7 @@ Func ramclose()
 		closeAndWait(0)
 	EndIf
 	
-	If $tfclosecount >= 1 Then ; 如果大于250局都不下线，系统强行给它下线
+	If $tfclosecount >= 150 Then ; 如果大于250局都不下线，系统强行给它下线
 		;此时可以关闭游戏,用循环的下一个账号来登陆
 		closeAndWait(1)
 	EndIf

@@ -360,9 +360,9 @@ Func runGame()
 	EndIf
 	
 	;If $round >= 100 Then ;测试版
-	;writelog("超过100局了，注意危险")
-	;MsgBox(4096, " ..... 温馨提示 .........", "挂机时间过长，强制下线，看完挂机经验再挂机")
-	;Exit 0
+		;writelog("超过100局了，注意危险")
+		;MsgBox(4096, " ..... 温馨提示 .........", "挂机时间过长，强制下线，看完挂机经验再挂机")
+		;Exit 0
 	;EndIf
 	
 	
@@ -591,22 +591,22 @@ Func activeWindow()
 	EndIf
 	WinMove($title, "", 0, 0) ;移动到左上，防止被任务栏挡住
 	Sleep(500)
-	If WinActive($title) = 0 Then
-		TrayTip("", "窗口激活失败。。", 1, 16)
-		Sleep(2000)
-		;设定窗口状态
-		WinSetState($title, "", @SW_SHOW) ;显示为可见
-		Sleep(500)
-	EndIf
+	If WinActive($title) = 0  Then
+		 TrayTip("", "窗口激活失败。。", 1, 16)
+		 Sleep(2000)
+		 	;设定窗口状态
+	WinSetState($title,"",@SW_SHOW)  ;显示为可见
+	Sleep(500)
+	EndIf 
 
 	; 检查记事本窗口状态
 ;~     Local $state = WinGetState($title, "")
 ;~ 	If BitAnd($state, 16) Then
 ;~ 		MsgBox(0, "例子", "记事本窗口是最小化的")
 ;~ 	Else
-;~ 		MsgBox(0, "例子", "记事本窗口不是最小化的")
+;~ 		MsgBox(0, "例子", "记事本窗口不是最小化的")	
 ;~ 	EndIf
-
+    
 	
 	$size = WinGetClientSize($title)
 	If $size <> 0 Then ;找到窗口
@@ -987,7 +987,7 @@ Func roomplay() ;房间内运行的主程序
 							Return
 						EndIf
 						
-						For $i = 1 To Random(1, 2, 1) Step 1 ;强制攻击
+						For $i = 1 To Random(1,2,1) Step 1 ;强制攻击
 							TrayTip("", $i, 9, 16)
 							nowfire(550 + Random(30, 50, 1), 320 + Random(1, 50, 1))
 						Next
@@ -2365,7 +2365,7 @@ Func resumepet()
 			Return
 		Else
 			;---------
-			
+						
 			TrayTip("", "复活方式2", 9, 16)
 			Sleep(1000)
 			MouseMove(240, 200) ; 针对有的电脑特殊，尝试手动定位

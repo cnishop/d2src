@@ -774,12 +774,12 @@ Func roomplay() ;房间内运行的主程序
 							armShied()
 						EndIf
 						;因用户要求，强制加入 F6，释放护盾，供hc使用
-						;Send("{F6}")
-						;Sleep(500)
-						;Send("{F6}")
-						;Sleep(500)
-						;MouseClick("right", 400, 400, 1)
-						;Sleep(500)
+						Send("{F6}")
+						Sleep(500)
+						Send("{F6}")
+						Sleep(500)
+						MouseClick("right", 400, 400, Random(1,3,1) )
+						Sleep(500)
 						
 						$shortpath = 0
 						If ($parm_path = 1) Then ;如果是随机路线

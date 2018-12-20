@@ -778,7 +778,7 @@ Func roomplay() ;房间内运行的主程序
 						;Sleep(500)
 						;Send("{F6}")
 						;Sleep(500)
-						;MouseClick("right", 400, 400, 1)
+						;MouseClick("right", 400, 400, Random(1,3,1) )
 						;Sleep(500)
 						
 						$shortpath = 0

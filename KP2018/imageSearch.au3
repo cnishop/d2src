@@ -214,7 +214,7 @@ EndFunc   ;==>findManaInShop
 
 Func findTomeTownInShop() ;  回城卷书 20本一卷
 	
-	$postion = _FindPic($winleft + 200, $winTop + 100, $winright - 400, $winBottom - 190, "images\tometown.bmp", 0.8)
+	$postion = _FindPic($winleft + 2, $winTop + 1, $winright - 400, $winBottom - 100, "images\tometown.bmp", 0.8)
 
 	$postion[0] = $postion[0] - $winleft
 	$postion[1] = $postion[1] - $winTop

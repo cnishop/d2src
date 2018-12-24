@@ -7,9 +7,9 @@
 
 #RequireAdmin
 ; -----------绿色方块 0x18FB01        ；紫色 0xA420FC   红色 0xFC2C00    ，"0xCE8523" ;橙色
-Global $testversion = 0;  是测试版 1   0 为正式版
-Global $dingZhiFlag = 111 ;  没订制 0 ， 109 ，111 ,  113 ，    每个战网npc，出身地可能都不同，加入订制flag
-Global $onlykp = 0 ;    0 不是  1 专门kp
+Global $testversion = 1;  是测试版 1   0 为正式版
+Global $dingZhiFlag = 113 ;  没订制 0 ， 109 ，111 ,  113 ，    每个战网npc，出身地可能都不同，加入订制flag
+Global $onlykp = 1 ;    0 不是  1 专门kp
 
 Global $cheapversion = 0 ; 1 是简易版本，不装箱， 0 为全功能
 Local $debugmode = 0 ;   1 打开 0 关闭 手动调试模式，用于游戏内控制

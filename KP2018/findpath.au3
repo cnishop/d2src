@@ -448,16 +448,22 @@ Func findpath($pathNumber)
 ;~ 			MouseClick('left', 410, 310)
 ;~ 			CheckMove($Char_CheckMoveDelay)
 ;~ 		EndIf
-				$coord = findtudui1() ;找到柴草的位置
+				$coord = findtudui1() ;找到土堆的位置
 				;ConsoleWrite(TimerDiff($t1) & @CRLF)
 				If $coord[0] >= 0 And $coord[1] >= 0 Then
 					;MouseMove($coord[0] +150, $coord[1] +30);
 					MouseClick('left', $coord[0] + 150, $coord[1] + 30)
 					Sleep(1500)
 					CheckMove($Char_CheckMoveDelay)
+				Else 
+					TrayTip("", "没找到。。。。。。", 9, 16)
+					MouseClick('left', 360, 170) 
+					Sleep(2000)
 				EndIf
 				$i = $i + 1
 			WEnd
+			
+			
 			MouseClick('left', 400, 260) ;再向上方走走方便找红门
 			Sleep(300)
 			CheckMove($Char_CheckMoveDelay)

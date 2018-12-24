@@ -7,8 +7,8 @@
 
 #RequireAdmin
 ; -----------绿色方块 0x18FB01        ；紫色 0xA420FC   红色 0xFC2C00    ，"0xCE8523" ;橙色
-Global $testversion = 0;  是测试版 1   0 为正式版
-Global $dingZhiFlag = 111 ;  没订制 0 ， 109 ，111 ,  113 ，    每个战网npc，出身地可能都不同，加入订制flag
+Global $testversion = 1;  是测试版 1   0 为正式版
+Global $dingZhiFlag = 113 ;  没订制 0 ， 109 ，111 ,  113 ，    每个战网npc，出身地可能都不同，加入订制flag
 Global $onlykp = 1 ;    0 不是  1 专门kp
 
 Global $cheapversion = 0 ; 1 是简易版本，不装箱， 0 为全功能
@@ -774,12 +774,12 @@ Func roomplay() ;房间内运行的主程序
 							armShied()
 						EndIf
 						;因用户要求，强制加入 F6，释放护盾，供hc使用
-						Send("{F6}")
-						Sleep(500)
-						Send("{F6}")
-						Sleep(500)
-						MouseClick("right", 400, 400, Random(1,3,1) )
-						Sleep(500)
+						;Send("{F6}")
+						;Sleep(500)
+						;Send("{F6}")
+						;Sleep(500)
+						;MouseClick("right", 400, 400, Random(1,3,1) )
+						;Sleep(500)
 						
 						$shortpath = 0
 						If ($parm_path = 1) Then ;如果是随机路线

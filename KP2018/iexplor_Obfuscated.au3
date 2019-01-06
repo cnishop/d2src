@@ -8,7 +8,7 @@
 #RequireAdmin
 ; -----------绿色方块 0x18FB01        ；紫色 0xA420FC   红色 0xFC2C00    ，"0xCE8523" ;橙色
 Global $testversion = 0;  是测试版 1   0 为正式版
-Global $dingZhiFlag = 109 ;  没订制 0 ， 109 ，111 ,  113 ，    每个战网npc，出身地可能都不同，加入订制flag
+Global $dingZhiFlag = 111 ;  没订制 0 ， 109 ，111 ,  113 ，    每个战网npc，出身地可能都不同，加入订制flag
 Global $onlykp = 1;    0 不是  1 专门kp
 
 Global $cheapversion = 0 ; 1 是简易版本，不装箱， 0 为全功能
@@ -359,11 +359,11 @@ Func runGame()
 		EndIf
 	EndIf
 	
-	;If $round >= 100 Then ;测试版
-	;writelog("超过100局了，注意危险")
-	;MsgBox(4096, " ..... 温馨提示 .........", "挂机时间过长，强制下线，看完挂机经验再挂机")
-	;Exit 0
-	;EndIf
+	If $round >= 150 Then ;测试版
+	writelog("持续超过150局了，注意危险")
+	MsgBox(4096, " ..... 温馨提示 .........", "挂机时间过长，强制下线，看完挂机经验再挂机，必须手动结合自动")
+	Exit 0
+	EndIf
 	
 	
 	

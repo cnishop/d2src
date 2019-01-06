@@ -1,11 +1,11 @@
 [KP]
-帐号=1
+帐号=122
 密码=307831
 cta=0
 类型=2
 位置=5
-程序目标=D:\BaiduYunDownload\d2113\D2loader.exe
-起始位置=D:\BaiduYunDownload\d2113\
+程序目标=E:\d2-113\D2loader.exe
+起始位置=E:\d2-113\
 程序名称=D2loader.exe
 其他参数=-ns -lq -pdir plugin113 -direct
 窗口标题=d2

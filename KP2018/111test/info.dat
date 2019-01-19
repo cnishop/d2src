@@ -6,7 +6,7 @@
 程序目标=E:\d2-111\91D2Loader.exe
 起始位置=E:\d2-111\
 程序名称=91D2Loader.exe
-其他参数=-lq -pdir pluginkp
+其他参数=-lq -pdir map
 窗口标题=d
 游戏模式=1
 CPU模式=1

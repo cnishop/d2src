@@ -40,7 +40,7 @@ Func fire3c($XBS_Start, $YBS_Start, $XBS_Stop, $YBS_Stop, $bhtime)
 	Sleep(30)
 	Send("{" & $char_Conc & "}")
 	Sleep(30)
-	$beginAttackTime = TimerInit()
+	
 	
 	;---------------最开始先打一次
 	If isInRoom() Then
@@ -68,7 +68,15 @@ Func fire3c($XBS_Start, $YBS_Start, $XBS_Stop, $YBS_Stop, $bhtime)
 			EndIf
 		EndIf
 		
-		bhfire($bhtime, 430, 320)
+		$beginAttackTime = TimerInit()
+		Do
+			bhfire(10, 430, 320)   ;bhfire($bhtime, 430, 320)
+			$dif = TimerDiff($beginAttackTime)
+			If isInRoom() = False Then
+				ExitLoop
+			EndIf
+		Until  $dif > $bhtime * 1000
+		
 	EndIf
 	;---------------最开始先打一次
 	#CS 	Do
@@ -659,7 +667,12 @@ Func fireMonsterByBlockWithoutMap($XBS_Start_PARM, $YBS_Start_PARM, $XBS_Stop_PA
 ;~
 			;在第一个点打怪;中间位置 ，且不停的移动位置打怪
 			$find1 = 0
+			$beginAttackTime_in = TimerInit()
 			Do
+				    $dif_in = TimerDiff($beginAttackTime_in)
+						If $dif_in >= 200000 Then
+						ExitLoop 2
+					EndIf
 					Sleep(100)
 					;每次移动一下方位
 					$tp_Pix = countFirepointRec($XBC - $xleft_diff, $YBC - $ytop_diff, $XBC + $xright_diff, $YBC + $ybottom_diff, $monsterColor[$i], $monsterColor_hex[$i]) ;2

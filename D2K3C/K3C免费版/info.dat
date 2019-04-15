@@ -4,8 +4,8 @@
 cta=0
 类型=1
 位置=1
-程序目标=E:\d2-111\91D2Loader.exe
-起始位置=E:\d2-111\
+程序目标=D:\BaiduYunDownload\d2-111\91D2Loader.exe
+起始位置=D:\BaiduYunDownload\d2-111\
 程序名称=91D2Loader.exe
 其他参数=-lq -pdir plugin
 窗口标题=d

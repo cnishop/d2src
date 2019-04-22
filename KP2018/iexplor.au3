@@ -8,7 +8,7 @@
 #RequireAdmin
 ; -----------绿色方块 0x18FB01        ；紫色 0xA420FC   红色 0xFC2C00    ，"0xCE8523" ;橙色
 Global $testversion = 0;  是测试版 1   0 为正式版
-Global $dingZhiFlag = 111 ;  没订制 0 ， 109 ，111 ,  113 ，    每个战网npc，出身地可能都不同，加入订制flag
+Global $dingZhiFlag = 109 ;  没订制 0 ， 109 ，111 ,  113 ，    每个战网npc，出身地可能都不同，加入订制flag
 Global $onlykp = 1;    0 不是  1 专门kp
 
 Global $cheapversion = 0 ; 1 是简易版本，不装箱， 0 为全功能
@@ -2346,27 +2346,8 @@ Func resumepet()
 	If $parm_imageMode = 2 And $dingZhiFlag = 109 Then
 		MouseClick("left", 60, 220)
 		Sleep(2000)
-		$coord = findtianshi()
-		If $coord[0] >= 0 And $coord[1] >= 0 Then
-			
-			TrayTip("", "复活方式1", 9, 16)
-			Sleep(1000)
-			MouseMove($coord[0], $coord[1]);
-			MouseClick('left', $coord[0], $coord[1] + 20)
-			Sleep(2000)
-			MouseMove(356, 137)
-			Sleep(1000)
-			MouseClick("left", Default, Default, 1)
-			;MouseMove(356,135)      ; 复活pet
-			;MouseClick("left",356,135,1)
-			Sleep(2000)
-			MouseClick("left", 400, 300, 1) ;双击一次，防止点到其他对话按钮
-			Sleep(1000)
-			Return
-		Else
-			;---------
-			
-			TrayTip("", "复活方式2", 9, 16)
+		
+		TrayTip("", "复活方式3", 9, 16)
 			Sleep(1000)
 			MouseMove(240, 200) ; 针对有的电脑特殊，尝试手动定位
 			Sleep(2000)
@@ -2380,7 +2361,44 @@ Func resumepet()
 			TrayTip("", "没找到", 9, 16)
 			Sleep(1000)
 			Return
-		EndIf
+			
+#CS 		$coord = findtianshi()
+   		If $coord[0] >= 0 And $coord[1] >= 0 Then
+   			
+   			TrayTip("", "复活方式1", 9, 16)
+   			Sleep(1000)
+   			MouseMove($coord[0], $coord[1]);
+   			Sleep(2000)
+   			MouseClick('left', $coord[0], $coord[1] + 20)
+   			Sleep(2000)
+   			MouseMove(356, 137)
+   			Sleep(1000)
+   			MouseClick("left", Default, Default, 1)
+   			;MouseMove(356,135)      ; 复活pet
+   			;MouseClick("left",356,135,1)
+   			Sleep(2000)
+   			MouseClick("left", 400, 300, 1) ;双击一次，防止点到其他对话按钮
+   			Sleep(1000)
+   			Return
+   		Else
+   			;---------
+   			
+   			TrayTip("", "复活方式2", 9, 16)
+   			Sleep(1000)
+   			MouseMove(240, 200) ; 针对有的电脑特殊，尝试手动定位
+   			Sleep(2000)
+   			MouseClick("left", Default, Default, 1)
+   			Sleep(3000)
+   			MouseMove(356, 137)
+   			MouseClick("left", Default, Default, 1)
+   			Sleep(2000)
+   			MouseClick("left", 400, 300, 1) ;双击一次，防止点到其他对话按钮
+   			;--------------------
+   			TrayTip("", "没找到", 9, 16)
+   			Sleep(1000)
+   			Return
+   		EndIf
+#CE
 	EndIf
 	
 	If $parm_imageMode = 2 And $dingZhiFlag = 113 Then

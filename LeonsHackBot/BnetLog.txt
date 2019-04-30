@@ -1,0 +1,7 @@
+4/30 12:22:18.928  Connecting to Battle.net...
+4/30 12:22:18.944      querying gateway reg.yuc8.cn
+4/30 12:22:19.037      searching for the fastest server
+4/30 12:22:19.053      Connected to server 140.143.66.105
+4/30 12:22:19.068      accessing accounts
+4/30 12:22:19.146      Checking for the latest version
+4/30 12:22:19.614      Connected to Battle.net

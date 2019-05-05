@@ -1,7 +1,0 @@
-5/2 22:34:52.950  Connecting to Battle.net...
-5/2 22:34:52.961      querying gateway grunt1.91d2.cn
-5/2 22:34:53.003      searching for the fastest server
-5/2 22:34:53.033      Connected to server 101.201.74.112
-5/2 22:34:53.043      accessing accounts
-5/2 22:34:53.093      Checking for the latest version
-5/2 22:34:53.614      Connected to Battle.net

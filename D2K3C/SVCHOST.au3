@@ -7,7 +7,7 @@
 
 #RequireAdmin
 
-Global $testversion = 1 ;  是测试版 1   0 为正式版
+Global $testversion = 0 ;  是测试版 1   0 为正式版
 
 ;///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////各种版本
 Local $acountArray[2] ;用于绑定帐号
@@ -1418,6 +1418,10 @@ Func addrevtobag() ;如果是人物死亡后复活的情况下,则需把身上的血瓶放到物品篮中去
 	Next
 	Send("{LSHIFT up}")
 	Sleep(10)
+	Send("{LSHIFT up}")
+	Sleep(50)
+	Send("{LSHIFT up}")
+	Sleep(50)
 EndFunc   ;==>addrevtobag
 
 Func afterReady() ;进门后的准备，如装配护甲，CTA 波
@@ -1691,12 +1695,15 @@ Func tradewater($water)
 			If $coord[0] >= 0 And $coord[1] >= 0 Then
 				Sleep(10)
 				Send("{LSHIFT down}")
-				Sleep(50)
+				Sleep(100)
 				MouseClick("right", $coord[0], $coord[1], 1);
 				Sleep(300)
 				Send("{LSHIFT up}")
 				MouseMove(400, 300)
-				Sleep(10)
+				Sleep(50)
+				For $i = 0 To 2 Step 1
+					Send("{LSHIFT}")
+				Next
 				;MouseClick("right", Default, Default, 1)
 			EndIf
 		Else
@@ -1704,18 +1711,23 @@ Func tradewater($water)
 			If $coord[0] >= 0 And $coord[1] >= 0 Then
 				Sleep(10)
 				Send("{LSHIFT down}")
-				Sleep(50)
+				Sleep(100)
 				MouseClick("right", $coord[0], $coord[1], 1);
 				Sleep(300)
 				Send("{LSHIFT up}")
 				MouseMove(400, 300)
-				Sleep(10)
+				Sleep(50)
+				For $i = 0 To 2 Step 1
+					Send("{LSHIFT}")
+				Next
 				;MouseClick("right", Default, Default, 1)
 			EndIf
 		EndIf
 		#CS 		Send("{ESC}")
 			Sleep(600)
 		#CE
+		
+		
 	EndIf
 EndFunc   ;==>tradewater
 

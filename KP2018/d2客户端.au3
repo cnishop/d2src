@@ -106,14 +106,14 @@ EndFunc   ;==>_Diskid
 
 Func _HDkey() ;把CPU序列号ID加密
 	 ;硬盘绑定方式
-	_Diskid()
-	$hdKey = StringMid(_MD5(StringMid(_MD5($Diskid & $RegPW1), 3, 34) & $RegPW2), 3, 34) ;硬盘
+	;_Diskid()
+	;$hdKey = StringMid(_MD5(StringMid(_MD5($Diskid & $RegPW1), 3, 34) & $RegPW2), 3, 34) ;硬盘
 
 
 	
 	;cpu绑定方式
-	;_Cpuid()
-	;$hdKey = StringMid(_MD5(StringMid(_MD5($cpuid & $RegPW1), 3, 34) & $RegPW2), 3, 34)      ;cpu
+	_Cpuid()
+	$hdKey = StringMid(_MD5(StringMid(_MD5($cpuid & $RegPW1), 3, 34) & $RegPW2), 3, 34)      ;cpu
 	
 	Return $hdKey
 ;~ 	ClipPut($hdKey)  ;

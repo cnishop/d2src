@@ -8,7 +8,7 @@
 #RequireAdmin
 ; -----------绿色方块 0x18FB01        ；紫色 0xA420FC   红色 0xFC2C00    ，"0xCE8523" ;橙色
 Global $testversion = 0;  是测试版 1   0 为正式版
-Global $dingZhiFlag = 111 ;  没订制 0 ， 109 ，111 ,  113 ，    每个战网npc，出身地可能都不同，加入订制flag
+Global $dingZhiFlag = 113 ;  没订制 0 ， 109 ，111 ,  113 ，    每个战网npc，出身地可能都不同，加入订制flag
 Global $onlykp = 1;    0 不是  1 专门kp
 
 Global $cheapversion = 0 ; 1 是简易版本，不装箱， 0 为全功能
@@ -2636,10 +2636,12 @@ EndFunc   ;==>a5bianshi
 
 Func roleisdead()
 	If astisdead() = True Then ;角色死亡后，雇佣兵肯定挂了，所以先判断下雇佣兵
-
+		
 		TrayTip("", "检查人物是否挂了", 1, 16)
 		Send("{" & $char_Bag & "}")
-		Sleep(800)
+		Sleep(2000)
+		MouseMove(400 , 300)
+		Sleep(1000)
 		If findPointColor(460, 250, "242424") = True And findPointColor(505, 250, "040404") = True And findPointColor(690, 250, "282828") = True Then
 			;如果手套,戒指,鞋子三个点颜色都为默认颜色,则表示人物没有装备,死亡了
 			Send("{" & $char_Bag & "}")

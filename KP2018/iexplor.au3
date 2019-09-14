@@ -7,7 +7,7 @@
 
 #RequireAdmin
 ; -----------绿色方块 0x18FB01        ；紫色 0xA420FC   红色 0xFC2C00    ，"0xCE8523" ;橙色
-Global $testversion = 1;  是测试版 1   0 为正式版
+Global $testversion = 0;  是测试版 1   0 为正式版
 Global $dingZhiFlag = 109 ;  没订制 0 ， 109 ，111 ,  113 ，    每个战网npc，出身地可能都不同，加入订制flag
 Global $onlykp = 1;    0 不是  1 专门kp
 
@@ -15,8 +15,8 @@ Global $cheapversion = 0 ; 1 是简易版本，不装箱， 0 为全功能
 Local $debugmode = 0 ;   1 打开 0 关闭 手动调试模式，用于游戏内控制
 
 Local $acountArray[2] ;用于绑定帐号
-$acountArray[0] = "w434642598"
-$acountArray[1] = "w434642598"
+$acountArray[0] = "bbsdodo"
+$acountArray[1] = "bbsdodo"
 
 Global $bindmac = 1;绑定机器
 Global $bindacc = 0;绑定帐号
@@ -117,7 +117,7 @@ Local $tfclosecount = 0 ; 自动上下线的kp局数
 Local $other_traced_round = 0 ;定义第几局被人进入房间,
 Local $ranclosecount = 0 ; 定义自动关闭暗黑，防止机器死机的功能
 Local $movebagcount = 0 ;  定义一个固定多少局自动转移包裹的
-
+Local $parm_rolePosition = 0; --角色的位置 20190914
 
 Local $authority ;
 Local $parm_firstdate, $parm_kpcount ;总的kp次数，用于限制月付客户
@@ -203,7 +203,7 @@ $parm_MoveBox = $guiMoveBox ;用哪种方式装箱
 $parm_boxqty = $guiboxqty ;少于包裹格数
 $parm_moveround = $guimoveround ;每个多少局数执行装箱
 
-
+$parm_rolePosition = $pos
 $parm_buyred = $ckred
 $parm_buyblue = $ckblue
 $parm_namelenfr = $guinamelenfr
@@ -877,6 +877,9 @@ Func roomplay() ;房间内运行的主程序
 							TrayTip("", "专用订制路径规划中", 1, 16)
 							If $dingZhiFlag = "109" And findpath("109") = False Then
 								exitRoom()
+								TrayTip("", "190路线未找到，退出房间", 1, 16)
+								Sleep(2000)
+								Return
 							EndIf
 							If $dingZhiFlag = "113" And findpath("113") = False Then
 								exitRoom()
@@ -1790,23 +1793,26 @@ Func selectRole()
 	;If findPointColor(700, 45, "040404") = True And findPointColor(60, 560, "585048") And findPointColor(650, 560, "343434") Then
 	
 	If findPointColor(700, 45, "040404") = True And findPointColor(60, 560, "585048") And findPointColor(650, 560, "646464") Then
+		TrayTip("", "现在是选择角色画面.." & $parm_rolePosition, 1, 16)
+		Sleep(2000)
 		Select
-			Case $pos = 1
-			Case $pos = 2
+			Case $parm_rolePosition = 1
+			Case $parm_rolePosition = 2
 				Send("{DOWN}")
-			Case $pos = 3
+			Case $parm_rolePosition = 3
 				Send("{DOWN 2}")
-			Case $pos = 4
+			Case $parm_rolePosition = 4
 				Send("{DOWN 3}")
-			Case $pos = 5
+			Case $parm_rolePosition = 5
 				Send("{RIGHT}")
-			Case $pos = 6
+				Sleep(2000)
+			Case $parm_rolePosition = 6
 				Send("{RIGHT}")
 				Send("{DOWN}")
-			Case $pos = 7
+			Case $parm_rolePosition = 7
 				Send("{RIGHT}")
 				Send("{DOWN 2}")
-			Case $pos = 8
+			Case $parm_rolePosition = 8
 				Send("{RIGHT}")
 				Send("{DOWN 3}")
 		EndSelect

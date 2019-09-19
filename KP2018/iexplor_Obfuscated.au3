@@ -359,11 +359,11 @@ Func runGame()
 		EndIf
 	EndIf
 	
-	If $round >= 150 Then ;测试版
-	writelog("持续超过150局了，注意危险")
-	MsgBox(4096, " ..... 温馨提示 .........", "挂机时间过长，强制下线，看完挂机经验再挂机，必须手动结合自动")
-	Exit 0
-	EndIf
+;~ 	If $round >= 150 Then ;测试版
+;~ 	writelog("持续超过150局了，注意危险")
+;~ 	MsgBox(4096, " ..... 温馨提示 .........", "挂机时间过长，强制下线，看完挂机经验再挂机，必须手动结合自动")
+;~ 	Exit 0
+;~ 	EndIf
 	
 	
 	
@@ -2359,7 +2359,7 @@ Func resumepet()
 			Sleep(2000)
 			MouseClick("left", Default, Default, 1)
 			Sleep(3000)
-			MouseMove(356, 137)
+			MouseMove(356, 130)  ;点复活两个字
 			MouseClick("left", Default, Default, 1)
 			Sleep(2000)
 			MouseClick("left", 400, 300, 1) ;双击一次，防止点到其他对话按钮

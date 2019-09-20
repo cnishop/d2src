@@ -1,0 +1,73 @@
+
+;~ //变量定义
+$LTopx=150
+$LTopy=100
+$RBotx=380
+$RBoty=280
+$Centerx=300
+$Centery=200
+$L=20   ;"2个搜怪点之间的距离"
+$M=3     ;"从第几圈开始搜索"
+
+Dim $s,$v,$i,$n,$x,$y,$a1,$b1,$a2,$b2,$c1,$c2,$x0,$y0,$k1,$k2
+
+$a1=$LTopx
+
+$b1=$LTopy
+
+$a2=$RBotx
+
+$b2=$RBoty
+;~ //取起点坐标赋值到x0,y0
+$x0=$Centerx
+$y0=$Centery
+;~ //比较x0到a1和x0到a2的长度，取最长的距离来限制方形渐开的范围，保证渐开线能全部覆盖鼠标活动范围
+If $x0-$a1>=$a2-$x0 Then
+    $n=$a1
+Else 
+;~      //将x0到a2的距离转换到左边，方便下面的While x>=n的循环判断
+    $n=$x0-($a2-$x0)
+EndIf 
+;~ Rem 开始搜怪
+;~ //将点距赋值到v
+$v=$L
+;~ //将渐开起点圈数赋值到i
+$i=$M
+;~ //将渐开起点坐标赋值到x,y
+$x=$x0
+$y=$y0-$v
+While $x>=$n
+    $k1=0
+	$k2=$v
+    For $ii=1 To 2
+        For $jj=1 To $i
+            $x=$x+$k1
+			$y=$y+$k2
+;~             //只有（x，y）点在鼠标活动范围内才移动鼠标和执行颜色变化判断
+            If $x>=$a1 and $x<=$a2 and $y>=$b1 and $y<=$b2 Then
+;~                 //计算出x，y后，先取x，y点的颜色赋值到c1
+                $c1=PixelGetColor($x,$y-5)
+                MouseMove($x,$y,1)
+                Sleep(10)
+;~                 //移动到x,y延时10毫秒后再次取x,y点的颜色并赋值到c2
+                $c2=PixelGetColor($x,$y-5)
+;~                 //如果x,y点的颜色鼠标移动前和鼠标移动后的颜色不同，则执行打怪动作
+                If  $c1<>$c2  Then
+;~                     //打怪代码
+					TrayTip("", "找到不一样的了！.", 1, 16)
+					MouseMove ($x,$y)
+                    Sleep(1000)
+					Exit
+;~                     //打完怪后再重新开始搜索
+;~                     Goto 开始搜怪
+                EndIf 
+                Sleep(1)
+            EndIf 
+        Next 
+        $k1=$v
+		$k2=0
+    Next
+    $i=$i+1
+	$v=$v*(-1)
+Wend 
+Sleep(200)

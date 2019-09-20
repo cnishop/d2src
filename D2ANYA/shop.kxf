@@ -1,0 +1,1593 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<object type="TAForm" name="Form1_1_2_1">
+	<properties>
+		<property name="Left" vt="Int16">195</property>
+		<property name="Top" vt="Int8">90</property>
+		<property name="Width" vt="Int16">758</property>
+		<property name="Height" vt="Int16">704</property>
+		<property name="Caption" vt="WString">°µєЪ2-KP№Т»ъНх-ХэКЅ°ж</property>
+		<property name="Color" vt="Ident">clBtnFace</property>
+		<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+		<property name="Font.Color" vt="Ident">clWindowText</property>
+		<property name="Font.Height" vt="Int8">-11</property>
+		<property name="Font.Name" vt="String">MS Sans Serif</property>
+		<property name="Font.Style" vt="Set"/>
+		<property name="OldCreateOrder" vt="False">False</property>
+		<property name="Visible" vt="True">True</property>
+		<property name="Style" vt="Int32">-1798701056</property>
+		<property name="ExStyle" vt="Int16">256</property>
+		<property name="Version" vt="String">1.04</property>
+		<property name="FormOptOnEvent" vt="False">False</property>
+		<property name="FormOptExpVars" vt="False">False</property>
+		<property name="FormOptPopulate" vt="False">False</property>
+		<property name="FormOptVarsForSet" vt="False">False</property>
+		<property name="FormOptIndentChar" vt="Int8">0</property>
+		<property name="FormOptIndentCount" vt="Int8">1</property>
+		<property name="FormOptIndentInit" vt="Int8">0</property>
+		<property name="FormOptVarScope" vt="Int8">0</property>
+		<property name="Resizing" vt="Set"/>
+		<property name="PixelsPerInch" vt="Int8">96</property>
+		<property name="TextHeight" vt="Int8">13</property>
+	</properties>
+	<components>
+		<object type="TATab" name="Tab1">
+			<properties>
+				<property name="Left" vt="Int8">8</property>
+				<property name="Top" vt="Int8">8</property>
+				<property name="Width" vt="Int16">737</property>
+				<property name="Height" vt="Int16">641</property>
+				<property name="ActivePage" vt="Ident">TabSheet1</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWindowText</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">Arial</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">0</property>
+				<property name="CtrlStyle" vt="Int32">1409482752</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components>
+				<object type="TTabSheet" name="TabSheet1">
+					<properties>
+						<property name="Caption" vt="WString">ПµНіЙиЦГ</property>
+						<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+						<property name="Font.Color" vt="Ident">clWindowText</property>
+						<property name="Font.Height" vt="Int8">-11</property>
+						<property name="Font.Name" vt="String">MS Sans Serif</property>
+						<property name="Font.Style" vt="Set"/>
+						<property name="ImageIndex" vt="Int8">-1</property>
+						<property name="ParentFont" vt="False">False</property>
+					</properties>
+					<components>
+						<object type="TAGroup" name="Group1">
+							<properties>
+								<property name="Left" vt="Int8">0</property>
+								<property name="Top" vt="Int8">0</property>
+								<property name="Width" vt="Int16">209</property>
+								<property name="Height" vt="Int8">113</property>
+								<property name="CtrlStyle" vt="Int32">1342308359</property>
+								<property name="CtrlExStyle" vt="Int8">0</property>
+								<property name="Caption" vt="WString">ХКєЕРЕПў</property>
+								<property name="TabOrder" vt="Int8">0</property>
+								<property name="Resizing" vt="Set"/>
+							</properties>
+							<components>
+								<object type="TALabel" name="Label1">
+									<properties>
+										<property name="Left" vt="Int8">8</property>
+										<property name="Top" vt="Int8">24</property>
+										<property name="Width" vt="Int8">52</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">ХѕНшХКєЕ</property>
+										<property name="TabOrder" vt="Int8">0</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label2">
+									<properties>
+										<property name="Left" vt="Int8">8</property>
+										<property name="Top" vt="Int8">56</property>
+										<property name="Width" vt="Int8">52</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">ХѕНшГЬВл</property>
+										<property name="TabOrder" vt="Int8">1</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TAInput" name="n1">
+									<properties>
+										<property name="Left" vt="Int8">64</property>
+										<property name="Top" vt="Int8">24</property>
+										<property name="Width" vt="Int8">89</property>
+										<property name="Height" vt="Int8">21</property>
+										<property name="TabOrder" vt="Int8">2</property>
+										<property name="CtrlStyle" vt="Int32">1342374016</property>
+										<property name="CtrlExStyle" vt="Int16">512</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TAInput" name="n2">
+									<properties>
+										<property name="Left" vt="Int8">64</property>
+										<property name="Top" vt="Int8">56</property>
+										<property name="Width" vt="Int8">89</property>
+										<property name="Height" vt="Int8">21</property>
+										<property name="TabOrder" vt="Int8">3</property>
+										<property name="CtrlStyle" vt="Int32">1342374048</property>
+										<property name="CtrlExStyle" vt="Int16">512</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+							</components>
+						</object>
+						<object type="TAGroup" name="Group5">
+							<properties>
+								<property name="Left" vt="Int16">220</property>
+								<property name="Top" vt="Int8">0</property>
+								<property name="Width" vt="Int16">161</property>
+								<property name="Height" vt="Int8">113</property>
+								<property name="CtrlStyle" vt="Int32">1342308359</property>
+								<property name="CtrlExStyle" vt="Int8">0</property>
+								<property name="Caption" vt="WString">ЅЗЙ«О»ЦГ</property>
+								<property name="TabOrder" vt="Int8">1</property>
+								<property name="Resizing" vt="Set"/>
+							</properties>
+							<components>
+								<object type="TARadio" name="RadP1">
+									<properties>
+										<property name="Left" vt="Int8">8</property>
+										<property name="Top" vt="Int8">16</property>
+										<property name="Width" vt="Int8">65</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="String">1</property>
+										<property name="Checked" vt="True">True</property>
+										<property name="TabOrder" vt="Int8">0</property>
+										<property name="TabStop" vt="True">True</property>
+										<property name="CtrlStyle" vt="Int32">1342242825</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TARadio" name="RadP2">
+									<properties>
+										<property name="Left" vt="Int8">8</property>
+										<property name="Top" vt="Int8">40</property>
+										<property name="Width" vt="Int8">65</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="String">2</property>
+										<property name="TabOrder" vt="Int8">1</property>
+										<property name="CtrlStyle" vt="Int32">1342242825</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TARadio" name="RadP3">
+									<properties>
+										<property name="Left" vt="Int8">8</property>
+										<property name="Top" vt="Int8">64</property>
+										<property name="Width" vt="Int8">65</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="String">3</property>
+										<property name="TabOrder" vt="Int8">2</property>
+										<property name="CtrlStyle" vt="Int32">1342242825</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TARadio" name="RadP4">
+									<properties>
+										<property name="Left" vt="Int8">8</property>
+										<property name="Top" vt="Int8">88</property>
+										<property name="Width" vt="Int8">65</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="String">4</property>
+										<property name="TabOrder" vt="Int8">3</property>
+										<property name="CtrlStyle" vt="Int32">1342242825</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TARadio" name="RadP5">
+									<properties>
+										<property name="Left" vt="Int8">80</property>
+										<property name="Top" vt="Int8">16</property>
+										<property name="Width" vt="Int8">65</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="String">5</property>
+										<property name="TabOrder" vt="Int8">4</property>
+										<property name="CtrlStyle" vt="Int32">1342242825</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TARadio" name="RadP6">
+									<properties>
+										<property name="Left" vt="Int8">80</property>
+										<property name="Top" vt="Int8">40</property>
+										<property name="Width" vt="Int8">65</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="String">6</property>
+										<property name="TabOrder" vt="Int8">5</property>
+										<property name="CtrlStyle" vt="Int32">1342242825</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TARadio" name="RadP7">
+									<properties>
+										<property name="Left" vt="Int8">80</property>
+										<property name="Top" vt="Int8">64</property>
+										<property name="Width" vt="Int8">65</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="String">7</property>
+										<property name="TabOrder" vt="Int8">6</property>
+										<property name="CtrlStyle" vt="Int32">1342242825</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TARadio" name="RadP8">
+									<properties>
+										<property name="Left" vt="Int8">80</property>
+										<property name="Top" vt="Int8">88</property>
+										<property name="Width" vt="Int8">65</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="String">8</property>
+										<property name="TabOrder" vt="Int8">7</property>
+										<property name="CtrlStyle" vt="Int32">1342242825</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+							</components>
+						</object>
+						<object type="TAButton" name="YesID">
+							<properties>
+								<property name="Left" vt="Int16">504</property>
+								<property name="Top" vt="Int16">552</property>
+								<property name="Width" vt="Int8">75</property>
+								<property name="Height" vt="Int8">25</property>
+								<property name="Caption" vt="WString">Лш¶Ё</property>
+								<property name="TabOrder" vt="Int8">2</property>
+								<property name="Color" vt="Ident">clBtnFace</property>
+								<property name="CtrlStyle" vt="Int32">1342373888</property>
+								<property name="CtrlExStyle" vt="Int8">0</property>
+								<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+							</properties>
+							<components/>
+						</object>
+						<object type="TAGroup" name="Group7">
+							<properties>
+								<property name="Left" vt="Int8">8</property>
+								<property name="Top" vt="Int16">439</property>
+								<property name="Width" vt="Int16">713</property>
+								<property name="Height" vt="Int8">97</property>
+								<property name="CtrlStyle" vt="Int32">1342308359</property>
+								<property name="CtrlExStyle" vt="Int8">0</property>
+								<property name="Caption" vt="WString">УОП·В·ѕ¶</property>
+								<property name="TabOrder" vt="Int8">3</property>
+								<property name="Resizing" vt="Set"/>
+							</properties>
+							<components>
+								<object type="TAInput" name="path1">
+									<properties>
+										<property name="Left" vt="Int8">92</property>
+										<property name="Top" vt="Int8">24</property>
+										<property name="Width" vt="Int16">473</property>
+										<property name="Height" vt="Int8">21</property>
+										<property name="TabOrder" vt="Int8">0</property>
+										<property name="Text" vt="UTF8String">E:\°µєЪЖЖ»µЙсII»ЩГрЦ®Нх\D2loader.exe -w -lq -direct -title d2</property>
+										<property name="CtrlStyle" vt="Int32">1342374016</property>
+										<property name="CtrlExStyle" vt="Int16">512</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label16">
+									<properties>
+										<property name="Left" vt="Int8">12</property>
+										<property name="Top" vt="Int8">24</property>
+										<property name="Width" vt="Int8">55</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">іМРтДї±к:</property>
+										<property name="TabOrder" vt="Int8">1</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label17">
+									<properties>
+										<property name="Left" vt="Int8">12</property>
+										<property name="Top" vt="Int8">48</property>
+										<property name="Width" vt="Int8">64</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">ЖрКјО»ЦГЈє</property>
+										<property name="TabOrder" vt="Int8">2</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TAInput" name="path2">
+									<properties>
+										<property name="Left" vt="Int8">92</property>
+										<property name="Top" vt="Int8">48</property>
+										<property name="Width" vt="Int16">289</property>
+										<property name="Height" vt="Int8">21</property>
+										<property name="TabOrder" vt="Int8">3</property>
+										<property name="Text" vt="WString">E:\°µєЪЖЖ»µЙсII»ЩГрЦ®Нх</property>
+										<property name="CtrlStyle" vt="Int32">1342374016</property>
+										<property name="CtrlExStyle" vt="Int16">512</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label28">
+									<properties>
+										<property name="Left" vt="Int8">12</property>
+										<property name="Top" vt="Int8">72</property>
+										<property name="Width" vt="Int8">64</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">іМРтГыіЖЈє</property>
+										<property name="TabOrder" vt="Int8">4</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TAInput" name="path3">
+									<properties>
+										<property name="Left" vt="Int8">92</property>
+										<property name="Top" vt="Int8">72</property>
+										<property name="Width" vt="Int16">129</property>
+										<property name="Height" vt="Int8">21</property>
+										<property name="TabOrder" vt="Int8">5</property>
+										<property name="Text" vt="String">.exe</property>
+										<property name="CtrlStyle" vt="Int32">1342374016</property>
+										<property name="CtrlExStyle" vt="Int16">512</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+							</components>
+						</object>
+						<object type="TAButton" name="SaveID">
+							<properties>
+								<property name="Left" vt="Int8">96</property>
+								<property name="Top" vt="Int16">552</property>
+								<property name="Width" vt="Int8">75</property>
+								<property name="Height" vt="Int8">25</property>
+								<property name="Caption" vt="WString">±Јґж</property>
+								<property name="TabOrder" vt="Int8">4</property>
+								<property name="Color" vt="Ident">clBtnFace</property>
+								<property name="CtrlStyle" vt="Int32">1342373888</property>
+								<property name="CtrlExStyle" vt="Int8">0</property>
+								<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+							</properties>
+							<components/>
+						</object>
+						<object type="TAButton" name="ExitID">
+							<properties>
+								<property name="Left" vt="Int16">296</property>
+								<property name="Top" vt="Int16">552</property>
+								<property name="Width" vt="Int8">75</property>
+								<property name="Height" vt="Int8">25</property>
+								<property name="Caption" vt="WString">НЛіц</property>
+								<property name="TabOrder" vt="Int8">5</property>
+								<property name="Color" vt="Ident">clBtnFace</property>
+								<property name="CtrlStyle" vt="Int32">1342373888</property>
+								<property name="CtrlExStyle" vt="Int8">0</property>
+								<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+							</properties>
+							<components/>
+						</object>
+						<object type="TALabel" name="Label18">
+							<properties>
+								<property name="Left" vt="Int16">444</property>
+								<property name="Top" vt="Int16">583</property>
+								<property name="Width" vt="Int16">206</property>
+								<property name="Height" vt="Int8">17</property>
+								<property name="Caption" vt="UTF8String">µгЛш¶Ёєу F9 ФЛРР/ФЭНЈ, F10 НЛіц</property>
+								<property name="Color" vt="Ident">clBtnFace</property>
+								<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+								<property name="Font.Color" vt="Ident">clRed</property>
+								<property name="Font.Height" vt="Int8">-11</property>
+								<property name="Font.Name" vt="String">MS Sans Serif</property>
+								<property name="Font.Style" vt="Set"/>
+								<property name="ParentColor" vt="False">False</property>
+								<property name="ParentFont" vt="False">False</property>
+								<property name="TabOrder" vt="Int8">6</property>
+								<property name="HaveVariable" vt="False">False</property>
+								<property name="CtrlStyle" vt="Int32">1342308608</property>
+								<property name="CtrlExStyle" vt="Int8">0</property>
+								<property name="Resizing" vt="Set"/>
+							</properties>
+							<components/>
+						</object>
+						<object type="TAGroup" name="Group8">
+							<properties>
+								<property name="Left" vt="Int16">392</property>
+								<property name="Top" vt="Int8">114</property>
+								<property name="Width" vt="Int16">329</property>
+								<property name="Height" vt="Int16">318</property>
+								<property name="CtrlStyle" vt="Int32">1342308359</property>
+								<property name="CtrlExStyle" vt="Int8">0</property>
+								<property name="Caption" vt="WString">№¦ДЬЙиЦГ</property>
+								<property name="TabOrder" vt="Int8">7</property>
+								<property name="Resizing" vt="Set"/>
+							</properties>
+							<components>
+								<object type="TACheckbox" name="ckbBagfull">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">16</property>
+										<property name="Width" vt="Int8">97</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">°ьВъєу№Ш»ъ</property>
+										<property name="TabOrder" vt="Int8">0</property>
+										<property name="CtrlStyle" vt="Int32">1342242819</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TACheckbox" name="ckbRej">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">60</property>
+										<property name="Width" vt="Int8">121</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">єИИҐ¶аУаЧПЖї</property>
+										<property name="TabOrder" vt="Int8">1</property>
+										<property name="CtrlStyle" vt="Int32">1342242819</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TACheckbox" name="ckbRoledead">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">80</property>
+										<property name="Width" vt="Int16">145</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">ёґ»оЅЗЙ«</property>
+										<property name="TabOrder" vt="Int8">2</property>
+										<property name="CtrlStyle" vt="Int32">1342242819</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TACheckbox" name="ckbAss">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">100</property>
+										<property name="Width" vt="Int16">177</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">ёґ»о№НУ¶±ш</property>
+										<property name="TabOrder" vt="Int8">3</property>
+										<property name="CtrlStyle" vt="Int32">1342242819</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TACheckbox" name="ckbBoxing">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">36</property>
+										<property name="Width" vt="Int16">137</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">°ь№ьВъКЗ·сЧЄТЖµЅІЦїв</property>
+										<property name="TabOrder" vt="Int8">4</property>
+										<property name="CtrlStyle" vt="Int32">1342242819</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TAInput" name="boxQty">
+									<properties>
+										<property name="Left" vt="Int16">264</property>
+										<property name="Top" vt="Int8">40</property>
+										<property name="Width" vt="Int8">25</property>
+										<property name="Height" vt="Int8">21</property>
+										<property name="TabOrder" vt="Int8">5</property>
+										<property name="Text" vt="String">8</property>
+										<property name="CtrlStyle" vt="Int32">1342382208</property>
+										<property name="CtrlExStyle" vt="Int16">512</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label20">
+									<properties>
+										<property name="Left" vt="Int16">168</property>
+										<property name="Top" vt="Int8">40</property>
+										<property name="Width" vt="Int8">88</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">ЙЩУЪґЛёсКэЦґРР</property>
+										<property name="TabOrder" vt="Int8">6</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TACheckbox" name="ckbQinse">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int16">140</property>
+										<property name="Width" vt="Int16">177</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">№НУ¶±шґш±У»¤(petґшЗаЙ«·ЯЕ­)</property>
+										<property name="TabOrder" vt="Int8">7</property>
+										<property name="CtrlStyle" vt="Int32">1342242819</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TACheckbox" name="ckbAct5">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">120</property>
+										<property name="Width" vt="Int16">145</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">јмІйКЗ·сФЪACT5</property>
+										<property name="TabOrder" vt="Int8">8</property>
+										<property name="CtrlStyle" vt="Int32">1342242819</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TACheckbox" name="ckbRamstop">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int16">160</property>
+										<property name="Width" vt="Int8">113</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">ґпµЅґОКэФЭНЈГлКэ</property>
+										<property name="TabOrder" vt="Int8">9</property>
+										<property name="CtrlStyle" vt="Int32">1342242819</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TAInput" name="ramstoptime">
+									<properties>
+										<property name="Left" vt="Int16">272</property>
+										<property name="Top" vt="Int16">159</property>
+										<property name="Width" vt="Int8">41</property>
+										<property name="Height" vt="Int8">21</property>
+										<property name="TabOrder" vt="Int8">10</property>
+										<property name="Text" vt="String">3600</property>
+										<property name="CtrlStyle" vt="Int32">1342374016</property>
+										<property name="CtrlExStyle" vt="Int16">512</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label19">
+									<properties>
+										<property name="Left" vt="Int16">136</property>
+										<property name="Top" vt="Int16">159</property>
+										<property name="Width" vt="Int8">43</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="UTF8String">kpґОКэ:</property>
+										<property name="TabOrder" vt="Int8">11</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TAInput" name="kproundtime">
+									<properties>
+										<property name="Left" vt="Int16">184</property>
+										<property name="Top" vt="Int16">159</property>
+										<property name="Width" vt="Int8">25</property>
+										<property name="Height" vt="Int8">21</property>
+										<property name="TabOrder" vt="Int8">12</property>
+										<property name="Text" vt="String">30</property>
+										<property name="CtrlStyle" vt="Int32">1342374016</property>
+										<property name="CtrlExStyle" vt="Int16">512</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label25">
+									<properties>
+										<property name="Left" vt="Int16">216</property>
+										<property name="Top" vt="Int16">159</property>
+										<property name="Width" vt="Int8">55</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">ФЭНЈГлКэ:</property>
+										<property name="TabOrder" vt="Int8">13</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TACheckbox" name="ckbRamclose">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int16">183</property>
+										<property name="Width" vt="Int8">121</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">№ж¶ЁґОКэЧФ¶ЇПВПЯ</property>
+										<property name="TabOrder" vt="Int8">14</property>
+										<property name="CtrlStyle" vt="Int32">1342242819</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TAInput" name="kproundclosetime">
+									<properties>
+										<property name="Left" vt="Int16">144</property>
+										<property name="Top" vt="Int16">183</property>
+										<property name="Width" vt="Int8">33</property>
+										<property name="Height" vt="Int8">21</property>
+										<property name="TabOrder" vt="Int8">15</property>
+										<property name="Text" vt="String">50</property>
+										<property name="CtrlStyle" vt="Int32">1342374016</property>
+										<property name="CtrlExStyle" vt="Int16">512</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label29">
+									<properties>
+										<property name="Left" vt="Int16">184</property>
+										<property name="Top" vt="Int16">183</property>
+										<property name="Width" vt="Int8">76</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">ПЯПВНЈБф·ЦЦУ</property>
+										<property name="TabOrder" vt="Int8">16</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TAInput" name="closestoptime">
+									<properties>
+										<property name="Left" vt="Int16">272</property>
+										<property name="Top" vt="Int16">183</property>
+										<property name="Width" vt="Int8">41</property>
+										<property name="Height" vt="Int8">21</property>
+										<property name="TabOrder" vt="Int8">17</property>
+										<property name="Text" vt="String">20</property>
+										<property name="CtrlStyle" vt="Int32">1342374016</property>
+										<property name="CtrlExStyle" vt="Int16">512</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TACheckbox" name="ckbothersin">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int16">208</property>
+										<property name="Width" vt="Int8">113</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">јмІйЛыИЛЅшИл·їјд</property>
+										<property name="TabOrder" vt="Int8">18</property>
+										<property name="CtrlStyle" vt="Int32">1342242819</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TAGroup" name="Group13">
+									<properties>
+										<property name="Left" vt="Int8">32</property>
+										<property name="Top" vt="Int16">248</property>
+										<property name="Width" vt="Int16">129</property>
+										<property name="Height" vt="Int8">57</property>
+										<property name="CtrlStyle" vt="Int32">1342308359</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Caption" vt="WString">єОК±јмІй</property>
+										<property name="TabOrder" vt="Int8">19</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components>
+										<object type="TARadio" name="beforeindoor">
+											<properties>
+												<property name="Left" vt="Int8">8</property>
+												<property name="Top" vt="Int8">16</property>
+												<property name="Width" vt="Int8">105</property>
+												<property name="Height" vt="Int8">17</property>
+												<property name="Caption" vt="WString">ЅшємГЕЗ°јмІй</property>
+												<property name="TabOrder" vt="Int8">0</property>
+												<property name="CtrlStyle" vt="Int32">1342242825</property>
+												<property name="CtrlExStyle" vt="Int8">0</property>
+												<property name="Resizing" vt="Set">DockHeight</property>
+											</properties>
+											<components/>
+										</object>
+										<object type="TARadio" name="afterindoor">
+											<properties>
+												<property name="Left" vt="Int8">8</property>
+												<property name="Top" vt="Int8">32</property>
+												<property name="Width" vt="Int8">113</property>
+												<property name="Height" vt="Int8">17</property>
+												<property name="Caption" vt="WString">ЅшємГЕєујмІй</property>
+												<property name="TabOrder" vt="Int8">1</property>
+												<property name="CtrlStyle" vt="Int32">1342242825</property>
+												<property name="CtrlExStyle" vt="Int8">0</property>
+												<property name="Resizing" vt="Set">DockHeight</property>
+											</properties>
+											<components/>
+										</object>
+									</components>
+								</object>
+								<object type="TAGroup" name="Group14">
+									<properties>
+										<property name="Left" vt="Int16">168</property>
+										<property name="Top" vt="Int16">248</property>
+										<property name="Width" vt="Int16">145</property>
+										<property name="Height" vt="Int8">57</property>
+										<property name="CtrlStyle" vt="Int32">1342308359</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Caption" vt="WString">јмІйµЅµДІЩЧч</property>
+										<property name="TabOrder" vt="Int8">20</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components>
+										<object type="TARadio" name="otherinmd1">
+											<properties>
+												<property name="Left" vt="Int8">8</property>
+												<property name="Top" vt="Int8">16</property>
+												<property name="Width" vt="Int8">121</property>
+												<property name="Height" vt="Int8">17</property>
+												<property name="Caption" vt="WString">НЛіцФЭНЈ№ж¶ЁГлКэ</property>
+												<property name="TabOrder" vt="Int8">0</property>
+												<property name="CtrlStyle" vt="Int32">1342242825</property>
+												<property name="CtrlExStyle" vt="Int8">0</property>
+												<property name="Resizing" vt="Set">DockHeight</property>
+											</properties>
+											<components/>
+										</object>
+										<object type="TARadio" name="otherinmd2">
+											<properties>
+												<property name="Left" vt="Int8">8</property>
+												<property name="Top" vt="Int8">32</property>
+												<property name="Width" vt="Int8">121</property>
+												<property name="Height" vt="Int8">17</property>
+												<property name="Caption" vt="WString">ПВПЯФЭНЈ№ж¶Ё·ЦЦУ</property>
+												<property name="TabOrder" vt="Int8">1</property>
+												<property name="CtrlStyle" vt="Int32">1342242825</property>
+												<property name="CtrlExStyle" vt="Int8">0</property>
+												<property name="Resizing" vt="Set">DockHeight</property>
+											</properties>
+											<components/>
+										</object>
+									</components>
+								</object>
+								<object type="TACheckbox" name="ckbotherinround">
+									<properties>
+										<property name="Left" vt="Int8">32</property>
+										<property name="Top" vt="Int16">228</property>
+										<property name="Width" vt="Int16">241</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">Т»¶ЁѕЦДЪБ¬Рш±»Ѕш·їјдБЅґОТФЙП,НЈЦ№№Т»ъ</property>
+										<property name="TabOrder" vt="Int8">21</property>
+										<property name="CtrlStyle" vt="Int32">1342242819</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+							</components>
+						</object>
+						<object type="TAGroup" name="Group9">
+							<properties>
+								<property name="Left" vt="Int16">392</property>
+								<property name="Top" vt="Int8">0</property>
+								<property name="Width" vt="Int16">329</property>
+								<property name="Height" vt="Int8">113</property>
+								<property name="CtrlStyle" vt="Int32">1342308359</property>
+								<property name="CtrlExStyle" vt="Int8">0</property>
+								<property name="Caption" vt="WString">·їјдГыЙиЦГ</property>
+								<property name="TabOrder" vt="Int8">8</property>
+								<property name="Resizing" vt="Set"/>
+							</properties>
+							<components>
+								<object type="TARadio" name="RDnameAp">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">16</property>
+										<property name="Width" vt="Int8">81</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">ЧЦДё·їјдГы</property>
+										<property name="TabOrder" vt="Int8">0</property>
+										<property name="CtrlStyle" vt="Int32">1342242825</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TARadio" name="RDnameMa">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">40</property>
+										<property name="Width" vt="Int8">81</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">КэЧЦ·їјдГы</property>
+										<property name="TabOrder" vt="Int8">1</property>
+										<property name="CtrlStyle" vt="Int32">1342242825</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TAInput" name="namelenfr">
+									<properties>
+										<property name="Left" vt="Int16">152</property>
+										<property name="Top" vt="Int8">32</property>
+										<property name="Width" vt="Int8">25</property>
+										<property name="Height" vt="Int8">21</property>
+										<property name="TabOrder" vt="Int8">2</property>
+										<property name="Text" vt="String">3</property>
+										<property name="CtrlStyle" vt="Int32">1342382208</property>
+										<property name="CtrlExStyle" vt="Int16">512</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label21">
+									<properties>
+										<property name="Left" vt="Int16">184</property>
+										<property name="Top" vt="Int8">32</property>
+										<property name="Width" vt="Int8">16</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">µЅ</property>
+										<property name="TabOrder" vt="Int8">3</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TAInput" name="namelento">
+									<properties>
+										<property name="Left" vt="Int16">208</property>
+										<property name="Top" vt="Int8">32</property>
+										<property name="Width" vt="Int8">25</property>
+										<property name="Height" vt="Int8">21</property>
+										<property name="TabOrder" vt="Int8">4</property>
+										<property name="Text" vt="String">6</property>
+										<property name="CtrlStyle" vt="Int32">1342382208</property>
+										<property name="CtrlExStyle" vt="Int16">512</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label22">
+									<properties>
+										<property name="Left" vt="Int16">240</property>
+										<property name="Top" vt="Int8">32</property>
+										<property name="Width" vt="Int8">16</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">О»</property>
+										<property name="TabOrder" vt="Int8">5</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label23">
+									<properties>
+										<property name="Left" vt="Int8">112</property>
+										<property name="Top" vt="Int8">32</property>
+										<property name="Width" vt="Int8">31</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">і¤¶И:</property>
+										<property name="TabOrder" vt="Int8">6</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label27">
+									<properties>
+										<property name="Left" vt="Int8">112</property>
+										<property name="Top" vt="Int8">64</property>
+										<property name="Width" vt="Int8">55</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">ГыіЖЗ°Чє:</property>
+										<property name="TabOrder" vt="Int8">7</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TAInput" name="namepre">
+									<properties>
+										<property name="Left" vt="Int16">184</property>
+										<property name="Top" vt="Int8">64</property>
+										<property name="Width" vt="Int8">41</property>
+										<property name="Height" vt="Int8">21</property>
+										<property name="TabOrder" vt="Int8">8</property>
+										<property name="Text" vt="String">aa</property>
+										<property name="CtrlStyle" vt="Int32">1342374016</property>
+										<property name="CtrlExStyle" vt="Int16">512</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TARadio" name="RDnameAd">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">64</property>
+										<property name="Width" vt="Int8">89</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">·їјдГыјУ1 :</property>
+										<property name="TabOrder" vt="Int8">9</property>
+										<property name="CtrlStyle" vt="Int32">1342242825</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+							</components>
+						</object>
+						<object type="TAGroup" name="Group10">
+							<properties>
+								<property name="Left" vt="Int8">0</property>
+								<property name="Top" vt="Int16">239</property>
+								<property name="Width" vt="Int16">241</property>
+								<property name="Height" vt="Int16">129</property>
+								<property name="CtrlStyle" vt="Int32">1342308359</property>
+								<property name="CtrlExStyle" vt="Int8">0</property>
+								<property name="Caption" vt="WString">ёЅјУЙиЦГ</property>
+								<property name="TabOrder" vt="Int8">9</property>
+								<property name="Resizing" vt="Set"/>
+							</properties>
+							<components>
+								<object type="TADate" name="dtshut">
+									<properties>
+										<property name="Left" vt="Int8">88</property>
+										<property name="Top" vt="Int8">24</property>
+										<property name="Width" vt="Int16">138</property>
+										<property name="Height" vt="Int8">21</property>
+										<property name="Date" vt="String">2011-06-03</property>
+										<property name="Format" vt="String">yyyy/MM/dd HH:mm:ss</property>
+										<property name="Time" vt="String">12:13:43</property>
+										<property name="TabOrder" vt="Int8">0</property>
+										<property name="CtrlStyle" vt="Int32">1342373897</property>
+										<property name="CtrlExStyle" vt="Int16">512</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TACheckbox" name="ckbTimeshut">
+									<properties>
+										<property name="Left" vt="Int8">8</property>
+										<property name="Top" vt="Int8">24</property>
+										<property name="Width" vt="Int8">73</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">¶ЁК±№Ш»ъ:</property>
+										<property name="TabOrder" vt="Int8">1</property>
+										<property name="CtrlStyle" vt="Int32">1342242819</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label24">
+									<properties>
+										<property name="Left" vt="Int8">4</property>
+										<property name="Top" vt="Int8">55</property>
+										<property name="Width" vt="Int8">103</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">ОпЖ·јсИЎС­»·ґОКэ:</property>
+										<property name="TabOrder" vt="Int8">2</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TAInput" name="picktime">
+									<properties>
+										<property name="Left" vt="Int16">132</property>
+										<property name="Top" vt="Int8">55</property>
+										<property name="Width" vt="Int8">33</property>
+										<property name="Height" vt="Int8">21</property>
+										<property name="TabOrder" vt="Int8">3</property>
+										<property name="Text" vt="String">5</property>
+										<property name="CtrlStyle" vt="Int32">1342374016</property>
+										<property name="CtrlExStyle" vt="Int16">512</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label26">
+									<properties>
+										<property name="Left" vt="Int8">5</property>
+										<property name="Top" vt="Int8">80</property>
+										<property name="Width" vt="Int8">91</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">±©·зС©№Ґ»чґОКэ:</property>
+										<property name="TabOrder" vt="Int8">4</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TAInput" name="blztime">
+									<properties>
+										<property name="Left" vt="Int16">132</property>
+										<property name="Top" vt="Int8">80</property>
+										<property name="Width" vt="Int8">33</property>
+										<property name="Height" vt="Int8">21</property>
+										<property name="TabOrder" vt="Int8">5</property>
+										<property name="Text" vt="String">3</property>
+										<property name="CtrlStyle" vt="Int32">1342374016</property>
+										<property name="CtrlExStyle" vt="Int16">512</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label30">
+									<properties>
+										<property name="Left" vt="Int8">4</property>
+										<property name="Top" vt="Int8">104</property>
+										<property name="Width" vt="Int16">184</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">Б¬РшБЅґОТФЙП±»Ѕш·їјдµДјдёфѕЦКэ</property>
+										<property name="TabOrder" vt="Int8">6</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TAInput" name="otherroundinterval">
+									<properties>
+										<property name="Left" vt="Int16">196</property>
+										<property name="Top" vt="Int8">104</property>
+										<property name="Width" vt="Int8">33</property>
+										<property name="Height" vt="Int8">21</property>
+										<property name="TabOrder" vt="Int8">7</property>
+										<property name="Text" vt="String">10</property>
+										<property name="CtrlStyle" vt="Int32">1342374016</property>
+										<property name="CtrlExStyle" vt="Int16">512</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+							</components>
+						</object>
+						<object type="TAGroup" name="Group2">
+							<properties>
+								<property name="Left" vt="Int8">0</property>
+								<property name="Top" vt="Int8">115</property>
+								<property name="Width" vt="Int16">382</property>
+								<property name="Height" vt="Int8">121</property>
+								<property name="CtrlStyle" vt="Int32">1342308359</property>
+								<property name="CtrlExStyle" vt="Int8">0</property>
+								<property name="Caption" vt="WString">ЅЗЙ«№Ґ»чАаРН</property>
+								<property name="TabOrder" vt="Int8">10</property>
+								<property name="Resizing" vt="Set"/>
+							</properties>
+							<components>
+								<object type="TARadio" name="Radio1">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">16</property>
+										<property name="Width" vt="Int16">265</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">ґї±щПµ·ЁК¦ F1-ґ«ЛН,F2-±©·зС©,F5-±щ·вЧ°јЧ</property>
+										<property name="TabOrder" vt="Int8">0</property>
+										<property name="CtrlStyle" vt="Int32">1342242825</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TARadio" name="Radio2">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">36</property>
+										<property name="Width" vt="Int16">305</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">ґї»рПµ·ЁК¦ F1-ґ«ЛН,F2-ґу»рЗт,F5-±щ·вЧ°јЧ</property>
+										<property name="TabOrder" vt="Int8">1</property>
+										<property name="CtrlStyle" vt="Int32">1342242825</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TARadio" name="Radio3">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">58</property>
+										<property name="Width" vt="Int16">353</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">±щ»рЛ«РЮ(Цч»р) F1-ґ«ЛН,F2-ґу»рЗт,F3-±©·зС©,F5-±щ·вЧ°јЧ</property>
+										<property name="TabOrder" vt="Int8">2</property>
+										<property name="CtrlStyle" vt="Int32">1342242825</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TACheckbox" name="Ckbcta">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">100</property>
+										<property name="Width" vt="Int16">305</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">ё±КЦРЇґшХЅХщХЩ»Ѕ F7-ХЅ¶·Цё»У,F8-ХЅ¶·МеЦЖ </property>
+										<property name="TabOrder" vt="Int8">3</property>
+										<property name="CtrlStyle" vt="Int32">1342242819</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TARadio" name="Radio4">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">78</property>
+										<property name="Width" vt="Int8">121</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">ЧЁУГ¶ЁЦЖјјДЬ</property>
+										<property name="TabOrder" vt="Int8">4</property>
+										<property name="CtrlStyle" vt="Int32">1342242825</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+							</components>
+						</object>
+						<object type="TAGroup" name="Group11">
+							<properties>
+								<property name="Left" vt="Int16">244</property>
+								<property name="Top" vt="Int16">240</property>
+								<property name="Width" vt="Int16">140</property>
+								<property name="Height" vt="Int8">113</property>
+								<property name="CtrlStyle" vt="Int32">1342308359</property>
+								<property name="CtrlExStyle" vt="Int8">0</property>
+								<property name="Caption" vt="WString">ИҐємГЕВ·ѕ¶(Р¬ЧУ25ёЯЕЬ)</property>
+								<property name="TabOrder" vt="Int8">11</property>
+								<property name="Resizing" vt="Set"/>
+							</properties>
+							<components>
+								<object type="TARadio" name="RDpath1">
+									<properties>
+										<property name="Left" vt="Int8">8</property>
+										<property name="Top" vt="Int8">32</property>
+										<property name="Width" vt="Int8">89</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">Лж»ъВ·ПЯ</property>
+										<property name="Checked" vt="True">True</property>
+										<property name="TabOrder" vt="Int8">0</property>
+										<property name="TabStop" vt="True">True</property>
+										<property name="CtrlStyle" vt="Int32">1342242825</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TARadio" name="RDpath2">
+									<properties>
+										<property name="Left" vt="Int8">8</property>
+										<property name="Top" vt="Int8">56</property>
+										<property name="Width" vt="Int8">89</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">Чо¶МВ·ПЯ</property>
+										<property name="TabOrder" vt="Int8">1</property>
+										<property name="CtrlStyle" vt="Int32">1342242825</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TARadio" name="RDpath3">
+									<properties>
+										<property name="Left" vt="Int8">8</property>
+										<property name="Top" vt="Int8">80</property>
+										<property name="Width" vt="Int8">97</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">ЧЁУГ¶ЁЦЖВ·ПЯ</property>
+										<property name="TabOrder" vt="Int8">2</property>
+										<property name="CtrlStyle" vt="Int32">1342242825</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockHeight</property>
+									</properties>
+									<components/>
+								</object>
+							</components>
+						</object>
+					</components>
+				</object>
+				<object type="TTabSheet" name="TabSheet2">
+					<properties>
+						<property name="Caption" vt="WString">јтµҐЛµГч</property>
+						<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+						<property name="Font.Color" vt="Ident">clWindowText</property>
+						<property name="Font.Height" vt="Int8">-11</property>
+						<property name="Font.Name" vt="String">MS Sans Serif</property>
+						<property name="Font.Style" vt="Set"/>
+						<property name="ImageIndex" vt="Int8">-1</property>
+						<property name="ParentFont" vt="False">False</property>
+					</properties>
+					<components>
+						<object type="TAGroup" name="Group6">
+							<properties>
+								<property name="Left" vt="Int8">8</property>
+								<property name="Top" vt="Int8">8</property>
+								<property name="Width" vt="Int16">441</property>
+								<property name="Height" vt="Int8">113</property>
+								<property name="CtrlStyle" vt="Int32">1342308359</property>
+								<property name="CtrlExStyle" vt="Int8">0</property>
+								<property name="Caption" vt="WString">ПµНі | УОП·ЅЗЙ«Ч°±ёРиЗу</property>
+								<property name="TabOrder" vt="Int8">0</property>
+								<property name="Resizing" vt="Set"/>
+							</properties>
+							<components>
+								<object type="TALabel" name="Label8">
+									<properties>
+										<property name="Left" vt="Int8">8</property>
+										<property name="Top" vt="Int8">24</property>
+										<property name="Width" vt="Int16">179</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">1.µзДФCPUЛ«єЛТФЙП,НшЛЩ150ТФДЪ </property>
+										<property name="TabOrder" vt="Int8">0</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label9">
+									<properties>
+										<property name="Left" vt="Int8">8</property>
+										<property name="Top" vt="Int8">48</property>
+										<property name="Width" vt="Int16">413</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">2.ОдЖчІ»ДЬУГСЫЗтЈ¬ЅЁТйУГOAK»т№ЦТмЦ®ЗтЈЁІ»Ч·ЗуMFЈ¬СёЛЩЙ±№ЦР§ВКµЪТ»Ј© </property>
+										<property name="TabOrder" vt="Int8">1</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label10">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">64</property>
+										<property name="Width" vt="Int16">399</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="UTF8String">ЅЁТйУГЛюА­ПДМЧЧ°,Р¬ЧУ±ШРлКЗ25ёЯЕЬТФЙПЈ¬НЖјцУГwt                                       </property>
+										<property name="TabOrder" vt="Int8">2</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label11">
+									<properties>
+										<property name="Left" vt="Int8">8</property>
+										<property name="Top" vt="Int8">88</property>
+										<property name="Width" vt="Int16">349</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">3.PETУГЙҐЦУЈ¬°ёН·+ОпГвјЧ»тёХТгЈЁPET±ШРлДЬ¶Ґ№ЦЗТІ»ИЭТЧ№ТЈ©</property>
+										<property name="TabOrder" vt="Int8">3</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+							</components>
+						</object>
+						<object type="TAGroup" name="Group3">
+							<properties>
+								<property name="Left" vt="Int8">8</property>
+								<property name="Top" vt="Int16">128</property>
+								<property name="Width" vt="Int16">609</property>
+								<property name="Height" vt="Int16">145</property>
+								<property name="CtrlStyle" vt="Int32">1342308359</property>
+								<property name="CtrlExStyle" vt="Int8">0</property>
+								<property name="Caption" vt="WString">ФЛРРЗ°ЙиЦГ</property>
+								<property name="TabOrder" vt="Int8">1</property>
+								<property name="Resizing" vt="Set"/>
+							</properties>
+							<components>
+								<object type="TALabel" name="Label3">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">24</property>
+										<property name="Width" vt="Int16">579</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="UTF8String">1.ґтїЄ°µєЪДїВјПВµД d2hackmap.cfg Ј¬°СРиТЄјсИЎОпЖ·ґъВлСХЙ«ЙиЦГОЄ 2Ј¬±нКѕББВМЙ«                                           </property>
+										<property name="TabOrder" vt="Int8">0</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set">DockRight</property>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label4">
+									<properties>
+										<property name="Left" vt="Int8">24</property>
+										<property name="Top" vt="Int8">48</property>
+										<property name="Width" vt="Int16">579</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="UTF8String">ТФ»ЄЦ®УрТн  HackMap2.24 CFG For DIIExp 1.11b  ОЄАэЈє Item Colours[1116][7]:     2,0x20 //ИЁ№ЪЈ»                              </property>
+										<property name="TabOrder" vt="Int8">1</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label5">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">72</property>
+										<property name="Width" vt="Int16">576</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="UTF8String">2.ґ°їЪјУЙП -title d2Ј¬ ІўµЪТ»ёцЅшИлУОП·єуПФКѕДЈКЅЙиіЙ800*600                                                                                 </property>
+										<property name="TabOrder" vt="Int8">2</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label6">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">96</property>
+										<property name="Width" vt="Int16">569</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="UTF8String">3.ЅшИлУОП·Ј¬јмІйКЗ·сТСЙиЦГµДОпЖ·ПФКѕОЄББВМЙ«Ј¬ЗТґ°їЪОЄ 800*600                                                                   </property>
+										<property name="TabOrder" vt="Int8">3</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label7">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">120</property>
+										<property name="Width" vt="Int16">331</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">4.ёщѕЭУОП·ЅЗЙ«Ј¬Ѕ«јјДЬїмЅЭјьЙиЦГОЄУлґЛіМРтУТЙПЅЗµДТ»ЦВ  </property>
+										<property name="TabOrder" vt="Int8">4</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+							</components>
+						</object>
+						<object type="TAGroup" name="Group4">
+							<properties>
+								<property name="Left" vt="Int8">8</property>
+								<property name="Top" vt="Int16">280</property>
+								<property name="Width" vt="Int16">609</property>
+								<property name="Height" vt="Int16">145</property>
+								<property name="CtrlStyle" vt="Int32">1342308359</property>
+								<property name="CtrlExStyle" vt="Int8">0</property>
+								<property name="Caption" vt="WString">ФЛРР·ЅКЅ</property>
+								<property name="TabOrder" vt="Int8">2</property>
+								<property name="Resizing" vt="Set"/>
+							</properties>
+							<components>
+								<object type="TALabel" name="Label12">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">56</property>
+										<property name="Width" vt="Int16">520</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="UTF8String">2.ґЛЅзГжКдИлХЛєЕГЬВл±ЈґжЈ¬µгЛш¶Ё(µЪТ»ґО±ЈґжЈ¬ТФєуГїґОґтїЄЈ¬Ц±ЅУµгЛш¶Ё)                                   </property>
+										<property name="TabOrder" vt="Int8">0</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label13">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">80</property>
+										<property name="Width" vt="Int16">376</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="UTF8String">3. Жф¶ЇїмЅЭјьЈє F9 -їЄКјУОП· F10-НЛіц                                                         </property>
+										<property name="TabOrder" vt="Int8">1</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label14">
+									<properties>
+										<property name="Left" vt="Int8">24</property>
+										<property name="Top" vt="Int8">32</property>
+										<property name="Width" vt="Int16">235</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">И»єуНЛіц·їјдЈ¬·µ»ШµЅХѕНшЅЁБў·їјдЅзГж     </property>
+										<property name="TabOrder" vt="Int8">2</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+								<object type="TALabel" name="Label15">
+									<properties>
+										<property name="Left" vt="Int8">16</property>
+										<property name="Top" vt="Int8">16</property>
+										<property name="Width" vt="Int16">547</property>
+										<property name="Height" vt="Int8">17</property>
+										<property name="Caption" vt="WString">1.ґтїЄ°µєЪУОП·Ј¬µЪТ»ґОПИКЦ¶ЇґґЅЁТ»ёцµШУьУОП·Ј¬ИЛОпНЈБфФЪact5Ј¬Ѕ«°ь№ьБфУРЧг№»їХјдЈ¬                   </property>
+										<property name="TabOrder" vt="Int8">3</property>
+										<property name="HaveVariable" vt="False">False</property>
+										<property name="CtrlStyle" vt="Int32">1342308608</property>
+										<property name="CtrlExStyle" vt="Int8">0</property>
+										<property name="Resizing" vt="Set"/>
+									</properties>
+									<components/>
+								</object>
+							</components>
+						</object>
+					</components>
+				</object>
+				<object type="TTabSheet" name="TabSheet3">
+					<properties>
+						<property name="Caption" vt="WString">ИХЦѕІйїґ</property>
+						<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+						<property name="Font.Color" vt="Ident">clWindowText</property>
+						<property name="Font.Height" vt="Int8">-11</property>
+						<property name="Font.Name" vt="String">MS Sans Serif</property>
+						<property name="Font.Style" vt="Set"/>
+						<property name="ImageIndex" vt="Int8">-1</property>
+						<property name="ParentFont" vt="False">False</property>
+					</properties>
+					<components>
+						<object type="TAEdit" name="edtLog">
+							<properties>
+								<property name="Left" vt="Int8">4</property>
+								<property name="Top" vt="Int8">-1</property>
+								<property name="Width" vt="Int16">721</property>
+								<property name="Height" vt="Int16">577</property>
+								<property name="TabOrder" vt="Int8">0</property>
+								<property name="CtrlStyle" vt="Int32">1345523908</property>
+								<property name="CtrlExStyle" vt="Int16">512</property>
+								<property name="Resizing" vt="Set"/>
+							</properties>
+							<components/>
+						</object>
+						<object type="TAButton" name="deletLog">
+							<properties>
+								<property name="Left" vt="Int16">436</property>
+								<property name="Top" vt="Int16">583</property>
+								<property name="Width" vt="Int8">75</property>
+								<property name="Height" vt="Int8">25</property>
+								<property name="Caption" vt="WString">ЗеїХ</property>
+								<property name="TabOrder" vt="Int8">1</property>
+								<property name="Color" vt="Ident">clBtnFace</property>
+								<property name="CtrlStyle" vt="Int32">1342373888</property>
+								<property name="CtrlExStyle" vt="Int8">0</property>
+								<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+							</properties>
+							<components/>
+						</object>
+						<object type="TAButton" name="readLog">
+							<properties>
+								<property name="Left" vt="Int16">220</property>
+								<property name="Top" vt="Int16">583</property>
+								<property name="Width" vt="Int8">75</property>
+								<property name="Height" vt="Int8">25</property>
+								<property name="Caption" vt="WString">¶БИЎ</property>
+								<property name="TabOrder" vt="Int8">2</property>
+								<property name="Color" vt="Ident">clBtnFace</property>
+								<property name="CtrlStyle" vt="Int32">1342373888</property>
+								<property name="CtrlExStyle" vt="Int8">0</property>
+								<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+							</properties>
+							<components/>
+						</object>
+					</components>
+				</object>
+			</components>
+		</object>
+		<object type="TAStatusBar" name="StatusBar1">
+			<properties>
+				<property name="Left" vt="Int8">0</property>
+				<property name="Top" vt="Int16">651</property>
+				<property name="Width" vt="Int16">750</property>
+				<property name="Height" vt="Int8">19</property>
+				<property name="Panels" vt="Collection">
+					<collection>
+						<item>
+							<property name="Text" vt="WString">І»·ўЛНИОєОКэѕЭ°ь,±ЬїЄWardenјмІв»ъЦЖ,ЗлєПАн°ІЕЕ№Т»ъК±јд</property>
+							<property name="Width" vt="Int16">400</property>
+						</item>
+						<item>
+							<property name="Text" vt="String">QQ:1246035036</property>
+							<property name="Width" vt="Int8">50</property>
+						</item>
+					</collection>
+				</property>
+				<property name="CtrlStyle" vt="Int32">1342177280</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+			</properties>
+			<components/>
+		</object>
+	</components>
+</object>

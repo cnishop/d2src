@@ -8,7 +8,7 @@
 #RequireAdmin
 ; -----------绿色方块 0x18FB01        ；紫色 0xA420FC   红色 0xFC2C00    ，"0xCE8523" ;橙色
 Global $testversion = 0;  是测试版 1   0 为正式版
-Global $dingZhiFlag = 109 ;  没订制 0 ， 109 ，111 ,  113 ，    每个战网npc，出身地可能都不同，加入订制flag
+Global $dingZhiFlag = 113 ;  没订制 0 ， 109 ，111 ,  113 ，    每个战网npc，出身地可能都不同，加入订制flag
 Global $onlykp = 1;    0 不是  1 专门kp
 
 Global $cheapversion = 0 ; 1 是简易版本，不装箱， 0 为全功能
@@ -18,8 +18,8 @@ Local $acountArray[2] ;用于绑定帐号
 $acountArray[0] = "bbsdodo"
 $acountArray[1] = "bbsdodo"
 
-Global $bindmac = 0;绑定机器
-Global $bindacc = 1;绑定帐号
+Global $bindmac = 1;绑定机器
+Global $bindacc = 0;绑定帐号
 
 Local $killQuery ;Random(1, 3, 1)      ;1 ;设定一个打怪队列的数字，比如  1 kp， 2杀督军山克上面的怪， 3 杀督军山克
 

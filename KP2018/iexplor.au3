@@ -359,7 +359,7 @@ Func runGame()
 		EndIf
 	EndIf
 	
-	If $round >= 1500000 Then ;测试版
+	If $round >= 150 Then ;测试版
 	writelog("持续超过至少150局了，注意危险")
 	MsgBox(4096, " ..... 温馨提示 .........", "挂机时间过长，强制下线，看完挂机经验再挂机，必须手动结合自动")
 	Exit 0

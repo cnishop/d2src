@@ -56,7 +56,7 @@ Local $acountArray[2] ;用于绑定帐号
 
 $bindmac = 1 ;绑定机器
 $bindacc = 0 ;绑定帐号
-$bindlimitCount = 1 ;  绑定次数  ---可以告知给用户的测试次数,测试版可以用此控制
+$bindlimitCount = 0 ;  绑定次数  ---可以告知给用户的测试次数,测试版可以用此控制
 $limitRound = 5;持续挂机次数
 $bindTime = 0 ;数据库中的次数  ;只测试版用到
 

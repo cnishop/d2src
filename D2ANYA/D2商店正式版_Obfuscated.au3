@@ -1691,6 +1691,7 @@ Case Else
 EndSelect
 Return True
 EndFunc
+#IgnoreFunc __SQLite_Inline_Version, __SQLite_Inline_Modified
 Func _FileWriteLog($sLogPath, $sLogMsg, $iFlag = -1)
 Local $iOpenMode = $FO_APPEND
 Local $sDateNow = @YEAR & "-" & @MON & "-" & @MDAY
@@ -1864,7 +1865,7 @@ Local $parm_othercheck, $parm_staymin
 Local $acountArray[2]
 $bindmac = 1
 $bindacc = 0
-$bindlimitCount = 1
+$bindlimitCount = 0
 $limitRound = 5
 $bindTime = 0
 $ranLimte = Random(-14, 14, 1)

@@ -73,16 +73,36 @@ $var = PixelGetColor(125, 595) ;, "2C1008")
 ConsoleWrite(Hex($var, 6) & @CR)
 ConsoleWrite(@DesktopDepth& @CR)
 
+	Sleep(1000)
+	MouseMove(390 + Random(1, 20, 1), 300 + Random(1, 80, 1))
+	For $i = 1 To 20 Step 1 ;小紫瓶
+		$coord = findRev2InBag()
+		TrayTip("", $i, 1, 16)
+		Sleep(500)
+		If $coord[0] >= 0 And $coord[1] >= 0 Then
+			MouseClick("right", $coord[0] + 2, $coord[1] + 2, Random(1, 3, 1), Random(0, 5, 1));
+			Sleep(Random(400, 500))
+		EndIf
+	Next
 
-;~ 	$coord = PixelSearch(10, 10, 700, 500, 0x18FC00, 25, 1, $title)
-;~ 	If Not @error Then
-;~ 		MouseMove($coord[0]  ,$coord[1] )  ;    x 中间空格  55~ 75 + 80 ,  y 空格 -35~ 40 
-;~ 			$coord1 = PixelSearch($coord[0] +82, $coord[1] +42, 700, 500, 0x18FC00, 25, 1, $title)
-;~ 			If Not @error Then
-;~ 				;MouseMove($coord1[0]  ,$coord1[1] ) 
-;~ 				MouseClick("left", $coord1[0] -100  ,$coord1[1] +20,1 ) 
-;~ 			EndIf
-;~ 	EndIf
+Func findRev2InBag() ;查找小紫瓶
+	$postion = _FindPic($winleft + 420, $winTop + 310, $winright - 95, $winBottom - 170, "images\revlife2.bmp", 0.3)
+
+	#CS 	If $postion[0] >=0 And  $postion[1] >=0 Then
+		$postion2= _FindPic($winleft,$winTop +500,$winright-500,$winBottom,"images\inroom2.bmp",0.8)
+		If $postion2[0] >=0 And  $postion2[1] >=0 Then
+		MouseMove($postion2[0]-$winleft,$postion2[1]-$winTop)
+		EndIf
+		
+		Return True
+		Else
+		Return False
+		EndIf
+	#CE
+	$postion[0] = $postion[0] - $winleft
+	$postion[1] = $postion[1] - $winTop
+	Return $postion
+EndFunc   ;==>findRevInBag
 
 	 
 exit

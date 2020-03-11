@@ -153,6 +153,29 @@ Func findRevInBag() ;查找是否选择单机或站网界面  420, 320, 705, 430
 	Return $postion
 EndFunc   ;==>findRevInBag
 
+
+Func findRev2InBag() ;查找小紫瓶
+	$postion = _FindPic($winleft + 420, $winTop + 310, $winright - 95, $winBottom - 170, "images\revlife2.bmp", 0.3)
+
+	#CS 	If $postion[0] >=0 And  $postion[1] >=0 Then
+		$postion2= _FindPic($winleft,$winTop +500,$winright-500,$winBottom,"images\inroom2.bmp",0.8)
+		If $postion2[0] >=0 And  $postion2[1] >=0 Then
+		MouseMove($postion2[0]-$winleft,$postion2[1]-$winTop)
+		EndIf
+		
+		Return True
+		Else
+		Return False
+		EndIf
+	#CE
+	$postion[0] = $postion[0] - $winleft
+	$postion[1] = $postion[1] - $winTop
+	Return $postion
+EndFunc   ;==>findRevInBag
+
+
+
+
 Func findHealInBag() ;查找是否选择单机或站网界面  420, 320, 705, 430
 	
 	$postion = _FindPic($winleft + 420, $winTop + 310, $winright - 90, $winBottom - 160, "images\czheal.bmp", 0.8)

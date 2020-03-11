@@ -359,7 +359,7 @@ Func runGame()
 		EndIf
 	EndIf
 	
-	If $round >= 1500000 Then ;测试版
+	If $round >= 1500 Then ;测试版
 	writelog("持续超过至少150局了，注意危险")
 	MsgBox(4096, " ..... 温馨提示 .........", "挂机时间过长，强制下线，看完挂机经验再挂机，必须手动结合自动")
 	Exit 0
@@ -629,7 +629,7 @@ Func roomplay() ;房间内运行的主程序
 	
 	If isInRoom() And $guidrinkrej = 1 Then
 		;加入随机值，不是每局都检测喝掉紫萍，而是隔几局喝掉
-		If Mod($round + 1, 8) = 0 Then
+		If Mod($round + 1, 5) = 0 Then
 			checkbagRev()
 		EndIf
 		If Mod($round + 1, 20) = 0 Then
@@ -2703,13 +2703,24 @@ Func drinksurplusrev() ;去掉多余的瞬间回复血瓶,省得占用空间
 ;~ 		EndIf
 ;~ 	Next
 	MouseMove(390 + Random(1, 20, 1), 300 + Random(1, 80, 1))
-	For $i = 1 To 20 Step 1 ;用找图的方式，更精准
+	For $i = 1 To 20 Step 1 ;大紫瓶
 		$coord = findRevInBag()
 		If $coord[0] >= 0 And $coord[1] >= 0 Then
 			MouseClick("right", $coord[0] + 2, $coord[1] + 2, Random(1, 3, 1), Random(0, 5, 1));
 			Sleep(Random(400, 500))
 		EndIf
 	Next
+	
+	Sleep(1000)
+	MouseMove(390 + Random(1, 20, 1), 300 + Random(1, 80, 1))
+	For $i = 1 To 20 Step 1 ;小紫瓶
+		$coord = findRev2InBag()
+		If $coord[0] >= 0 And $coord[1] >= 0 Then
+			MouseClick("right", $coord[0] + 2, $coord[1] + 2, Random(1, 3, 1), Random(0, 5, 1));
+			Sleep(Random(400, 500))
+		EndIf
+	Next
+	
 	
 	;喝掉多余红，多余蓝
 	For $i = 1 To 20 Step 1 ;用找图的方式，更精准

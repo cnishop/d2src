@@ -1,5 +1,5 @@
 [KP]
-帐号=zgsor
+帐号=zgsor2
 密码=313131323232
 cta=0
 类型=1
@@ -8,7 +8,7 @@ cta=0
 起始位置=C:\GUO\other\d2\暗黑2大箱子战网客户端-挂\
 程序名称=D2Loader.exe
 其他参数=-ns -lq -pdir plugin113 -direct
-窗口标题=d2
+窗口标题=d2ww
 游戏模式=1
 kp模式=4
 是否重启游戏=0

@@ -409,7 +409,7 @@ Func runGame()
 			
 		Case Else
 			TrayTip("", "等待中，请稍后", 1, 16)
-			Sleep(Random(400, 600, 1))
+			Sleep(Random(400, 1600, 1))
 	EndSelect
 	
 	;;如果$optcount 还为0，表示没执行过任何操作，停留在某个未知界面，

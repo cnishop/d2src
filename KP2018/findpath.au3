@@ -567,7 +567,7 @@ Func anhei3()
 		CheckMove($Char_CheckMoveDelay)
 
 		MouseClick('left', 380, 540)
-		Sleep(500)
+		Sleep(300)
 		CheckMove($Char_CheckMoveDelay)
 		
 		$coord = findlcaicao() ;ÕÒµ½²ñ²ÝµÄÎ»ÖÃ
@@ -575,7 +575,7 @@ Func anhei3()
 		If $coord[0] >= 0 And $coord[1] >= 0 Then
 			;MouseMove($coord[0], $coord[1]);
 			MouseClick('left', $coord[0] + 50, $coord[1] + 100)
-			Sleep(500)
+			Sleep(300)
 			CheckMove($Char_CheckMoveDelay)
 			;Sleep(1000)
 		Else
@@ -584,17 +584,17 @@ Func anhei3()
 		EndIf
 		MouseMove(410, 510)
 		MouseClick("left", 410, 510)
-		Sleep(500)
+		Sleep(200)
 		CheckMove($Char_CheckMoveDelay)
 
 		MouseMove(100, 440)
 		MouseClick("left", 100, 440)
-		Sleep(500)
+		Sleep(200)
 		CheckMove($Char_CheckMoveDelay)
 
 		MouseMove(100, 440)
 		MouseClick("left", 100, 440)
-		Sleep(500)
+		Sleep(200)
 		CheckMove($Char_CheckMoveDelay)
 
 
@@ -606,7 +606,7 @@ Func anhei3()
 		If $coord[0] >= 0 And $coord[1] >= 0 Then
 			;MouseMove($coord[0], $coord[1]);
 			MouseClick('left', $coord[0] + 50, $coord[1] + 100)
-			Sleep(1500)
+			Sleep(1000)
 			CheckMove($Char_CheckMoveDelay)
 			;Sleep(1000)
 		Else
@@ -615,20 +615,20 @@ Func anhei3()
 		EndIf
 		MouseMove(410, 510)
 		MouseClick("left", 410, 510)
-		Sleep(1500)
+		Sleep(300)
 		CheckMove($Char_CheckMoveDelay)
 
 		MouseMove(100, 440)
 		MouseClick("left", 100, 440)
-		Sleep(1500)
+		Sleep(300)
 		CheckMove($Char_CheckMoveDelay)
 
 		MouseMove(100, 440)
 		MouseClick("left", 100, 440)
-		Sleep(1500)
+		Sleep(300)
 		CheckMove($Char_CheckMoveDelay)
 		
-		Sleep(1000)
+		Sleep(200)
 	EndIf
 	
 

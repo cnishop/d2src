@@ -359,10 +359,10 @@ Func runGame()
 		EndIf
 	EndIf
 	
-	If $round >= 1500 Then ;测试版
-	writelog("持续超过至少150局了，注意危险")
-	MsgBox(4096, " ..... 温馨提示 .........", "挂机时间过长，强制下线，看完挂机经验再挂机，必须手动结合自动")
-	Exit 0
+	If $round >= 150 Then ;测试版
+		writelog("持续超过块3个多小时了，注意危险")
+		MsgBox(4096, " ..... 温馨提示 .........", "挂机时间过长，强制下线，看完挂机经验再挂机，必须手动结合自动")
+		Exit 0
 	EndIf
 	
 	
@@ -512,12 +512,13 @@ Func runGame()
 			
 		Case Else
 			;$optcount = 0
-			
+			Sleep(Random(300, 600, 1))
 			TrayTip("", "等待中，请稍后", 1, 16)
-			;Sleep(Random(400, 600, 1) + $parm_speeddelay)
-			Sleep(10)
+			If Mod($round + 1, 5) = 0 Then
+				Sleep(Random(3000, 6000, 1))
+			EndIf
 	EndSelect
-	
+
 	;;如果$optcount 还为0，表示没执行过任何操作，停留在某个未知界面，
 	If $optcount = 0 And $debugmode = 0 Then
 		;activeWindow() ;尝试激活界面
@@ -548,7 +549,7 @@ Func runGame()
 	Else
 		$ohterImage = 0 ; 恢复初始状态，不进行累积
 	EndIf
-	
+
 EndFunc   ;==>runGame
 
 Func activeWindow()
@@ -897,6 +898,11 @@ Func roomplay() ;房间内运行的主程序
 								exitRoom()
 								Return
 							EndIf
+							
+							;此处增加一个向前走一步的动作
+							;MouseClick("left", 480 , 270 , 1) ;120
+							;Sleep(500)
+							
 							TrayTip("", "release Skill.", 1, 16)
 							$fireround = $round ;把局数传个 fire
 							
@@ -2354,12 +2360,48 @@ Func resumepet()
 		Sleep(2000)
 		
 		TrayTip("", "复活方式3", 9, 16)
+		Sleep(1000)
+		MouseMove(240, 200) ; 针对有的电脑特殊，尝试手动定位
+		Sleep(2000)
+		MouseClick("left", Default, Default, 1)
+		Sleep(3000)
+		MouseMove(356, 130) ;点复活两个字
+		MouseClick("left", Default, Default, 1)
+		Sleep(2000)
+		MouseClick("left", 400, 300, 1) ;双击一次，防止点到其他对话按钮
+		;--------------------
+		TrayTip("", "没找到", 9, 16)
+		Sleep(1000)
+		Return
+		
+		#CS 		$coord = findtianshi()
+			If $coord[0] >= 0 And $coord[1] >= 0 Then
+			
+			TrayTip("", "复活方式1", 9, 16)
+			Sleep(1000)
+			MouseMove($coord[0], $coord[1]);
+			Sleep(2000)
+			MouseClick('left', $coord[0], $coord[1] + 20)
+			Sleep(2000)
+			MouseMove(356, 137)
+			Sleep(1000)
+			MouseClick("left", Default, Default, 1)
+			;MouseMove(356,135)      ; 复活pet
+			;MouseClick("left",356,135,1)
+			Sleep(2000)
+			MouseClick("left", 400, 300, 1) ;双击一次，防止点到其他对话按钮
+			Sleep(1000)
+			Return
+			Else
+			;---------
+			
+			TrayTip("", "复活方式2", 9, 16)
 			Sleep(1000)
 			MouseMove(240, 200) ; 针对有的电脑特殊，尝试手动定位
 			Sleep(2000)
 			MouseClick("left", Default, Default, 1)
 			Sleep(3000)
-			MouseMove(356, 130)  ;点复活两个字
+			MouseMove(356, 137)
 			MouseClick("left", Default, Default, 1)
 			Sleep(2000)
 			MouseClick("left", 400, 300, 1) ;双击一次，防止点到其他对话按钮
@@ -2367,44 +2409,8 @@ Func resumepet()
 			TrayTip("", "没找到", 9, 16)
 			Sleep(1000)
 			Return
-			
-#CS 		$coord = findtianshi()
-   		If $coord[0] >= 0 And $coord[1] >= 0 Then
-   			
-   			TrayTip("", "复活方式1", 9, 16)
-   			Sleep(1000)
-   			MouseMove($coord[0], $coord[1]);
-   			Sleep(2000)
-   			MouseClick('left', $coord[0], $coord[1] + 20)
-   			Sleep(2000)
-   			MouseMove(356, 137)
-   			Sleep(1000)
-   			MouseClick("left", Default, Default, 1)
-   			;MouseMove(356,135)      ; 复活pet
-   			;MouseClick("left",356,135,1)
-   			Sleep(2000)
-   			MouseClick("left", 400, 300, 1) ;双击一次，防止点到其他对话按钮
-   			Sleep(1000)
-   			Return
-   		Else
-   			;---------
-   			
-   			TrayTip("", "复活方式2", 9, 16)
-   			Sleep(1000)
-   			MouseMove(240, 200) ; 针对有的电脑特殊，尝试手动定位
-   			Sleep(2000)
-   			MouseClick("left", Default, Default, 1)
-   			Sleep(3000)
-   			MouseMove(356, 137)
-   			MouseClick("left", Default, Default, 1)
-   			Sleep(2000)
-   			MouseClick("left", 400, 300, 1) ;双击一次，防止点到其他对话按钮
-   			;--------------------
-   			TrayTip("", "没找到", 9, 16)
-   			Sleep(1000)
-   			Return
-   		EndIf
-#CE
+			EndIf
+		#CE
 	EndIf
 	
 	If $parm_imageMode = 2 And $dingZhiFlag = 113 Then
@@ -2646,7 +2652,7 @@ Func roleisdead()
 		TrayTip("", "检查人物是否挂了", 1, 16)
 		Send("{" & $char_Bag & "}")
 		Sleep(2000)
-		MouseMove(400 , 300)
+		MouseMove(400, 300)
 		Sleep(1000)
 		If findPointColor(460, 250, "242424") = True And findPointColor(505, 250, "040404") = True And findPointColor(690, 250, "282828") = True Then
 			;如果手套,戒指,鞋子三个点颜色都为默认颜色,则表示人物没有装备,死亡了
@@ -2983,7 +2989,7 @@ Func gotoBox()
 				If $coord[0] >= 0 And $coord[1] >= 0 Then
 					;MouseMove($coord[0] +150, $coord[1] +30);
 					MouseClick('left', $coord[0] + 150, $coord[1] + 30)
-					Sleep(1500)
+					Sleep(500)
 					CheckMove($Char_CheckMoveDelay)
 				EndIf
 				$i = $i + 1

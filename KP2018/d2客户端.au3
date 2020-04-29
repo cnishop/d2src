@@ -16,7 +16,7 @@
 ; 程序编写【土豆】：QQ:825312600
 ;#NoTrayIcon
 
-Global $Cdkey, $cpuid, $hdKey, $Iname, $Ihdkey, $Iregkey, $Diskid, $Usrid
+Global $Cdkey, $cpuid, $hdKey, $Iname, $Ihdkey, $Iregkey, $Diskid, $Usrid, $CpuOrDisk
 $RegPW1 = "QQ_1246035036" ;机器码之保护码 1
 $RegPW2 = "WWW.MICROSOFT.COM" ;机器码之保护码 2
 $KeyPw = "cnishop@126.comC2000" ;计算注册码时用到的 保护码!
@@ -106,14 +106,16 @@ EndFunc   ;==>_Diskid
 
 Func _HDkey() ;把CPU序列号ID加密
 	 ;硬盘绑定方式
-	_Diskid()
-	$hdKey = StringMid(_MD5(StringMid(_MD5($Diskid & $RegPW1), 3, 34) & $RegPW2), 3, 34) ;硬盘
+	;_Diskid()
+	;$hdKey = StringMid(_MD5(StringMid(_MD5($Diskid & $RegPW1), 3, 34) & $RegPW2), 3, 34) ;硬盘
+	;$CpuOrDisk = "D"
 
 
 	
 	;cpu绑定方式
-	;_Cpuid()
-	;$hdKey = StringMid(_MD5(StringMid(_MD5($cpuid & $RegPW1), 3, 34) & $RegPW2), 3, 34)      ;cpu
+	_Cpuid()
+	$hdKey = StringMid(_MD5(StringMid(_MD5($cpuid & $RegPW1), 3, 34) & $RegPW2), 3, 34)      ;cpu
+	$CpuOrDisk = "C"
 	
 	Return $hdKey
 ;~ 	ClipPut($hdKey)  ;

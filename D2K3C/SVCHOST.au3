@@ -7,7 +7,7 @@
 
 #RequireAdmin
 
-Global $testversion = 1  ;  是测试版 1   0 为正式版
+Global $testversion = 0 ;  是测试版 1   0 为正式版
 
 ;///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////各种版本
 Local $acountArray[2] ;用于绑定帐号
@@ -153,7 +153,7 @@ EndIf
 
 
 If $bindmac = 1 And $testversion = 0 Then
-	_GUICtrlStatusBar_SetText($StatusBar1, "绑定机器", 0)
+	_GUICtrlStatusBar_SetText($StatusBar1, "绑定机器" & $CpuOrDisk, 0)
 	If Not _IniVer() Then ; 绑定机器
 		gui()
 	EndIf
@@ -180,6 +180,7 @@ $parm_boxqty = $guiboxqty
 $parm_namelenfr = $guinamelenfr
 $parm_namelento = $guinamelento
 $parm_namepre = $guinamepre
+$parm_nameNoChange = $guinameNoChange
 $parm_drinkrej_plus = $guidrinkrej
 $parm_drinkheal_plus = $guidrinkheal
 $parm_drinkmana_plus = $guidrinkmana
@@ -469,7 +470,7 @@ Func activeWindow()
 			;$handle = WinActivate($title)
 			;Send("{ENTER}")
 			;If @error <> 0 Then
-			MsgBox(32, "错误", "请先设置好正确的路径")
+			MsgBox(32, "错误", "请先设置好正确的路径，并用管理员权限打开")
 			Exit
 		Else
 			Sleep(3000)
@@ -1010,8 +1011,10 @@ Func createRoom() ;建立战网游戏房间名
 		ControlSend($title, "", "", $str)
 	ElseIf $nameCat = 2 Then
 		ControlSend($title, "", "", Random(10 ^ $parm_namelenfr - 1, 10 ^ $parm_namelento - 1, 1))
-	Else
+	ElseIf $nameCat = 3 Then
 		ControlSend($title, "", "", $parm_namepre & $ct)
+	Else 
+		ControlSend($title, "", "", $parm_nameNoChange)
 	EndIf
 
 	Sleep(500)

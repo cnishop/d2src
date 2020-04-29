@@ -15,7 +15,7 @@
 ; ³ÌĞò±àĞ´¡¾ÍÁ¶¹¡¿£ºQQ:825312600 
 ;#NoTrayIcon 
 
-Global $Cdkey, $cpuid, $hdKey ,$Iname ,$Ihdkey ,$Iregkey
+Global $Cdkey, $cpuid, $hdKey ,$Iname ,$Ihdkey ,$Iregkey , $Diskid, $CpuOrDisk
 $RegPW1 = "QQ_1246035036" ;»úÆ÷ÂëÖ®±£»¤Âë 1
 $RegPW2 = "WWW.MICROSOFT.COM" ;»úÆ÷ÂëÖ®±£»¤Âë 2
 $KeyPw = "cnishop@126.comk3c" ;¼ÆËã×¢²áÂëÊ±ÓÃµ½µÄ ±£»¤Âë!
@@ -71,6 +71,22 @@ While 1
 	EndSwitch
 WEnd
 EndFunc
+
+Func _Diskid() ;È¡µÃCPUµÄĞòÁĞºÅID
+	If $testversion = 0 And $bindmac = 1 Then ;ÊÇÕıÊ½°æ²Å°ï¶¨
+		$sn = DllCall(@ScriptDir & "\sys2.dll", "int", "GetSerialNumber", "int", "nDrive", "str", "lpBuffer") ;ĞòÁĞºÅ
+		If @error Then ;Èç¹û°ó¶¨Ê§°Ü£¬¾ÍÓÃcpu id
+			MsgBox(0, "´íÎó", "È±ÉÙÎÄ¼ş2ÁË,È·ÈÏÊÇ·ñÔÚÍ¬Ò»¸öÎÄ¼ş¼ĞÖĞ" & @LF & "´íÎó´úÂë:" & @error)
+			;_Cpuid()
+			;Return $cpuid
+			Exit 0
+		Else
+			$Diskid = $sn[2]
+			Return $Diskid
+		EndIf
+	EndIf
+EndFunc   ;==>_Diskid
+
 Func _Cpuid() ;È¡µÃCPUµÄĞòÁĞºÅID
 	$objWMIService = ObjGet("winmgmts:{impersonationLevel=impersonate}!\\.\root\cimv2")
 	$colCPU = $objWMIService.ExecQuery("Select * from Win32_Processor")
@@ -80,8 +96,15 @@ Func _Cpuid() ;È¡µÃCPUµÄĞòÁĞºÅID
 	Next
 EndFunc   ;==>_Cpuid
 Func _HDkey() ;°ÑCPUĞòÁĞºÅID¼ÓÃÜ
-	_Cpuid() 
-	$hdKey = StringMid(_MD5(StringMid(_MD5($cpuid & $RegPW1), 3, 34) & $RegPW2), 3, 34)
+		 ;Ó²ÅÌ°ó¶¨·½Ê½
+	_Diskid()
+	$hdKey = StringMid(_MD5(StringMid(_MD5($Diskid & $RegPW1), 3, 34) & $RegPW2), 3, 34) ;Ó²ÅÌ
+    $CpuOrDisk = "D"
+	
+	;_Cpuid() 
+	;$hdKey = StringMid(_MD5(StringMid(_MD5($cpuid & $RegPW1), 3, 34) & $RegPW2), 3, 34)
+	;$CpuOrDisk = "C"
+	
 	Return $hdKey
 ;~ 	ClipPut($hdKey)  ;
 ;~ 	MsgBox(0, "ÌáÊ¾:", " ÒÑ¾­½«×¢²áÂë·¢ËÍµ½¼ôÇĞ°å " & @CR & " ¿ÉÒÔÖ±½ÓÕ³Ìù×¢²áÂë! ")
@@ -92,6 +115,11 @@ Func _CdKey() ;¼ÓÃÜµÄ¹Ø¼ü²¿·Ö ÕâÀïÊÇÓÃMD5¼ÓÃÜ  Õû¸ö×¢²á»úµÄ¹Ø¼ü²¿·Ö¾ÍÊÇÕâÀï, Èç¹
 	;StringMidÓÃÀ´È¡×Ö½ÚÖĞµÄ²¿·Ö×Ö·û ,GUICtrlRead¶ÁÈ¡¿Ø¼şÖĞµÄÄÚÈİ,
 	Return $Cdkey
 EndFunc   ;==>_CdKey
+
+
+
+
+
 
 Func _IniVer()
 $iregkey = IniRead("D2K3C.dat", "×¢²á", "×¢²áÂë", "")

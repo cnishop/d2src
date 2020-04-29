@@ -359,7 +359,7 @@ Func runGame()
 		EndIf
 	EndIf
 	
-	If $round >= 150 Then ;测试版
+	If $round >= 15000 Then ;测试版
 		writelog("持续超过块3个多小时了，注意危险")
 		MsgBox(4096, " ..... 温馨提示 .........", "挂机时间过长，强制下线，看完挂机经验再挂机，必须手动结合自动")
 		Exit 0
@@ -3109,7 +3109,7 @@ Func ramclose()
 		closeAndWait(0)
 	EndIf
 	
-	If $tfclosecount >= 150 Then ; 如果大于250局都不下线，系统强行给它下线
+	If $tfclosecount >= 15000 Then ; 如果大于250局都不下线，系统强行给它下线
 		;此时可以关闭游戏,用循环的下一个账号来登陆
 		closeAndWait(1)
 	EndIf

@@ -17,7 +17,7 @@
 Opt("TrayMenuMode", 1) ; 默认托盘菜单项目(脚本已暂停/退出脚本) (Script Paused/Exit) 将不显示.
 Global $Files = "system.log" ;日志记录
 Global $infofiles = "info.dat", $remark = "说明.txt"
-Global $usr, $psd, $fire, $guitp , $cta, $d2path1, $d2path2, $d2path3, $shutdown, $nameCat, $guidrinkrej, $ckroledead, $ckass, $sanctury, $ckact5, $guinamepre
+Global $usr, $psd, $fire, $guitp , $cta, $d2path1, $d2path2, $d2path3, $shutdown, $nameCat, $guidrinkrej, $ckroledead, $ckass, $sanctury, $ckact5, $guinamepre,$guinameNoChange
 Global $pos, $guibhTime, $guiboxing, $guiboxqty, $guinamelenfr, $guinamelento, $guidrinkheal, $guidrinkmana, $guisettime, $guitimedata, $guipicktime
 Global $guiramstop, $guikpstoptime, $guiramtime, $guiblztime, $guipath
 Global $guiramclose, $guiclosetime, $guiclosestoptime
@@ -30,181 +30,13 @@ Global $guiatBh, $guiatNA, $guiatVIG, $guiatCON, $guiatSHD, $guiatTP;技能快捷键
 Global $guititle, $guiexeparm3, $guigamemode ;标题，其他参数,游戏模式
 
 Local $avGameMode[2] ;游戏模式，单击还是战网
-Local $avArray[2], $avArrayP[8], $avArrayName[3], $avArrayPath[2], $ArrayOtherWhen[2], $Arrayothermetherd[2], $ArrayFiremethord[2]
+Local $avArray[2], $avArrayP[8], $avArrayName[4], $avArrayPath[2], $ArrayOtherWhen[2], $Arrayothermetherd[2], $ArrayFiremethord[2]
 
 
 
-;~ #region ### START Koda GUI section ### Form=d:\tool\autoit3\examples\guo\d2k3c\newk3c.kxf
 
-;~ $Form1_1_2_1 = GUICreate("", 514, 575, 474, 202)
-;~ $Tab1 = GUICtrlCreateTab(8, 8, 497, 545)
-;~ $TabSheet1 = GUICtrlCreateTabItem("系统")
-;~ $YesID = GUICtrlCreateButton("锁定", 404, 465, 75, 25)
-;~ $SaveID = GUICtrlCreateButton("保存", 148, 465, 75, 25)
-;~ $ExitID = GUICtrlCreateButton("退出", 284, 465, 75, 25)
-;~ $Label18 = GUICtrlCreateLabel("点锁定后 F9 运行/暂停, F10 退出", 280, 512, 174, 17)
-;~ GUICtrlSetColor(-1, 0xFF0000)
-;~ $Group6 = GUICtrlCreateGroup("游戏模式", 12, 224, 481, 49)
-;~ $RadGame1 = GUICtrlCreateRadio("战网模式", 80, 244, 113, 17)
-;~ GUICtrlSetState(-1, $GUI_CHECKED)
-;~ $RadGame2 = GUICtrlCreateRadio("单机模式", 256, 244, 113, 17)
-;~ GUICtrlCreateGroup("", -99, -99, 1, 1)
-;~ $Group12 = GUICtrlCreateGroup("外部控制", 12, 280, 481, 129)
-;~ $ckbTimeshut = GUICtrlCreateCheckbox("定时关机:", 20, 304, 73, 17)
-;~ $dtshut = GUICtrlCreateDate("2011/06/03 12:13:43", 100, 304, 138, 21, BitOR($DTS_UPDOWN, $DTS_TIMEFORMAT))
-
-;~ GUICtrlSendMsg(-1, 0x1032, 0, "yyyy/MM/dd HH:mm:ss") ; DTM_SETFORMATW
-
-;~ GUICtrlCreateGroup("", -99, -99, 1, 1)
-;~ $btnInitial = GUICtrlCreateButton("恢复默认", 24, 465, 67, 25)
-;~ $Group7 = GUICtrlCreateGroup("游戏路径", 12, 32, 481, 185)
-;~ $path1 = GUICtrlCreateInput("e:\暗黑破坏神ii毁灭之王\d2loader.exe -w -lq -direct -title d2", 104, 56, 321, 21, BitOR($GUI_SS_DEFAULT_INPUT, $WS_BORDER), BitOR($WS_EX_CLIENTEDGE, $WS_EX_STATICEDGE))
-;~ $Label16 = GUICtrlCreateLabel("程序目标:", 24, 56, 55, 17)
-;~ $Label17 = GUICtrlCreateLabel("起始位置：", 24, 80, 64, 17)
-;~ $path2 = GUICtrlCreateInput("E:\暗黑破坏神II毁灭之王", 104, 80, 289, 21)
-;~ GUICtrlSetState(-1, $GUI_DISABLE)
-;~ $Label28 = GUICtrlCreateLabel("程序名称：", 24, 104, 64, 17)
-;~ $path3 = GUICtrlCreateInput(".exe", 104, 104, 225, 21)
-;~ GUICtrlSetState(-1, $GUI_DISABLE)
-;~ $btnPath = GUICtrlCreateButton("浏览", 432, 56, 43, 25)
-;~ $Label8 = GUICtrlCreateLabel("启动参数：", 24, 152, 64, 17)
-;~ $ckbexeparm1 = GUICtrlCreateCheckbox("-W", 104, 152, 33, 17)
-;~ GUICtrlSetState(-1, $GUI_CHECKED)
-;~ GUICtrlSetState(-1, $GUI_DISABLE)
-;~ $Label9 = GUICtrlCreateLabel("窗口标题：", 24, 128, 64, 17)
-;~ $exetile = GUICtrlCreateInput("exetile", 104, 128, 97, 21)
-;~ $Label10 = GUICtrlCreateLabel("例如填：  abc  ", 216, 128, 82, 17)
-;~ $Label11 = GUICtrlCreateLabel("其他参数:", 24, 176, 55, 17)
-;~ $exeparm3 = GUICtrlCreateInput("-ns", 104, 176, 209, 21)
-;~ $Label12 = GUICtrlCreateLabel("(可不填) ", 328, 176, 49, 17)
-;~ $ckbexeparm2 = GUICtrlCreateCheckbox("-direct", 152, 152, 73, 17)
-;~ GUICtrlSetState(-1, $GUI_CHECKED)
-;~ GUICtrlSetState(-1, $GUI_DISABLE)
-;~ GUICtrlCreateGroup("", -99, -99, 1, 1)
-;~ $TabSheet2 = GUICtrlCreateTabItem("角色")
-;~ $Group1 = GUICtrlCreateGroup("帐号信息", 12, 33, 209, 113)
-;~ $Label1 = GUICtrlCreateLabel("站网帐号", 20, 57, 52, 17)
-;~ $Label2 = GUICtrlCreateLabel("站网密码", 20, 89, 52, 17)
-;~ $n1 = GUICtrlCreateInput("", 76, 57, 89, 21)
-;~ $n2 = GUICtrlCreateInput("", 76, 89, 89, 21, BitOR($GUI_SS_DEFAULT_INPUT, $ES_PASSWORD))
-;~ GUICtrlCreateGroup("", -99, -99, 1, 1)
-;~ $Group5 = GUICtrlCreateGroup("角色位置", 232, 33, 161, 113)
-;~ $RadP1 = GUICtrlCreateRadio("1", 240, 49, 65, 17)
-;~ GUICtrlSetState(-1, $GUI_CHECKED)
-;~ $RadP2 = GUICtrlCreateRadio("2", 240, 73, 65, 17)
-;~ $RadP3 = GUICtrlCreateRadio("3", 240, 97, 65, 17)
-;~ $RadP4 = GUICtrlCreateRadio("4", 240, 121, 65, 17)
-;~ $RadP5 = GUICtrlCreateRadio("5", 312, 49, 65, 17)
-;~ $RadP6 = GUICtrlCreateRadio("6", 312, 73, 65, 17)
-;~ $RadP7 = GUICtrlCreateRadio("7", 312, 97, 65, 17)
-;~ $RadP8 = GUICtrlCreateRadio("8", 312, 121, 65, 17)
-;~ GUICtrlCreateGroup("", -99, -99, 1, 1)
-;~ $Group2 = GUICtrlCreateGroup("角色攻击类型", 12, 148, 422, 225)
-;~ $Radio1 = GUICtrlCreateRadio("Bh Pal ", 28, 164, 57, 17)
-;~ $Ckbcta = GUICtrlCreateCheckbox("副手携带战争召唤 F7-战斗指挥,F8-战斗体制 ", 48, 296, 305, 17)
-;~ $Radio2 = GUICtrlCreateRadio("专用定制技能", 28, 274, 121, 17)
-;~ $Label3 = GUICtrlCreateLabel("BH:", 96, 168, 22, 17)
-;~ $cmbBH = GUICtrlCreateCombo("", 120, 168, 49, 25, BitOR($CBS_DROPDOWNLIST, $CBS_AUTOHSCROLL, $CBS_UPPERCASE))
-;~ GUICtrlSetData(-1, "F1|F2|F3|F4|F5|F6|F7|F8", "F1")
-;~ $Label4 = GUICtrlCreateLabel("普通攻击:", 176, 168, 55, 17)
-;~ $cmbNA = GUICtrlCreateCombo("", 240, 168, 49, 25, BitOR($CBS_DROPDOWNLIST, $CBS_AUTOHSCROLL, $CBS_UPPERCASE))
-;~ GUICtrlSetData(-1, "F1|F2|F3|F4|F5|F6|F7|F8", "F2")
-;~ $Label5 = GUICtrlCreateLabel("活力:", 304, 168, 31, 17)
-;~ $cmbVIG = GUICtrlCreateCombo("", 352, 168, 49, 25, BitOR($CBS_DROPDOWNLIST, $CBS_AUTOHSCROLL, $CBS_UPPERCASE))
-;~ GUICtrlSetData(-1, "F1|F2|F3|F4|F5|F6|F7|F8", "F1")
-;~ $Label6 = GUICtrlCreateLabel("专注:", 176, 200, 31, 17)
-;~ $cmbCON = GUICtrlCreateCombo("", 240, 200, 49, 25, BitOR($CBS_DROPDOWNLIST, $CBS_AUTOHSCROLL, $CBS_UPPERCASE))
-;~ GUICtrlSetData(-1, "F1|F2|F3|F4|F5|F6|F7|F8", "F1")
-;~ $Label7 = GUICtrlCreateLabel("圣盾:", 304, 200, 31, 17)
-;~ $cmbSHD = GUICtrlCreateCombo("", 352, 200, 49, 25, BitOR($CBS_DROPDOWNLIST, $CBS_AUTOHSCROLL, $CBS_UPPERCASE))
-;~ GUICtrlSetData(-1, "F1|F2|F3|F4|F5|F6|F7|F8", "F1")
-;~ $Label13 = GUICtrlCreateLabel("TP:", 176, 240, 21, 17)
-;~ $cmbTP = GUICtrlCreateCombo("", 240, 240, 49, 25, BitOR($CBS_DROPDOWNLIST, $CBS_AUTOHSCROLL, $CBS_UPPERCASE))
-;~ GUICtrlSetData(-1, "F1|F2|F3|F4|F5|F6|F7|F8", "F1")
-;~ $ckbTp = GUICtrlCreateCheckbox("有TP甲", 48, 240, 97, 17)
-;~ GUICtrlCreateGroup("", -99, -99, 1, 1)
-;~ $Group3 = GUICtrlCreateGroup("打怪方式", 12, 388, 217, 81)
-;~ $rdAttack1 = GUICtrlCreateRadio("定点释放技能规定秒数:", 24, 412, 153, 17)
-;~ $rdAttack2 = GUICtrlCreateRadio("范围找怪攻击", 24, 436, 89, 17)
-;~ $blztime = GUICtrlCreateInput("3", 184, 412, 33, 21)
-;~ GUICtrlCreateGroup("", -99, -99, 1, 1)
-;~ $TabSheet4 = GUICtrlCreateTabItem("路径")
-;~ $Group11 = GUICtrlCreateGroup("去红门路径", 16, 44, 244, 89)
-;~ $RDpath1 = GUICtrlCreateRadio("随机路线", 24, 68, 89, 17)
-;~ GUICtrlSetState(-1, $GUI_CHECKED)
-;~ $RDpath2 = GUICtrlCreateRadio("专用定制路线", 24, 92, 89, 17)
-;~ GUICtrlCreateGroup("", -99, -99, 1, 1)
-;~ $TabSheet5 = GUICtrlCreateTabItem("功能")
-;~ $Group9 = GUICtrlCreateGroup("房间名设置", 12, 33, 329, 113)
-;~ $RDnameAp = GUICtrlCreateRadio("字母房间名", 28, 49, 81, 17)
-;~ $RDnameMa = GUICtrlCreateRadio("数字房间名", 28, 73, 81, 17)
-;~ $namelenfr = GUICtrlCreateInput("3", 164, 65, 25, 21, BitOR($GUI_SS_DEFAULT_INPUT, $ES_NUMBER))
-;~ $Label21 = GUICtrlCreateLabel("到", 196, 65, 16, 17)
-;~ $namelento = GUICtrlCreateInput("6", 220, 65, 25, 21, BitOR($GUI_SS_DEFAULT_INPUT, $ES_NUMBER))
-;~ $Label22 = GUICtrlCreateLabel("位", 252, 65, 16, 17)
-;~ $Label23 = GUICtrlCreateLabel("长度:", 124, 65, 31, 17)
-;~ $Label27 = GUICtrlCreateLabel("名称前缀:", 124, 97, 55, 17)
-;~ $namepre = GUICtrlCreateInput("aa", 196, 97, 41, 21)
-;~ $RDnameAd = GUICtrlCreateRadio("房间名加1 :", 28, 97, 89, 17)
-;~ GUICtrlCreateGroup("", -99, -99, 1, 1)
-;~ $Group8 = GUICtrlCreateGroup("功能设置", 12, 152, 329, 342)
-;~ $ckbBagfull = GUICtrlCreateCheckbox("包满后关机", 28, 168, 97, 17)
-;~ $ckbRej = GUICtrlCreateCheckbox("喝去多余紫瓶", 28, 212, 121, 17)
-;~ $ckbRoledead = GUICtrlCreateCheckbox("复活角色", 28, 296, 97, 17)
-;~ $ckbAss = GUICtrlCreateCheckbox("复活雇佣兵", 28, 316, 89, 17)
-;~ $ckbBoxing = GUICtrlCreateCheckbox("包裹满是否转移到仓库", 28, 188, 137, 17)
-;~ $boxQty = GUICtrlCreateInput("8", 276, 184, 25, 21, BitOR($GUI_SS_DEFAULT_INPUT, $ES_NUMBER))
-;~ $Label20 = GUICtrlCreateLabel("少于此格数执行", 180, 184, 88, 17)
-;~ $ckbAct5 = GUICtrlCreateCheckbox("检查是否在ACT3", 28, 336, 145, 17)
-;~ $ckbHeal = GUICtrlCreateCheckbox("喝去多余红瓶", 28, 232, 137, 17)
-;~ $ckbMana = GUICtrlCreateCheckbox("喝去多余蓝瓶", 28, 252, 129, 17)
-;~ $ckbShopWater = GUICtrlCreateCheckbox("商店买红蓝", 28, 272, 89, 17)
-;~ $Label24 = GUICtrlCreateLabel("最大物品捡取次数:", 32, 399, 103, 17)
-;~ $picktime = GUICtrlCreateInput("5", 160, 399, 33, 21, BitOR($GUI_SS_DEFAULT_INPUT, $ES_NUMBER))
-;~ $ckbRepair = GUICtrlCreateCheckbox("修理装备间隔局数:", 28, 360, 121, 17)
-;~ $repairRound = GUICtrlCreateInput("100", 160, 360, 41, 21, BitOR($GUI_SS_DEFAULT_INPUT, $ES_NUMBER))
-;~ GUICtrlCreateGroup("", -99, -99, 1, 1)
-;~ $TabSheet6 = GUICtrlCreateTabItem("伪装")
-;~ $Group10 = GUICtrlCreateGroup("反BOT检测设置", 12, 40, 385, 265)
-;~ $Label30 = GUICtrlCreateLabel("连续两次以上被进房间的间隔局数", 32, 280, 184, 17)
-;~ $otherroundinterval = GUICtrlCreateInput("10", 240, 280, 33, 21, BitOR($GUI_SS_DEFAULT_INPUT, $ES_NUMBER))
-;~ $ckbRamstop = GUICtrlCreateCheckbox("达到次数暂停秒数", 20, 72, 113, 17)
-;~ $Label19 = GUICtrlCreateLabel("K3C次数:", 148, 71, 51, 17)
-;~ $kproundtime = GUICtrlCreateInput("30", 212, 71, 25, 21, BitOR($GUI_SS_DEFAULT_INPUT, $ES_NUMBER))
-;~ $Label25 = GUICtrlCreateLabel("暂停秒数:", 244, 71, 55, 17)
-;~ $ramstoptime = GUICtrlCreateInput("3600", 316, 71, 41, 21, BitOR($GUI_SS_DEFAULT_INPUT, $ES_NUMBER))
-;~ $ckbRamclose = GUICtrlCreateCheckbox("规定次数自动下线", 20, 96, 121, 17)
-;~ $kproundclosetime = GUICtrlCreateInput("50", 148, 96, 33, 21, BitOR($GUI_SS_DEFAULT_INPUT, $ES_NUMBER))
-;~ $Label29 = GUICtrlCreateLabel("线下停留分钟", 212, 98, 76, 17)
-;~ $closestoptime = GUICtrlCreateInput("20", 316, 96, 41, 21, BitOR($GUI_SS_DEFAULT_INPUT, $ES_NUMBER))
-;~ $ckbothersin = GUICtrlCreateCheckbox("检查他人进入房间", 20, 128, 113, 17)
-;~ $ckbotherimage = GUICtrlCreateCheckbox("保存陌生人图片", 36, 157, 129, 17)
-;~ $ckbotherinround = GUICtrlCreateCheckbox("一定局内连续被进房间两次以上,停止挂机", 36, 180, 241, 17)
-;~ $Group13 = GUICtrlCreateGroup("何时检查", 36, 208, 129, 57)
-;~ $beforeindoor = GUICtrlCreateRadio("开始时就检查", 44, 224, 97, 17)
-;~ $afterindoor = GUICtrlCreateRadio("退出前检查", 44, 240, 81, 17)
-;~ GUICtrlCreateGroup("", -99, -99, 1, 1)
-;~ $Group14 = GUICtrlCreateGroup("检查到的操作", 180, 208, 145, 57)
-;~ $otherinmd1 = GUICtrlCreateRadio("退出暂停规定秒数", 188, 224, 121, 17)
-;~ $otherinmd2 = GUICtrlCreateRadio("下线暂停规定分钟", 188, 240, 121, 17)
-;~ GUICtrlCreateGroup("", -99, -99, 1, 1)
-;~ GUICtrlCreateGroup("", -99, -99, 1, 1)
-;~ $TabSheet7 = GUICtrlCreateTabItem("日志")
-;~ $edtLog = GUICtrlCreateEdit("", 16, 40, 481, 401)
-;~ $readLog = GUICtrlCreateButton("读取", 88, 472, 75, 25)
-;~ $deletLog = GUICtrlCreateButton("清空", 400, 472, 75, 25)
-;~ $TabSheet8 = GUICtrlCreateTabItem("说明")
-;~ $edtRemark = GUICtrlCreateEdit("", 16, 40, 481, 457)
-;~ GUICtrlCreateTabItem("")
-;~ $StatusBar1 = _GUICtrlStatusBar_Create($Form1_1_2_1)
-;~ Dim $StatusBar1_PartsWidth[2] = [350, -1]
-;~ _GUICtrlStatusBar_SetParts($StatusBar1, $StatusBar1_PartsWidth)
-;~ _GUICtrlStatusBar_SetText($StatusBar1, "不发送任何数据包,避开Warden检测机制,请合理安排挂机时间", 0)
-;~ _GUICtrlStatusBar_SetText($StatusBar1, "QQ:1246035036", 1)
-;~ $lblversion = GUICtrlCreateLabel("挂机盒子K3C-正式版  ", 350, 10, 117, 17)
-
-
-$Form1_1_2_1 = GUICreate("", 523, 577, 398, 62)
+#Region ### START Koda GUI section ### Form=c:\guo\other\d2src\d2k3c\newk3c.kxf
+$Form1_1_2_1 = GUICreate("", 523, 576, 262, 146)
 $Tab1 = GUICtrlCreateTab(8, 8, 497, 545)
 $TabSheet1 = GUICtrlCreateTabItem("系统")
 $YesID = GUICtrlCreateButton("锁定", 404, 465, 75, 25)
@@ -221,7 +53,7 @@ $Group12 = GUICtrlCreateGroup("外部控制", 12, 280, 481, 129)
 $ckbTimeshut = GUICtrlCreateCheckbox("定时关机:", 20, 304, 73, 17)
 $dtshut = GUICtrlCreateDate("2017/07/24 12:13:43", 100, 304, 138, 21, BitOR($DTS_UPDOWN,$DTS_TIMEFORMAT))
 
-	GUICtrlSendMsg(-1, 0x1032, 0, "yyyy/MM/dd HH:mm:ss") ; DTM_SETFORMATW
+	GUICtrlSendMsg(-1, 0x1005, 0, "yyyy/MM/dd HH:mm:ss") ; DTM_SETFORMAT
 
 GUICtrlCreateGroup("", -99, -99, 1, 1)
 $btnInitial = GUICtrlCreateButton("恢复默认", 24, 465, 67, 25)
@@ -303,7 +135,7 @@ GUICtrlSetState(-1, $GUI_CHECKED)
 $RDpath2 = GUICtrlCreateRadio("专用定制路线", 24, 92, 89, 17)
 GUICtrlCreateGroup("", -99, -99, 1, 1)
 $TabSheet5 = GUICtrlCreateTabItem("功能")
-$Group9 = GUICtrlCreateGroup("房间名设置", 12, 33, 329, 113)
+$Group9 = GUICtrlCreateGroup("房间名设置", 12, 33, 329, 129)
 $RDnameAp = GUICtrlCreateRadio("字母房间名", 28, 49, 81, 17)
 $RDnameMa = GUICtrlCreateRadio("数字房间名", 28, 73, 81, 17)
 $namelenfr = GUICtrlCreateInput("3", 164, 65, 25, 21, BitOR($GUI_SS_DEFAULT_INPUT,$ES_NUMBER))
@@ -314,23 +146,25 @@ $Label23 = GUICtrlCreateLabel("长度:", 124, 65, 31, 17)
 $Label27 = GUICtrlCreateLabel("名称前缀:", 124, 97, 55, 17)
 $namepre = GUICtrlCreateInput("aa", 196, 97, 41, 21)
 $RDnameAd = GUICtrlCreateRadio("房间名加1 :", 28, 97, 89, 17)
+$RDnameNoChange = GUICtrlCreateRadio("固定名称 :", 28, 121, 89, 17)
+$nameNoChange = GUICtrlCreateInput("aa", 124, 121, 41, 21)
 GUICtrlCreateGroup("", -99, -99, 1, 1)
-$Group8 = GUICtrlCreateGroup("功能设置", 12, 152, 329, 342)
-$ckbBagfull = GUICtrlCreateCheckbox("包满后关机", 28, 168, 97, 17)
-$ckbRej = GUICtrlCreateCheckbox("喝去多余紫瓶", 28, 212, 121, 17)
-$ckbRoledead = GUICtrlCreateCheckbox("复活角色", 28, 296, 97, 17)
-$ckbAss = GUICtrlCreateCheckbox("复活雇佣兵", 28, 316, 89, 17)
-$ckbBoxing = GUICtrlCreateCheckbox("包裹满是否转移到仓库", 28, 188, 137, 17)
-$boxQty = GUICtrlCreateInput("8", 276, 184, 25, 21, BitOR($GUI_SS_DEFAULT_INPUT,$ES_NUMBER))
-$Label20 = GUICtrlCreateLabel("少于此格数执行", 180, 184, 88, 17)
-$ckbAct5 = GUICtrlCreateCheckbox("检查是否在ACT3", 28, 336, 145, 17)
-$ckbHeal = GUICtrlCreateCheckbox("喝去多余红瓶", 28, 232, 137, 17)
-$ckbMana = GUICtrlCreateCheckbox("喝去多余蓝瓶", 28, 252, 129, 17)
-$ckbShopWater = GUICtrlCreateCheckbox("商店买红蓝", 28, 272, 89, 17)
-$Label24 = GUICtrlCreateLabel("最大物品捡取次数:", 32, 399, 103, 17)
-$picktime = GUICtrlCreateInput("5", 160, 399, 33, 21, BitOR($GUI_SS_DEFAULT_INPUT,$ES_NUMBER))
-$ckbRepair = GUICtrlCreateCheckbox("修理装备间隔局数:", 28, 360, 121, 17)
-$repairRound = GUICtrlCreateInput("100", 160, 360, 41, 21, BitOR($GUI_SS_DEFAULT_INPUT,$ES_NUMBER))
+$Group8 = GUICtrlCreateGroup("功能设置", 12, 176, 329, 342)
+$ckbBagfull = GUICtrlCreateCheckbox("包满后关机", 28, 192, 97, 17)
+$ckbRej = GUICtrlCreateCheckbox("喝去多余紫瓶", 28, 236, 121, 17)
+$ckbRoledead = GUICtrlCreateCheckbox("复活角色", 28, 320, 97, 17)
+$ckbAss = GUICtrlCreateCheckbox("复活雇佣兵", 28, 340, 89, 17)
+$ckbBoxing = GUICtrlCreateCheckbox("包裹满是否转移到仓库", 28, 212, 137, 17)
+$boxQty = GUICtrlCreateInput("8", 276, 208, 25, 21, BitOR($GUI_SS_DEFAULT_INPUT,$ES_NUMBER))
+$Label20 = GUICtrlCreateLabel("少于此格数执行", 180, 208, 88, 17)
+$ckbAct5 = GUICtrlCreateCheckbox("检查是否在ACT3", 28, 360, 145, 17)
+$ckbHeal = GUICtrlCreateCheckbox("喝去多余红瓶", 28, 256, 137, 17)
+$ckbMana = GUICtrlCreateCheckbox("喝去多余蓝瓶", 28, 276, 129, 17)
+$ckbShopWater = GUICtrlCreateCheckbox("商店买红蓝", 28, 296, 89, 17)
+$Label24 = GUICtrlCreateLabel("最大物品捡取次数:", 32, 423, 103, 17)
+$picktime = GUICtrlCreateInput("5", 160, 423, 33, 21, BitOR($GUI_SS_DEFAULT_INPUT,$ES_NUMBER))
+$ckbRepair = GUICtrlCreateCheckbox("修理装备间隔局数:", 28, 384, 121, 17)
+$repairRound = GUICtrlCreateInput("100", 160, 384, 41, 21, BitOR($GUI_SS_DEFAULT_INPUT,$ES_NUMBER))
 GUICtrlCreateGroup("", -99, -99, 1, 1)
 $TabSheet6 = GUICtrlCreateTabItem("伪装")
 $Group10 = GUICtrlCreateGroup("反BOT检测设置", 12, 40, 385, 129)
@@ -358,8 +192,10 @@ _GUICtrlStatusBar_SetParts($StatusBar1, $StatusBar1_PartsWidth)
 _GUICtrlStatusBar_SetText($StatusBar1, "不发送任何数据包,避开Warden检测机制,请合理安排挂机时间", 0)
 _GUICtrlStatusBar_SetText($StatusBar1, "QQ:1246035036", 1)
 $lblversion = GUICtrlCreateLabel("挂机盒子K3C-正式版  ", 350, 10, 117, 17)
+ 
 
-
+ 
+;---以上放图形界面代码
 
 TraySetIcon("D:\autoit3\Examples\guo\D2KP\routo.ico", -1)
 $prefsitem = TrayCreateItem("参数")
@@ -543,6 +379,7 @@ Func saveinfor()
 	$avArrayName[0] = $RDnameAp
 	$avArrayName[1] = $RDnameMa
 	$avArrayName[2] = $RDnameAd
+	$avArrayName[3] = $RDnameNoChange
 
 	$avArrayPath[0] = $RDpath1
 	$avArrayPath[1] = $RDpath2
@@ -570,7 +407,7 @@ Func saveinfor()
 		EndIf
 	Next
 
-	For $i = 0 To 2 Step 1 ;write cati
+	For $i = 0 To 3 Step 1 ;write cati
 		If BitAND(GUICtrlRead($avArrayName[$i]), $GUI_CHECKED) = $GUI_CHECKED Then
 			$nameCat = $i + 1
 		EndIf
@@ -726,6 +563,7 @@ Func saveinfor()
 	IniWrite(@ScriptDir & "\" & $infofiles, "KP", "少于格数开始装箱", GUICtrlRead($boxQty))
 	IniWrite(@ScriptDir & "\" & $infofiles, "KP", "房间名格式", $nameCat)
 	IniWrite(@ScriptDir & "\" & $infofiles, "KP", "房间名前缀", GUICtrlRead($namepre))
+	IniWrite(@ScriptDir & "\" & $infofiles, "KP", "固定名称", GUICtrlRead($nameNoChange))
 	IniWrite(@ScriptDir & "\" & $infofiles, "KP", "喝去多余紫瓶", $guidrinkrej)
 	IniWrite(@ScriptDir & "\" & $infofiles, "KP", "喝去多余红瓶", $guidrinkheal)
 	IniWrite(@ScriptDir & "\" & $infofiles, "KP", "喝去多余蓝瓶", $guidrinkmana)
@@ -789,6 +627,7 @@ Func readinfor()
 	$shutdown = IniRead(@ScriptDir & "\" & $infofiles, "KP", "包裹满后关机", "1")
 	$nameCat = IniRead(@ScriptDir & "\" & $infofiles, "KP", "房间名格式", "1")
 	$guinamepre = IniRead(@ScriptDir & "\" & $infofiles, "KP", "房间名前缀", "")
+	$guinameNoChange= IniRead(@ScriptDir & "\" & $infofiles, "KP", "固定名称", "")
 	$guidrinkrej = IniRead(@ScriptDir & "\" & $infofiles, "KP", "喝去多余紫瓶", "1")
 	$guidrinkheal = IniRead(@ScriptDir & "\" & $infofiles, "KP", "喝去多余红瓶", "1")
 	$guidrinkmana = IniRead(@ScriptDir & "\" & $infofiles, "KP", "喝去多余蓝瓶", "1")
@@ -864,9 +703,11 @@ Func readinfor()
 		;功能
 		GUICtrlSetState($RDnameAp, $GUI_DISABLE)
 		GUICtrlSetState($RDnameAd, $GUI_DISABLE)
+		GUICtrlSetState($RDnameNoChange, $GUI_DISABLE)
 		GUICtrlSetState($namelenfr, $GUI_DISABLE)
 		GUICtrlSetState($namelento, $GUI_DISABLE)
 		GUICtrlSetState($namepre, $GUI_DISABLE)
+		GUICtrlSetState($nameNoChange, $GUI_DISABLE)
 		
 		GUICtrlSetState($boxQty, $GUI_DISABLE)
 		GUICtrlSetState($ckbBagfull, $GUI_DISABLE)
@@ -886,9 +727,10 @@ Func readinfor()
 		
 		
 		$nameCat = 2
-		$guinamelenfr = 1
-		$guinamelento = 4
+		$guinamelenfr = 2
+		$guinamelento = 5
 		$guinamepre = ""
+		$guinameNoChange =""
 		
 		
 		$shutdown = 0
@@ -949,6 +791,7 @@ Func readinfor()
 	GUICtrlSetData($closestoptime, $guiclosestoptime)
 	
 	GUICtrlSetData($namepre, $guinamepre)
+	GUICtrlSetData($nameNoChange, $guinameNoChange)
 	
 	GUICtrlSetData($repairRound, $guirepairRound)
 	
@@ -997,8 +840,10 @@ Func readinfor()
 			GUICtrlSetState($RDnameAp, $GUI_CHECKED)
 		Case $nameCat = 2
 			GUICtrlSetState($RDnameMa, $GUI_CHECKED)
-		Case Else
+		Case $nameCat = 3
 			GUICtrlSetState($RDnameAd, $GUI_CHECKED)
+		Case Else
+			GUICtrlSetState($RDnameNoChange, $GUI_CHECKED)
 	EndSelect
 	
 	Select

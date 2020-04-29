@@ -153,7 +153,7 @@ EndIf
 
 
 If $bindmac = 1 And $testversion = 0 Then
-	_GUICtrlStatusBar_SetText($StatusBar1, "绑定机器", 0)
+	_GUICtrlStatusBar_SetText($StatusBar1, "绑定机器" & $CpuOrDisk, 0)
 	If Not _IniVer() Then ; 绑定机器
 		gui()
 	EndIf
@@ -180,6 +180,7 @@ $parm_boxqty = $guiboxqty
 $parm_namelenfr = $guinamelenfr
 $parm_namelento = $guinamelento
 $parm_namepre = $guinamepre
+$parm_nameNoChange = $guinameNoChange
 $parm_drinkrej_plus = $guidrinkrej
 $parm_drinkheal_plus = $guidrinkheal
 $parm_drinkmana_plus = $guidrinkmana
@@ -409,7 +410,7 @@ Func runGame()
 			
 		Case Else
 			TrayTip("", "等待中，请稍后", 1, 16)
-			Sleep(Random(400, 600, 1))
+			Sleep(Random(400, 1600, 1))
 	EndSelect
 	
 	;;如果$optcount 还为0，表示没执行过任何操作，停留在某个未知界面，
@@ -469,7 +470,7 @@ Func activeWindow()
 			;$handle = WinActivate($title)
 			;Send("{ENTER}")
 			;If @error <> 0 Then
-			MsgBox(32, "错误", "请先设置好正确的路径")
+			MsgBox(32, "错误", "请先设置好正确的路径，并用管理员权限打开")
 			Exit
 		Else
 			Sleep(3000)
@@ -1010,8 +1011,10 @@ Func createRoom() ;建立战网游戏房间名
 		ControlSend($title, "", "", $str)
 	ElseIf $nameCat = 2 Then
 		ControlSend($title, "", "", Random(10 ^ $parm_namelenfr - 1, 10 ^ $parm_namelento - 1, 1))
-	Else
+	ElseIf $nameCat = 3 Then
 		ControlSend($title, "", "", $parm_namepre & $ct)
+	Else 
+		ControlSend($title, "", "", $parm_nameNoChange)
 	EndIf
 
 	Sleep(500)

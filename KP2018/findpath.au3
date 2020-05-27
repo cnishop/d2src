@@ -577,24 +577,24 @@ Func anhei3()
 			MouseClick('left', $coord[0] + 50, $coord[1] + 100)
 			Sleep(300)
 			CheckMove($Char_CheckMoveDelay)
-			;Sleep(1000)
+			Sleep(1000)
 		Else
 			TrayTip("", "∆‰À˚—∞’“", 9, 16)
 			Sleep(1000)
 		EndIf
 		MouseMove(410, 510)
 		MouseClick("left", 410, 510)
-		Sleep(200)
+		Sleep(800)
 		CheckMove($Char_CheckMoveDelay)
 
 		MouseMove(100, 440)
 		MouseClick("left", 100, 440)
-		Sleep(200)
+		Sleep(800)  ;200
 		CheckMove($Char_CheckMoveDelay)
 
 		MouseMove(100, 440)
 		MouseClick("left", 100, 440)
-		Sleep(200)
+		Sleep(800)
 		CheckMove($Char_CheckMoveDelay)
 
 
@@ -615,17 +615,17 @@ Func anhei3()
 		EndIf
 		MouseMove(410, 510)
 		MouseClick("left", 410, 510)
-		Sleep(300)
+		Sleep(500)
 		CheckMove($Char_CheckMoveDelay)
 
 		MouseMove(100, 440)
 		MouseClick("left", 100, 440)
-		Sleep(300)
+		Sleep(800)
 		CheckMove($Char_CheckMoveDelay)
 
 		MouseMove(100, 440)
 		MouseClick("left", 100, 440)
-		Sleep(300)
+		Sleep(800)
 		CheckMove($Char_CheckMoveDelay)
 		
 		Sleep(200)

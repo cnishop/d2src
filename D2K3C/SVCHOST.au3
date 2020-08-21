@@ -11,8 +11,8 @@ Global $testversion = 0 ;  是测试版 1   0 为正式版
 
 ;///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////各种版本
 Local $acountArray[2] ;用于绑定帐号
-$acountArray[0] = "1347613266"
-$acountArray[1] = "1347613266"
+$acountArray[0] = "khrrunes"
+$acountArray[1] = "khrrunes"
 
 $bindmac = 1 ;绑定机器
 $bindacc = 0 ;绑定帐号

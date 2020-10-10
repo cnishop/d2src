@@ -1,11 +1,11 @@
 [KP]
-帐号=khrrunes
+帐号=212
 密码=31
 cta=0
 类型=1
 位置=1
-程序目标=D:\BaiduYunDownload\d2111\91D2Loader.exe
-起始位置=D:\BaiduYunDownload\d2111\
+程序目标=C:\GUO\other\d2\d2111\91D2Loader.exe
+起始位置=C:\GUO\other\d2\d2111\
 程序名称=91D2Loader.exe
 其他参数=-lq -ns -pdir map
 窗口标题=d2
@@ -25,7 +25,7 @@ bh释放持续时间=16
 房间名长度下限=2
 房间名长度上限=5
 是否定时关机=0
-定时关机时间=17
+定时关机时间=20
 物品循环捡取次数=15
 检查是否在ACT3=0
 规定次数随机事件=1

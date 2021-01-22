@@ -11,11 +11,11 @@ Global $testversion = 0 ;  是测试版 1   0 为正式版
 
 ;///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////各种版本
 Local $acountArray[2] ;用于绑定帐号
-$acountArray[0] = "khrrunes"
-$acountArray[1] = "khrrunes"
+$acountArray[0] = "13729071966"
+$acountArray[1] = "13729071966"
 
-$bindmac = 1 ;绑定机器
-$bindacc = 0 ;绑定帐号
+$bindmac = 0 ;绑定机器
+$bindacc = 1 ;绑定帐号
 $bindlimitCount = 0 ;  绑定次数
 $bindTime = 0 ;数据库中的次数  ;只测试版用到
 
